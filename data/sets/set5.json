@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "stem": "If the members of the ___ community do not possess the rights in question, then they must belong to some other grouping, whether agencies of the state, local councillors, professional bodies or even students.",
+    "options": ["scholarly", "medical", "academic", "political"],
+    "answer": "C",
+    "word": "academic",
+    "meaning": "学术的；学术界的",
+    "explanation": "academic community 指“学术共同体、学术界”，与后文列举的“国家机构、地方议员、专业团体甚至学生”这一组围绕学术生活的群体相呼应；scholarly 侧重“有学者风范的、博学的”，medical“医学的”、political“政治的”都不能概括这一群体。",
+    "stemZh": "如果学术共同体的成员不具备所讨论的权利，那么他们必定属于其他某个群体，无论是国家机构、地方议员、专业团体还是学生。"
+  },
+  {
+    "n": 2,
+    "stem": "This research analyses, in terms of conventional capital stock ___ models, the acquisition of agricultural machinery as an act of investment, indeed.",
+    "options": ["orientation", "adjustment", "revision", "variation"],
+    "answer": "B",
+    "word": "adjustment",
+    "meaning": "调整",
+    "explanation": "capital stock adjustment models 是经济学术语，指“资本存量调整模型”，即通过调整资本存量来解释投资；orientation“方向”、revision“修订”、variation“变化”都不能与 models 构成这一固定术语。",
+    "stemZh": "这项研究从传统的资本存量调整模型角度，把农业机械的购置分析为一种投资行为。"
+  },
+  {
+    "n": 3,
+    "stem": "The government proposes to ___ the balance between these methods of finance, more than doubling the tuition fees and correspondingly reducing the direct funding of higher education institutions.",
+    "options": ["alter", "convert", "reform", "transform"],
+    "answer": "A",
+    "word": "alter",
+    "meaning": "改变，调整",
+    "explanation": "alter the balance 表示“改变……的平衡格局”，强调对既有比例关系作调整，与后文“学费提高一倍以上、相应削减直接拨款”吻合；convert 指“转换、使转变”，reform 指“改革制度”，transform 指“彻底改变形态”，程度和搭配都不合适。",
+    "stemZh": "政府提议改变这些筹资方式之间的平衡：将学费提高一倍以上，并相应削减对高等教育机构的直接拨款。"
+  },
+  {
+    "n": 4,
+    "stem": "The draft statement had to undergo some further minor ___, but was substantially accepted by the executive.",
+    "options": ["matter", "scale", "function", "amendment"],
+    "answer": "D",
+    "word": "amendment",
+    "meaning": "修改，修正",
+    "explanation": "amendment 可与 undergo 搭配，指文件“经过修改”；minor amendment 是常见搭配，意为“小幅修改”。matter“事情”、scale“规模”、function“功能”都不能表示对文本的修改。",
+    "stemZh": "这份声明草案还需经过若干进一步的小幅修改，但实质上已为管理层所接受。"
+  },
+  {
+    "n": 5,
+    "stem": "Yet, it is important that young readers should be ___ whether they are being directly invited to find an answer, or whether they are being led, through the history of a discovery.",
+    "options": ["acceptable", "aware", "acknowledged", "acquainted"],
+    "answer": "B",
+    "word": "aware",
+    "meaning": "意识到的，知道的",
+    "explanation": "be aware whether... 表示“意识到是否……”，符合“让年轻读者分清自己是被直接要求找答案，还是被引导着了解发现过程”的语义。acceptable“可接受的”不接 whether 从句；acknowledged“被认可的”、acquainted“熟悉的”也不能这样用。",
+    "stemZh": "然而重要的是，年轻读者应当意识到：自己究竟是被直接要求寻找答案，还是被引导着走过一段发现的历史。"
+  },
+  {
+    "n": 6,
+    "stem": "The suggestion is that the spiral possesses the ___ to move energy from one level to another or from one vibration to another—to act as a channel or interface.",
+    "options": ["implementation", "completion", "capacity", "accomplishment"],
+    "answer": "C",
+    "word": "capacity",
+    "meaning": "能力；容量",
+    "explanation": "possess the capacity to do sth 意为“具备做某事的能力”，capacity 也常与 possess 搭配；implementation“实施”、completion“完成”、accomplishment“成就”都不表示“能力”。",
+    "stemZh": "该观点认为，这种螺旋结构具备把能量从一个能级传递到另一个能级、或从一种振动传递到另一种振动的能力，从而充当通道或界面。"
+  },
+  {
+    "n": 7,
+    "stem": "Pragmatism ___ the dominance in philosophy of the idea of the “mental eye”; of the idea of analysing perception and knowledge in terms of the model of mental seeing.",
+    "options": ["challenges", "coordinates", "executes", "deteriorates"],
+    "answer": "A",
+    "word": "challenge",
+    "meaning": "挑战，质疑",
+    "explanation": "challenge the dominance 是固定搭配，意为“挑战……的主导地位”，符合实用主义质疑“心灵之眼”这一哲学观念主导地位的语境；coordinate“协调”、execute“执行”、deteriorate“恶化”均不合语义。",
+    "stemZh": "实用主义挑战了“心灵之眼”这一观念在哲学中的主导地位，也挑战了以“心灵观看”为模型来分析知觉与知识的观念。"
+  },
+  {
+    "n": 8,
+    "stem": "More common is the seller who, having inserted an exclusion ___ into his conditions of sale, relies on his buyer not bothering to read (or not understanding) the small print.",
+    "options": ["catchphrase", "indicator", "means", "clause"],
+    "answer": "D",
+    "word": "clause",
+    "meaning": "条款",
+    "explanation": "exclusion clause 是法律术语，意为“免责条款”，与 conditions of sale（销售条件）以及小字印刷的合同条文相呼应；catchphrase“流行语”、indicator“指标”、means“手段”都不能指合同条款。",
+    "stemZh": "更常见的是这样的卖家：他在销售条件中加入一条免责条款，然后指望买家懒得去读（或读不懂）那些小字。"
+  },
+  {
+    "n": 9,
+    "stem": "Free radicals may also play a part in producing organic ___ with metallic properties in chemical and biological process.",
+    "options": ["complexities", "compounds", "combinations", "dissociations"],
+    "answer": "B",
+    "word": "compound",
+    "meaning": "化合物",
+    "explanation": "organic compound 是化学术语“有机化合物”，与 with metallic properties 搭配；complexity“复杂性”、combination“组合”、dissociation“解离”都不表示这一化学概念。",
+    "stemZh": "在化学和生物过程中，自由基也可能参与生成具有金属性质的有机化合物。"
+  },
+  {
+    "n": 10,
+    "stem": "Forestry is to a certain extent in ___ with agriculture not only because it removes large areas of land from farming for 50 or more years, but also because in its modern forms of organisation it tends to employ fewer local people.",
+    "options": ["regard", "relief", "conflict", "strike"],
+    "answer": "C",
+    "word": "conflict",
+    "meaning": "冲突，矛盾",
+    "explanation": "in conflict with 是固定搭配，意为“与……相冲突、相抵触”，说明林业与农业在用地和就业上的矛盾；in regard with 不成立，in relief 意为“浮雕式地”，strike 也不构成该搭配。",
+    "stemZh": "林业在一定程度上与农业相冲突：它不仅使大片土地在五十年或更长时间内退出耕作，而且其现代组织形式往往雇用更少的当地居民。"
+  },
+  {
+    "n": 11,
+    "stem": "Restrictions would not take place until a process of ___ with representative of various relevant bodies, including animal welfare groups, had taken place.",
+    "options": ["consultation", "talking over", "taking advice", "meeting"],
+    "answer": "A",
+    "word": "consultation",
+    "meaning": "磋商，咨询",
+    "explanation": "a process of consultation with sb 是正式表达，意为“与某人磋商的过程”，符合法规出台前征询各方意见的正式语境；talking over 偏口语，taking advice 搭配不当，meeting 只强调“会面”而非“征询意见”。",
+    "stemZh": "在完成与相关各方代表（包括动物福利团体）的磋商程序之前，限制措施不会实施。"
+  },
+  {
+    "n": 12,
+    "stem": "In the most general case, the crystals of the various grains are randomly oriented in space. The grains are everywhere in intimate ___ with one another and joined together on an atomic scale.",
+    "options": ["surrounding", "contact", "chamber", "association"],
+    "answer": "B",
+    "word": "contact",
+    "meaning": "接触",
+    "explanation": "in intimate contact with 意为“与……紧密接触”，是固定搭配，描述晶粒彼此紧密相连；surrounding“周围”、chamber“腔室”、association“联系”都不能构成 in intimate ... with 的搭配。",
+    "stemZh": "在最一般的情况下，各种晶粒的晶体在空间中是随机取向的。晶粒处处彼此紧密接触，并在原子尺度上结合在一起。"
+  },
+  {
+    "n": 13,
+    "stem": "Repeated failures of this nature may ultimately result in decay of the irrigation system and subsequent ___ of the local economy.",
+    "options": ["devaluation", "approach", "measure", "decline"],
+    "answer": "D",
+    "word": "decline",
+    "meaning": "衰退，下降",
+    "explanation": "由前面的 decay（衰败）可推断此处指经济的“衰退”，decline of the local economy 是常见搭配；devaluation 指货币“贬值”，approach“方法”、measure“措施”都与 and subsequent 的递进语义不符。",
+    "stemZh": "这类反复出现的故障最终可能导致灌溉系统衰败，并使当地经济随之衰退。"
+  },
+  {
+    "n": 14,
+    "stem": "The way in which bank managers exercise their individual ___ over loan applications (often in a personal interview) seems to be a daunting prospect to many people often, perhaps, correctly.",
+    "options": ["objectivity", "freedom", "discretion", "caution"],
+    "answer": "C",
+    "word": "discretion",
+    "meaning": "自由裁量权",
+    "explanation": "exercise one's discretion over sth 意为“对……行使自由裁量权”，是正式用法，符合银行经理审批贷款时自行决定的语境；objectivity“客观性”、freedom“自由”（不与 over 这样搭配表示裁量权）、caution“谨慎”都不合适。",
+    "stemZh": "银行经理对贷款申请行使个人自由裁量权的方式（通常是在面谈中），在许多人看来似乎令人生畏，也许他们往往是对的。"
+  },
+  {
+    "n": 15,
+    "stem": "The ___ directive has, however, been criticised because not only would it extend data protection to manual data but it would also have a substantial impact on charities which depend on direct mail to get support and sponsorship.",
+    "options": ["draft", "issue", "law", "provision"],
+    "answer": "A",
+    "word": "draft",
+    "meaning": "草拟的，草案的",
+    "explanation": "draft directive 意为“指令草案”，是文件尚未正式通过时的固定说法，与后文对其潜在影响的批评相合；issue“议题”、provision“条款”不能修饰 directive 表示“草案”，law 则意味着已经生效。",
+    "stemZh": "然而，这项指令草案受到了批评，因为它不仅会把数据保护扩展到手工数据，还会对那些依靠直邮获取支持和赞助的慈善机构产生重大影响。"
+  },
+  {
+    "n": 16,
+    "stem": "Intermediate Technology ___ poor people in the Third World to develop and use technologies and methods which give them more control over their lives and which contribute to the long-term development of their communities.",
+    "options": ["refers to", "enables", "assigns", "handicaps"],
+    "answer": "B",
+    "word": "enable",
+    "meaning": "使能够",
+    "explanation": "enable sb to do sth 意为“使某人能够做某事”，与后面不定式 to develop and use 搭配；refer to 后不能接 sb to do，assign“分配”、handicap“妨碍”语义也不通。",
+    "stemZh": "中间技术使第三世界的穷人能够开发和使用各种技术和方法，这些技术让他们更能掌控自己的生活，并有助于其社区的长期发展。"
+  },
+  {
+    "n": 17,
+    "stem": "A “renewable ___ source” is one which does not depend on finite reserves of either fossil or nuclear fuels.",
+    "options": ["item", "electricity", "staff", "energy"],
+    "answer": "D",
+    "word": "energy",
+    "meaning": "能源",
+    "explanation": "renewable energy source 是固定术语“可再生能源”，与 does not depend on finite reserves of fossil or nuclear fuels 这一定义完全对应；item“项目”、electricity“电力”、staff“人员”都不合适。",
+    "stemZh": "“可再生能源”指的是不依赖化石燃料或核燃料有限储量的能源。"
+  },
+  {
+    "n": 18,
+    "stem": "Strict ___ of speed limits on motorways and other main roads in Britain would lead to a reduction in fuel consumption which would in turn reduce the country’s pollution problems, according to the Earth Resources Research.",
+    "options": ["reference", "indication", "enforcement", "realization"],
+    "answer": "C",
+    "word": "enforcement",
+    "meaning": "执行，执法",
+    "explanation": "strict enforcement of speed limits 意为“严格执行限速规定”，是常见搭配；reference“参考”、indication“指示”、realization“实现”都不能表示对法规的执法。",
+    "stemZh": "据地球资源研究机构称，在英国高速公路和其他主要道路上严格执行限速，将降低燃油消耗，进而缓解该国的污染问题。"
+  },
+  {
+    "n": 19,
+    "stem": "First the professor will describe various genetic ___ — viruses, phages, plasmids, and transposons — which are even simpler than bacteria.",
+    "options": ["bodies", "entities", "parts", "objects"],
+    "answer": "B",
+    "word": "entity",
+    "meaning": "实体",
+    "explanation": "genetic entities 指“遗传实体”，用以概括病毒、噬菌体、质粒、转座子等独立的遗传单位；body 多指“身体、团体”，parts 指“部件”，objects 指“物体”，都不如 entity 准确地表示“独立存在的实体”。",
+    "stemZh": "教授首先会介绍各种遗传实体——病毒、噬菌体、质粒和转座子——它们比细菌还要简单。"
+  },
+  {
+    "n": 20,
+    "stem": "The question of whether the cash ___ of providing a benefit to an employee should be calculated as the marginal cost or average cost of providing the benefit is currently under consideration by the House of Lords.",
+    "options": ["similarity", "grant", "equivalent", "counterpart"],
+    "answer": "C",
+    "word": "equivalent",
+    "meaning": "等价物",
+    "explanation": "cash equivalent 是固定搭配，意为“现金等价物”，指以现金形式计算的福利价值；similarity“相似性”、grant“补助金”、counterpart“对应物”都不构成这一术语。",
+    "stemZh": "向员工提供某项福利的现金等价物应按提供该福利的边际成本还是平均成本计算，这一问题目前正由英国上议院审议。"
+  },
+  {
+    "n": 21,
+    "stem": "The professor points to an inevitable parallel here between biological ___ and cognitive development in the life of an individual.",
+    "options": ["emergence", "evolution", "incubation", "creation"],
+    "answer": "B",
+    "word": "evolution",
+    "meaning": "进化，演化",
+    "explanation": "biological evolution 是固定术语“生物进化”，与 cognitive development 构成平行对比；emergence“出现”、incubation“孵化”、creation“创造”都不足以表达物种层面的演化过程。",
+    "stemZh": "教授指出，在个体生命历程中，生物进化与认知发展之间存在一种不可避免的相似性。"
+  },
+  {
+    "n": 22,
+    "stem": "This economic ___ required a large number of unskilled as well as skilled recruits to a “labour force” from abroad because the locals were not willing to work long and unsocial hours with low wages coupled with poor and insecure working conditions.",
+    "options": ["compassion", "concession", "expansion", "grievance"],
+    "answer": "C",
+    "word": "expansion",
+    "meaning": "扩张，发展",
+    "explanation": "economic expansion 意为“经济扩张”，与后文需要从国外招募大量劳动力相呼应；compassion“同情”、concession“让步”、grievance“不满”都与“需要招募劳动力”的语境不符。",
+    "stemZh": "这种经济扩张需要从国外招募大量熟练和非熟练劳动力加入“劳动大军”，因为当地人不愿在低工资、工作条件又差又不稳定的情况下长时间从事非正常时段的劳动。"
+  },
+  {
+    "n": 23,
+    "stem": "The true effect on wild dolphin populations of prolonged ___ to chemical pollutants is hard to measure in marine environment.",
+    "options": ["exposure", "approaching", "susceptibility", "frontage"],
+    "answer": "A",
+    "word": "exposure",
+    "meaning": "暴露，接触",
+    "explanation": "prolonged exposure to chemical pollutants 意为“长期接触化学污染物”，是环境科学中的常用搭配；approaching“接近”、susceptibility“易感性”、frontage“临街面”都不合适。",
+    "stemZh": "在海洋环境中，长期接触化学污染物对野生海豚种群的真正影响难以衡量。"
+  },
+  {
+    "n": 24,
+    "stem": "With information obtained from the ___ and internal assessments, enterprises are now able to identify the strategic issues that win competitions among partners.",
+    "options": ["extrinsic", "exterior", "accidental", "external"],
+    "answer": "D",
+    "word": "external",
+    "meaning": "外部的",
+    "explanation": "external 与 internal 相对，external and internal assessments 意为“外部与内部评估”，是固定搭配；extrinsic 指“外在的、非本质的”，exterior 多指“外表的”，accidental“偶然的”都不与 internal 对应。",
+    "stemZh": "借助外部评估和内部评估获得的信息，企业如今能够识别出在合作伙伴竞争中取胜的战略问题。"
+  },
+  {
+    "n": 25,
+    "stem": "The initiative is part of a wider effort to ___ the development of applications that will run on future generations of parallel architectures without loss of performance.",
+    "options": ["assist", "hinder", "facilitate", "engage"],
+    "answer": "C",
+    "word": "facilitate",
+    "meaning": "促进，使便利",
+    "explanation": "facilitate the development 意为“促进……的开发”，符合“为未来并行架构上的应用开发提供便利”的积极语义；assist 通常作 assist sb in doing，hinder“阻碍”与语义相反，engage“从事”不搭。",
+    "stemZh": "这项计划是一项更大努力的一部分，旨在促进那些能在未来几代并行架构上运行而不损失性能的应用程序的开发。"
+  },
+  {
+    "n": 26,
+    "stem": "This is perhaps the most ___ principle of sign systems: no matter how much they are able to draw from a sign language they attempt to match their production to the spoken language which is produced simultaneously.",
+    "options": ["primitive", "fundamental", "preliminary", "radical"],
+    "answer": "B",
+    "word": "fundamental",
+    "meaning": "基本的，根本的",
+    "explanation": "fundamental principle 意为“基本原则”，说明这是符号系统最根本的规则；primitive“原始的”、preliminary“初步的”、radical“激进的”都不如 fundamental 贴切。",
+    "stemZh": "这也许是符号系统最基本的原则：无论它们能从手语中汲取多少，它们都试图使自己的产出与同时产生的有声语言相匹配。"
+  },
+  {
+    "n": 27,
+    "stem": "A part of the computer ___ special electronic signals which cause the characters to be displayed on the screen.",
+    "options": ["brings about", "gives rise to", "gives birth to", "generates"],
+    "answer": "D",
+    "word": "generate",
+    "meaning": "产生，生成",
+    "explanation": "generate signals 意为“产生信号”，是电子技术中的正式用语；bring about、give rise to 多指“引起（结果）”，give birth to 多用于比喻“孕育”，都不如 generate 直接准确。",
+    "stemZh": "计算机的某个部件会产生特殊的电子信号，这些信号使字符显示在屏幕上。"
+  },
+  {
+    "n": 28,
+    "stem": "Despite much popular mythology about “the ___ gap”, such standards are startlingly similar to parental values, though the similarities are masked by different youth styles or expressions.",
+    "options": ["gender", "generation", "yawning", "identity"],
+    "answer": "B",
+    "word": "generation",
+    "meaning": "代，一代人",
+    "explanation": "generation gap 是固定表达“代沟”，与后文“年轻人的风格或表达方式”相呼应；gender gap“性别差距”、yawning gap“巨大差距”、identity 都不构成这一固定说法。",
+    "stemZh": "尽管关于“代沟”有种种流行的说法，但这些标准与父母的价值观惊人地相似，只是这种相似性被不同的青年风格或表达方式掩盖了。"
+  },
+  {
+    "n": 29,
+    "stem": "Exploring the multiple possibilities of photographic ___, the artists use a kaleidoscope of new visual technologies to spectacular effect. The audience is invited to literally enter and participate in the works on show.",
+    "options": ["images", "portrayal", "vision", "reflection"],
+    "answer": "A",
+    "word": "image",
+    "meaning": "影像，图像",
+    "explanation": "photographic images 意为“摄影影像”，是常用搭配，与后文“视觉技术、作品”相合；portrayal“描绘”、vision“视力、愿景”、reflection“倒影、反思”都不如 images 具体。",
+    "stemZh": "艺术家们探索摄影影像的多种可能性，运用万花筒般的新视觉技术营造出壮观的效果，并邀请观众真正走进并参与到展出的作品中。"
+  },
+  {
+    "n": 30,
+    "stem": "In the classical ___ view, trade unions, like business monopolies, are impediments to competition among producers in the free marketplace.",
+    "options": ["orthodox", "literal", "liberal", "naive"],
+    "answer": "C",
+    "word": "liberal",
+    "meaning": "自由主义的",
+    "explanation": "the classical liberal view 意为“古典自由主义观点”，是政治经济学术语，主张自由市场、视垄断与工会限制为竞争的障碍；orthodox“正统的”、literal“字面的”、naive“天真的”都不构成这一固定说法。",
+    "stemZh": "在古典自由主义观点看来，工会与企业垄断一样，都是自由市场中生产者之间竞争的障碍。"
+  },
+  {
+    "n": 31,
+    "stem": "An exclusive ___ will be appropriate between an independent software writer and a software publisher who undertakes to market the programs on behalf of the writer.",
+    "options": ["licence", "approval", "credit", "account"],
+    "answer": "A",
+    "word": "licence",
+    "meaning": "许可证，授权",
+    "explanation": "exclusive licence 意为“独家许可”，指软件作者授予出版商独家发行权，是知识产权领域的固定术语；approval“批准”、credit“信用”、account“账户”都不合适。",
+    "stemZh": "在独立软件作者与代其销售程序的软件出版商之间，签订一份独家许可协议是合适的。"
+  },
+  {
+    "n": 32,
+    "stem": "The ___ of transnational production and marketing is at least partly based on standardization.",
+    "options": ["pro", "sense", "coherence", "logic"],
+    "answer": "D",
+    "word": "logic",
+    "meaning": "逻辑",
+    "explanation": "the logic of... 意为“……的逻辑、内在道理”，说明跨国生产与营销之所以如此，部分源于标准化，语义通顺；pro“赞成理由”、sense“意义”、coherence“连贯性”都不能这样概括。",
+    "stemZh": "跨国生产与营销的逻辑至少部分建立在标准化的基础上。"
+  },
+  {
+    "n": 33,
+    "stem": "If both firms behave that way, prices will get driven down towards ___ cost and industry profits will suffer.",
+    "options": ["relative", "marginal", "substantial", "modest"],
+    "answer": "B",
+    "word": "marginal",
+    "meaning": "边际的",
+    "explanation": "marginal cost 是经济学固定术语“边际成本”，指每多生产一单位产品所增加的成本，价格被压向边际成本正是竞争加剧的结果；relative“相对的”、substantial“可观的”、modest“适度的”都不构成该术语。",
+    "stemZh": "如果两家公司都那样做，价格就会被压低到接近边际成本，行业利润将受损。"
+  },
+  {
+    "n": 34,
+    "stem": "Businesses are being launched on the mobile platform to provide a wide range of services from ___ diagnosis, to pharmaceutical authentication, to payment and finance systems.",
+    "options": ["malicious", "technological", "medical", "legal"],
+    "answer": "C",
+    "word": "medical",
+    "meaning": "医疗的",
+    "explanation": "medical diagnosis 意为“医疗诊断”，与后面的药品认证、支付与金融系统并列，构成移动平台上的服务类别；malicious“恶意的”、technological“技术的”、legal“法律的”都不能修饰 diagnosis 表示这一服务。",
+    "stemZh": "企业正纷纷在移动平台上创业，提供从医疗诊断、药品认证到支付与金融系统的广泛服务。"
+  },
+  {
+    "n": 35,
+    "stem": "Physical disability or ___ disturbance can lead to difficulties shopping for food, and in its preparation and cooking.",
+    "options": ["mental", "emotional", "frantic", "civil"],
+    "answer": "A",
+    "word": "mental",
+    "meaning": "精神的，心理的",
+    "explanation": "mental disturbance 意为“精神障碍”，与 physical disability 并列，指身体或精神方面的障碍；emotional“情绪的”、frantic“狂乱的”、civil“公民的”都不构成这一固定说法。",
+    "stemZh": "身体残疾或精神障碍会导致购买食物以及备餐和烹饪方面的困难。"
+  },
+  {
+    "n": 36,
+    "stem": "Although, historically, man has ___ animal behaviour, and its physical characteristics for his own benefit, we have only now begun to weigh the ethical consequences of our activities with animals.",
+    "options": ["observed", "related", "modified", "exhibited"],
+    "answer": "C",
+    "word": "modify",
+    "meaning": "改变，改造",
+    "explanation": "modify animal behaviour 意为“改变动物行为”，与“为自身利益而改变其生理特征”并列，引出如今才反思伦理后果的转折；observe“观察”、relate“联系”、exhibit“展示”都不能体现“人为改造”。",
+    "stemZh": "尽管历史上人类为了自身利益一直在改变动物的行为及其生理特征，但直到现在，我们才开始权衡自己与动物相关的活动所带来的伦理后果。"
+  },
+  {
+    "n": 37,
+    "stem": "A full engine management system ___ performance and controls the fuel injection and ignition systems.",
+    "options": ["processes", "observes", "conducts", "monitors"],
+    "answer": "D",
+    "word": "monitor",
+    "meaning": "监测，监控",
+    "explanation": "monitor performance 意为“监测性能”，与 controls 并列，描述发动机管理系统对性能的实时监控和对燃油喷射、点火系统的控制；process“处理”、observe“观察”、conduct“实施”都不能准确表达“监控”。",
+    "stemZh": "完整的发动机管理系统会监测性能，并控制燃油喷射和点火系统。"
+  },
+  {
+    "n": 38,
+    "stem": "There is, in fact, a complex ___ of gene interactions, the product of one gene controlling the activity of others which involves an intimate relationship between nucleus (细胞核) and cytoplasm (细胞质).",
+    "options": ["web", "network", "squad", "grille"],
+    "answer": "B",
+    "word": "network",
+    "meaning": "网络",
+    "explanation": "a complex network of gene interactions 意为“复杂的基因相互作用网络”，是生物学术语的常见表达；web 多指“网、蛛网”，squad“小队”、grille“格栅”都不合适。",
+    "stemZh": "事实上，基因相互作用构成一个复杂的网络：一个基因的产物控制着其他基因的活动，而这涉及细胞核与细胞质之间的密切关系。"
+  },
+  {
+    "n": 39,
+    "stem": "In modern medicine, AIDS has challenged the ___ that medical science can conquer all disease.",
+    "options": ["input", "comment", "stance", "notion"],
+    "answer": "D",
+    "word": "notion",
+    "meaning": "观念，想法",
+    "explanation": "challenge the notion that... 意为“挑战……这一观念”，指艾滋病动摇了“医学能征服一切疾病”的信念；input“投入”、comment“评论”、stance“立场”都不能与 that 同位语从句这样搭配表达“观念”。",
+    "stemZh": "在现代医学中，艾滋病挑战了“医学能够征服一切疾病”这一观念。"
+  },
+  {
+    "n": 40,
+    "stem": "Sociologists have more ___ criteria for defining social class, based on categories such as occupation, income and wealth, and broadly speaking, following on from these education, lifestyle and behavioural characteristics.",
+    "options": ["accepted", "real", "objective", "straight"],
+    "answer": "C",
+    "word": "objective",
+    "meaning": "客观的",
+    "explanation": "objective criteria 意为“客观标准”，指以职业、收入、财富等可衡量的类别为依据，与主观判断相对；accepted“公认的”、real“真实的”、straight“直率的”都不如 objective 准确。",
+    "stemZh": "社会学家在界定社会阶层时拥有更客观的标准，其依据是职业、收入和财富等类别，进而大致还包括教育、生活方式和行为特征。"
+  },
+  {
+    "n": 41,
+    "stem": "In business context, organizations can have a number of different ___ towards their markets.",
+    "options": ["orientations", "profits", "power", "yields"],
+    "answer": "A",
+    "word": "orientation",
+    "meaning": "定位，取向",
+    "explanation": "orientation towards sth 意为“对……的取向、定位”，是较正式的搭配，指组织对市场所持的不同态度与战略定位；profits“利润”、power“权力”、yields“收益”都不能与 towards 这样搭配。",
+    "stemZh": "在商业语境中，组织对其市场可以有若干不同的取向。"
+  },
+  {
+    "n": 42,
+    "stem": "From a customer service ___, will the rule make patients more likely to pay their bills?",
+    "options": ["requirement", "perspective", "outlook", "regulation"],
+    "answer": "B",
+    "word": "perspective",
+    "meaning": "视角，角度",
+    "explanation": "from a ... perspective 是固定表达，意为“从……的角度看”，符合“从客户服务的角度”这一语境；requirement“要求”、outlook“前景”、regulation“规定”都不能构成该搭配。",
+    "stemZh": "从客户服务的角度来看，这条规定会让病人更愿意支付账单吗？"
+  },
+  {
+    "n": 43,
+    "stem": "There is no ___ definition of a storm but it must be noted that strong winds (unless storm force) or heavy rain alone do not constitute a storm.",
+    "options": ["precise", "sound", "realistic", "unique"],
+    "answer": "A",
+    "word": "precise",
+    "meaning": "精确的，确切的",
+    "explanation": "precise definition 意为“精确的定义”，与后文“单凭强风或暴雨都不构成风暴”的模糊性说明相呼应；sound“合理的”、realistic“现实的”、unique“唯一的”都不如 precise 贴合“定义难以界定”之意。",
+    "stemZh": "风暴并没有精确的定义，但必须指出，仅有强风（除非达到风暴级）或仅有暴雨都不构成风暴。"
+  },
+  {
+    "n": 44,
+    "stem": "We have seen that a ___ cognitive function in higher animals is the representation of organized information for cognitive, sometimes conscious, evaluation in relation to the current experiential continuum.",
+    "options": ["high-level", "select", "first-rate", "prime"],
+    "answer": "D",
+    "word": "prime",
+    "meaning": "主要的，首要的",
+    "explanation": "prime 意为“主要的、首要的”，a prime cognitive function 指“一项主要的认知功能”，是正式用语；high-level“高层的”、select“精选的”、first-rate“一流的”都不如 prime 贴切地表示“主要的”。",
+    "stemZh": "我们已经看到，高等动物的一项主要认知功能，是把有组织的信息表征出来，以便结合当前的经验连续体进行认知的、有时是有意识的评价。"
+  },
+  {
+    "n": 45,
+    "stem": "Employees are afraid mental illnesses would cause them to lose their jobs and financial stability, and those who admit it do not know where to find help and therapy, for hardly any medical insurance cover clinical ___ treatments.",
+    "options": ["archaeology", "pharmacy", "psychology", "acupuncture"],
+    "answer": "C",
+    "word": "psychology",
+    "meaning": "心理学",
+    "explanation": "由前面的 mental illnesses（精神疾病）可知应选 psychology，clinical psychology treatments 意为“临床心理治疗”；archaeology“考古学”、pharmacy“药学”、acupuncture“针灸”都与精神疾病无关。",
+    "stemZh": "员工担心精神疾病会使他们失去工作和经济保障，而承认患病的人又不知道去哪里寻求帮助和治疗，因为几乎没有医疗保险覆盖临床心理治疗。"
+  },
+  {
+    "n": 46,
+    "stem": "Many countries do not ___ insider-trading convictions, or if they do, only impose financial penalties.",
+    "options": ["pilot", "pursue", "trail", "assault"],
+    "answer": "B",
+    "word": "pursue",
+    "meaning": "追究，执行",
+    "explanation": "pursue convictions 意为“追究……的定罪、起诉”，指对违法行为采取法律行动；pilot“驾驶、试行”、trail“跟踪”、assault“攻击”都不符合“追究内幕交易罪”的语境。",
+    "stemZh": "许多国家并不追究内幕交易的定罪，或者即使追究，也只处以罚款。"
+  },
+  {
+    "n": 47,
+    "stem": "Vietnam’s ___ of investment to economic growth has fallen by roughly a quarter in recent years.",
+    "options": ["ratio", "frequency", "average", "correspondence"],
+    "answer": "A",
+    "word": "ratio",
+    "meaning": "比率",
+    "explanation": "the ratio of A to B 是固定表达，意为“A 与 B 的比率”，指投资与经济增长之间的比例，与 fallen by roughly a quarter（下降约四分之一）相合；frequency“频率”、average“平均”、correspondence“通信、一致”都不合适。",
+    "stemZh": "近年来，越南投资与经济增长的比率下降了约四分之一。"
+  },
+  {
+    "n": 48,
+    "stem": "Three shipments of beans were ___ by China Customs because they had traces of illegal pesticides.",
+    "options": ["denied", "turned down", "rejected", "objected"],
+    "answer": "C",
+    "word": "reject",
+    "meaning": "拒绝，退回",
+    "explanation": "reject 指海关“拒收、退回（货物）”，是正式用语；deny 多指“否认、拒绝给予”，turn down 多用于“拒绝提议或请求”，object 为不及物动词，不能这样用于被动语态表示“被拒收”。",
+    "stemZh": "三批豆子因含有非法农药残留而被中国海关拒收。"
+  },
+  {
+    "n": 49,
+    "stem": "The committee also is seeking information on what the manufacturers do with ___ and what steps can be taken to reduce prescription drug costs.",
+    "options": ["subjectives", "revenue", "taxation", "windfalls"],
+    "answer": "B",
+    "word": "revenue",
+    "meaning": "收入，收益",
+    "explanation": "revenue 意为“收入”，指制造商的所得及其用途，与后文“降低处方药成本”的讨论相呼应；subjectives 不是合适的名词，taxation“征税”、windfalls“意外之财”都不合语境。",
+    "stemZh": "委员会还在调查制造商如何使用其收入，以及可以采取哪些措施来降低处方药的成本。"
+  },
+  {
+    "n": 50,
+    "stem": "The heavy carbon-steel structure feels bulletproof, and legs that fold out for extra ___ (and fold in for easier storage) keep you balanced and solid, even on uneven floors.",
+    "options": ["flexibility", "security", "durability", "stability"],
+    "answer": "D",
+    "word": "stability",
+    "meaning": "稳定（性）",
+    "explanation": "extra stability 意为“额外的稳定性”，与后文 keep you balanced and solid, even on uneven floors（即使地面不平也能保持平衡稳固）直接对应；flexibility“灵活性”、security“安全性”、durability“耐用性”都不如 stability 贴切。",
+    "stemZh": "沉重的碳钢结构给人坚不可摧之感，可展开的支腿能提供额外的稳定性（收起时便于存放），让你即使在地面不平时也保持平衡稳固。"
+  },
+  {
+    "n": 51,
+    "stem": "In this Gothic architecture, the public rooms each have a distinctive ___ of their own, from the cosy, rustic “Challi-Bar” to the elegantly furnished reception area and television room.",
+    "options": ["image", "style", "approach", "mean"],
+    "answer": "B",
+    "word": "style",
+    "meaning": "风格",
+    "explanation": "distinctive style 意为“独特的风格”，指从质朴的酒吧到雅致接待区的不同装潢风格；image“形象”、approach“方法”、mean（应为 means“手段”）都不合适。",
+    "stemZh": "在这座哥特式建筑中，每个公共房间都有各自独特的风格，从温馨质朴的“Challi-Bar”到陈设雅致的接待区和电视室。"
+  },
+  {
+    "n": 52,
+    "stem": "The land intensive technology, which has a strong ___ effect for labor, should be viewed as a technological base for the future or mainly developed by enterprises.",
+    "options": ["considerable", "merge", "substitution", "emergency"],
+    "answer": "C",
+    "word": "substitution",
+    "meaning": "替代",
+    "explanation": "substitution effect 是经济学术语“替代效应”，指土地密集型技术对劳动力产生较强的替代作用；considerable“相当大的”、merge“合并”、emergency“紧急情况”都不构成该术语。",
+    "stemZh": "土地密集型技术对劳动力有很强的替代效应，应被视为面向未来的技术基础，或主要由企业来开发。"
+  },
+  {
+    "n": 53,
+    "stem": "Unlike the annual Environment White Papers, a/an ___ development report need not give space to quality of life issues where there are no long term implications, such as local issues of litter, the nuisance from dogs, noise, etc.",
+    "options": ["sustainable", "survivable", "allowable", "endurable"],
+    "answer": "A",
+    "word": "sustainable",
+    "meaning": "可持续的",
+    "explanation": "sustainable development 是固定搭配“可持续发展”，sustainable development report 指“可持续发展报告”；survivable“可生存的”、allowable“可允许的”、endurable“可忍受的”都不能构成这一术语。",
+    "stemZh": "与年度环境白皮书不同，可持续发展报告不必为那些没有长期影响的生活质量问题留出篇幅，例如乱扔垃圾、狗扰民、噪音等地方性问题。"
+  },
+  {
+    "n": 54,
+    "stem": "This kind of consumption is not only the consumption of the use value of products and service, but also of the ___ value of them in a certain culture.",
+    "options": ["symbolic", "literal", "figurative", "indicative"],
+    "answer": "A",
+    "word": "symbolic",
+    "meaning": "象征的，符号的",
+    "explanation": "symbolic value 意为“符号价值、象征价值”，与 use value（使用价值）相对，指商品在特定文化中被赋予的象征意义；literal“字面的”、figurative“比喻的”、indicative“指示的”都不构成这一对概念。",
+    "stemZh": "这种消费不仅是对产品和服务使用价值的消费，也是对它们在特定文化中的符号价值的消费。"
+  },
+  {
+    "n": 55,
+    "stem": "Indeed, both these companies ___ the corporate market far more than the professional publishing sector which, while entirely understandable, means that a great many potential users simply never hear about the products.",
+    "options": ["lucrative", "product", "insurance", "target"],
+    "answer": "D",
+    "word": "target",
+    "meaning": "以……为目标",
+    "explanation": "target the market 意为“以……为目标市场”，是动词用法，符合“这两家公司主要瞄准企业市场”的语义；lucrative“有利可图的”、product“产品”、insurance“保险”都是名词或形容词，不能接宾语。",
+    "stemZh": "事实上，这两家公司瞄准企业市场的程度远甚于专业出版领域，这虽然完全可以理解，却意味着许多潜在用户根本从未听说过这些产品。"
+  },
+  {
+    "n": 56,
+    "stem": "Context in one part of the communicative APP is not used or determined by another part, so the work process is never interrupted by ___.",
+    "options": ["alteration", "revision", "transition", "adjustment"],
+    "answer": "C",
+    "word": "transition",
+    "meaning": "转换，过渡",
+    "explanation": "transition 意为“转换、过渡”，指工作流程中从一个环节切换到另一个环节，与“上下文互不影响、流程不被打断”相合；alteration“改动”、revision“修订”、adjustment“调整”都不强调环节间的切换。",
+    "stemZh": "通信应用某一部分的上下文不会被另一部分使用或决定，因此工作流程绝不会被转换所打断。"
+  },
+  {
+    "n": 57,
+    "stem": "Any corporation has to be smart at spotting new ___ in feedstock usage, because this can make or break its profitability.",
+    "options": ["curves", "trends", "shifts", "turnabouts"],
+    "answer": "B",
+    "word": "trend",
+    "meaning": "趋势",
+    "explanation": "trend 意为“趋势”，spotting new trends in feedstock usage 指“发现原料使用方面的新趋势”，符合商业语境；curve“曲线”、shift“转变”、turnabout“逆转”都不如 trends 常用且贴切。",
+    "stemZh": "任何公司都必须善于发现原料使用方面的新趋势，因为这可能决定其盈利能力的成败。"
+  },
+  {
+    "n": 58,
+    "stem": "Both companies claim the new ___ make personal computers easier to use with icons—graphic representations of objects — on the screen to let people visualise what they are doing.",
+    "options": ["versions", "accounts", "variations", "issues"],
+    "answer": "A",
+    "word": "version",
+    "meaning": "版本",
+    "explanation": "version 意为“版本”，指两家公司推出的新版个人电脑，与后文“图标、图形表示”等新特性相合；account“账户”、variation“变体”、issue“问题”都不合适。",
+    "stemZh": "两家公司都声称，新版本通过屏幕上的图标——即物体的图形表示——使个人电脑更易于使用，让人们能直观地看到自己在做什么。"
+  },
+  {
+    "n": 59,
+    "stem": "The growth of state involvement with the social ___ of its citizens can be related to the development of an industrial society, and its subsequent maturation, or perhaps decline, into what some writers have described as “post-industrialism”.",
+    "options": ["felicity", "welfare", "sake", "joy"],
+    "answer": "B",
+    "word": "welfare",
+    "meaning": "福利",
+    "explanation": "social welfare 是固定表达“社会福利”，指国家介入公民福利事务，与“工业社会发展”这一宏观论述相合；felicity“幸福”、sake“缘故”、joy“欢乐”都不能构成这一术语。",
+    "stemZh": "国家介入公民社会福利事务的程度不断加深，这与工业社会的发展及其随后的成熟、或者也许衰退为一些作家所称的“后工业主义”相关。"
+  },
+  {
+    "n": 60,
+    "stem": "Prereaders progressed faster in learning to read the visual list, ___ novice and veteran readers progressed faster in learning to read the phonetic list.",
+    "options": ["seeing", "now", "whereas", "likely"],
+    "answer": "C",
+    "word": "whereas",
+    "meaning": "而，然而（表对比）",
+    "explanation": "whereas 是连词，表示前后对比“而、然而”，连接“学前儿童学视觉词表更快”与“新手和老手学语音词表更快”这两个对照事实；seeing“鉴于”、now“现在”、likely“可能”都不能表达这种对比。",
+    "stemZh": "学龄前儿童学习视觉词表的速度更快，而新手和熟练读者学习语音词表的速度更快。"
+  }
+]
