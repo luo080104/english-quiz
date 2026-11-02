@@ -497,10 +497,16 @@ sup {
   line-height: 1.6;
   color: var(--ink);
   cursor: pointer;
+  touch-action: manipulation;
+  user-select: none;
   transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.06s ease;
 }
 .option:active {
   transform: translateY(1px);
+}
+.tap-hint {
+  margin: -4px 0 10px;
+  text-align: right;
 }
 .option.selected {
   border-color: var(--neon);

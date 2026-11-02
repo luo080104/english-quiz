@@ -152,8 +152,11 @@ function renderPracticeList(
   let submitted = false;
   let correct: boolean | null = null;
   let leaving = false;
+  let lastTapKey: string | null = null;
+  let lastTapAt = 0;
 
   const optionList = el("div", { class: "options" });
+  const tapHint = el("div", { class: "muted small tap-hint" }, ["连点两下选项 = 直接提交"]);
   const resultBox = el("div", { class: "result hidden" });
   const submitBtn = el(
     "button",
@@ -180,6 +183,7 @@ function renderPracticeList(
 
   function updateSubmit(): void {
     submitBtn.classList.toggle("hidden", submitted);
+    tapHint.classList.toggle("hidden", submitted);
   }
 
   function selectedArr(): string[] {
@@ -218,6 +222,29 @@ function renderPracticeList(
       selected.add(key);
     }
     refreshOptionStyles();
+  }
+
+  /**
+   * Single tap selects an option (as before); tapping the same option again
+   * within 400ms submits, so the user does not have to scroll to the button.
+   */
+  function onOptionTap(key: string): void {
+    if (submitted) return;
+    const now = Date.now();
+    const isDoubleTap = key === lastTapKey && now - lastTapAt <= 400;
+    lastTapKey = isDoubleTap ? null : key;
+    lastTapAt = isDoubleTap ? 0 : now;
+    if (isDoubleTap) {
+      if (question.type === "multiple") selected.add(key);
+      else {
+        selected.clear();
+        selected.add(key);
+      }
+      refreshOptionStyles();
+      onPickSubmit();
+      return;
+    }
+    toggleOption(key);
   }
 
   function onPickSubmit(): void {
@@ -326,7 +353,7 @@ function renderPracticeList(
 
   for (const opt of question.options) {
     optionList.append(
-      el("button", { class: "option", "data-key": opt.key, onClick: () => toggleOption(opt.key) }, [
+      el("button", { class: "option", "data-key": opt.key, onClick: () => onOptionTap(opt.key) }, [
         el("span", { class: "opt-key" }, [opt.key]),
         optionContent(opt),
       ])
@@ -389,6 +416,7 @@ function renderPracticeList(
       ]),
       el("div", { class: "stem" }, [richStem(question.stem, question.stemImages)]),
       optionList,
+      tapHint,
       el("div", { class: "practice-controls" }, [submitBtn]),
       resultBox,
       navEl,
