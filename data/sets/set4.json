@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "stem": "The system has been designed to give the user quick and easy access ___ the required information.",
+    "options": ["with", "to", "on", "between"],
+    "answer": "B",
+    "word": "to",
+    "meaning": "（与 access 搭配）通往，获得",
+    "explanation": "access to sth 是固定搭配，表示“获得或使用……的途径”；access 不与 with、on、between 构成这一含义。",
+    "stemZh": "该系统旨在让用户快速便捷地获取所需信息。"
+  },
+  {
+    "n": 2,
+    "stem": "Many tasks involve sensory information that is ambiguous, and other sources of information may be required for ___ perception.",
+    "options": ["available", "valuable", "adequate", "limited"],
+    "answer": "C",
+    "word": "adequate",
+    "meaning": "足够的，充分的",
+    "explanation": "adequate perception 指“充分的知觉”：感觉信息含糊时，需要其他信息来源才能形成足够完整的知觉；available“可获得的”、valuable“有价值的”、limited“有限的”都不能表达这一含义。",
+    "stemZh": "许多任务涉及含糊的感觉信息，可能需要其他信息来源才能形成充分的知觉。"
+  },
+  {
+    "n": 3,
+    "stem": "The government has just launched the ___ Christmas campaign to stop drunken driving.",
+    "options": ["monthly", "daily", "weekly", "annual"],
+    "answer": "D",
+    "word": "annual",
+    "meaning": "每年的，年度的",
+    "explanation": "annual Christmas campaign 指“一年一度的圣诞宣传活动”，与 Christmas 每年一次的特点相符；monthly、daily、weekly 的频率均与“圣诞”这一节令不搭配。",
+    "stemZh": "政府刚刚启动了年度圣诞宣传活动，以制止酒后驾车。"
+  },
+  {
+    "n": 4,
+    "stem": "Various reasons are given for the ___ glass ceiling women hit in many professions.",
+    "options": ["transparent", "apparent", "necessary", "prominent"],
+    "answer": "B",
+    "word": "apparent",
+    "meaning": "明显的；表面上的",
+    "explanation": "the apparent glass ceiling 指“显而易见的玻璃天花板”；transparent 强调“透明、可看穿”，necessary 与 prominent 修饰“天花板”均不自然。",
+    "stemZh": "人们对女性在许多职业中遭遇的、显而易见的“玻璃天花板”给出了各种解释。"
+  },
+  {
+    "n": 5,
+    "stem": "The goal is to find the simplest possible algorithm that ___ the observed results.",
+    "options": ["draws", "concerns", "approximates", "shows"],
+    "answer": "C",
+    "word": "approximates",
+    "meaning": "近似，接近",
+    "explanation": "approximate 作动词表示“接近、近似”，算法“逼近”观测结果符合科研语境；draw、concern、show 都不能表达“拟合、逼近数据”的意思。",
+    "stemZh": "目标是找到能逼近观测结果的最简单算法。"
+  },
+  {
+    "n": 6,
+    "stem": "In other words, this analysis does not negate previous findings that opinion change and ___ stability vary by political sophistication.",
+    "options": ["attitude", "aptitude", "altitude", "latitude"],
+    "answer": "A",
+    "word": "attitude",
+    "meaning": "态度",
+    "explanation": "attitude stability 指“态度稳定性”，与前面的 opinion change（观点变化）并列；aptitude“天资”、altitude“海拔”、latitude“纬度”都是形近干扰项。",
+    "stemZh": "换言之，该分析并不否定此前的研究结果，即观点变化与态度稳定性会因政治素养而异。"
+  },
+  {
+    "n": 7,
+    "stem": "Spatialisation models should take into account a couple of important physical ___ of a sounding object, namely its size and its radiation properties.",
+    "options": ["contributes", "characters", "attributes", "particles"],
+    "answer": "C",
+    "word": "attributes",
+    "meaning": "属性，特征",
+    "explanation": "physical attributes 指“物理属性”，与后文 size、radiation properties 直接对应；contribute 是动词，词性不符；characters 侧重“字符、性格”，particles 指“粒子”。",
+    "stemZh": "空间化模型应考虑发声物体的若干重要物理属性，即其尺寸和辐射特性。"
+  },
+  {
+    "n": 8,
+    "stem": "The equipment exhibited in this museum was all for ___ use during early 18th century, not for military.",
+    "options": ["personal", "individual", "financial", "civil"],
+    "answer": "D",
+    "word": "civil",
+    "meaning": "民用的，平民的",
+    "explanation": "civil use 与 military（军用）相对，指“民用”；personal、individual 指“个人的”，financial 指“金融的”，都不能与 military 形成对照。",
+    "stemZh": "这座博物馆展出的设备在18世纪早期都是民用的，而非军用。"
+  },
+  {
+    "n": 9,
+    "stem": "To avoid bias in the laboratory, the samples were ___ with numbers rather than names of individuals.",
+    "options": ["transformed", "coded", "programed", "decoded"],
+    "answer": "B",
+    "word": "coded",
+    "meaning": "编码，编号",
+    "explanation": "code 作动词表示“给……编码”，be coded with numbers 即“用数字编号”；decode 是“解码”，transform 指“转变”，program 指“编程”，均不合语境。",
+    "stemZh": "为避免实验室中的偏差，样本用数字而非个人姓名进行编码。"
+  },
+  {
+    "n": 10,
+    "stem": "The three examples considered internal factors, demonstrating how commitment ___ a thesis constrains interpretation of the evidence.",
+    "options": ["on", "to", "at", "in"],
+    "answer": "B",
+    "word": "to",
+    "meaning": "（与 commitment 搭配）对……的投入",
+    "explanation": "commitment to sth 是固定搭配，表示“对……的投入、执着”；commitment 不与 on、at、in 构成这一含义。",
+    "stemZh": "这三个例子考察了内部因素，说明对论文的投入如何限制对证据的解读。"
+  },
+  {
+    "n": 11,
+    "stem": "The ongoing revolution in information technology and ___ offers unlimited opportunities to improve social interaction.",
+    "options": ["transmission", "exchanges", "transportation", "communications"],
+    "answer": "D",
+    "word": "communications",
+    "meaning": "通信；通讯技术",
+    "explanation": "information technology and communications 是常用并列表达，指“信息技术与通信技术”；transmission“传输”、transportation“运输”不能构成这一固定搭配。",
+    "stemZh": "信息技术与通信领域持续进行的革命，为改善社会交往提供了无限机会。"
+  },
+  {
+    "n": 12,
+    "stem": "As indicated in a latest scientific report, the ozone ___ in the lower stratosphere has declined.",
+    "options": ["attention", "concentration", "focus", "extent"],
+    "answer": "B",
+    "word": "concentration",
+    "meaning": "浓度",
+    "explanation": "ozone concentration 指“臭氧浓度”，是环境科学的固定说法；attention、focus 指“注意、焦点”，extent 指“程度”。",
+    "stemZh": "正如最新一份科学报告所示，平流层下部的臭氧浓度已经下降。"
+  },
+  {
+    "n": 13,
+    "stem": "An international medical ___ was established for the interchange of new ideas and approaches.",
+    "options": ["speech", "reference", "conference", "discussion"],
+    "answer": "C",
+    "word": "conference",
+    "meaning": "会议",
+    "explanation": "conference 可与 establish 搭配，表示“设立会议（机制）”；speech、reference、discussion 一般不与 establish 搭配表示“建立会议”。",
+    "stemZh": "为交流新思想和新方法，成立了一个国际医学会议。"
+  },
+  {
+    "n": 14,
+    "stem": "This is in ___ to Group 3 species, which were not found in rice fields.",
+    "options": ["complete", "comply", "abide", "contrast"],
+    "answer": "D",
+    "word": "contrast",
+    "meaning": "对比",
+    "explanation": "in contrast to 是固定短语，表示“与……形成对比”；complete 不与 in...to 搭配，comply 与 abide 的搭配分别是 comply with、abide by。",
+    "stemZh": "这与第3组物种形成对比，后者未在稻田中发现。"
+  },
+  {
+    "n": 15,
+    "stem": "The annual ___ structures many aspects of social life, not least the production of academic journals and the personal experience of growing older.",
+    "options": ["circle", "cycle", "circulation", "rotation"],
+    "answer": "B",
+    "word": "cycle",
+    "meaning": "周期，循环",
+    "explanation": "annual cycle 指“年度周期”，与句首 annual 呼应；circle“圆圈”、circulation“流通”、rotation“旋转”都不能表示时间上的周期性。",
+    "stemZh": "年度周期塑造了社会生活的许多方面，尤其是学术期刊的出版和个人变老的体验。"
+  },
+  {
+    "n": 16,
+    "stem": "In the academic circle, there is a heated ___ on how music is perceived, understood and used as an effective means of communication.",
+    "options": ["approval", "agreement", "situation", "debate"],
+    "answer": "D",
+    "word": "debate",
+    "meaning": "辩论，争论",
+    "explanation": "a heated debate on... 是常见搭配，指“关于……的激烈辩论”；heated 一般不用来修饰 approval、agreement 或 situation。",
+    "stemZh": "在学术界，关于音乐如何被感知、理解并用作有效交流手段，存在激烈的争论。"
+  },
+  {
+    "n": 17,
+    "stem": "___ monitoring over 1000 potential recruits, this study has illustrated just how rarely a new individual enters the breeding population.",
+    "options": ["Through", "Though", "Despite", "But"],
+    "answer": "C",
+    "word": "Despite",
+    "meaning": "尽管",
+    "explanation": "despite 后接名词或动名词，此处 Despite monitoring... 构成让步状语，表示“尽管对1000多名潜在对象进行了监测”；though、but 是连词，through 表方式“通过”，与后文结论不符。",
+    "stemZh": "尽管对1000多名潜在新成员进行了监测，这项研究仍说明新个体进入繁殖群体的概率极低。"
+  },
+  {
+    "n": 18,
+    "stem": "Generally, DNA microarray (微阵列) data is information-rich, with multiple ___ of variability.",
+    "options": ["amount", "choices", "sizes", "dimensions"],
+    "answer": "D",
+    "word": "dimensions",
+    "meaning": "维度",
+    "explanation": "multiple dimensions of variability 指“多个变异维度”；amount 修饰不可数名词且不与 multiple 连用，choices“选择”、sizes“尺寸”不合学术语境。",
+    "stemZh": "一般来说，DNA微阵列数据信息丰富，包含多个变异维度。"
+  },
+  {
+    "n": 19,
+    "stem": "Generally speaking, manufacturing output for a company consists of both exports and sales on the ___ market.",
+    "options": ["homely", "domestic", "inward", "intrinsic"],
+    "answer": "B",
+    "word": "domestic",
+    "meaning": "国内的",
+    "explanation": "domestic market 与 exports 相对，指“国内市场”；homely“家常的”、inward“向内的”、intrinsic“内在的”都不表示“国内”。",
+    "stemZh": "一般来说，一家公司的制造业产出既包括出口，也包括国内市场上的销售。"
+  },
+  {
+    "n": 20,
+    "stem": "In both of these studies maximizing choice and control over one's life ___ as key themes which underpinned these more specific outcomes.",
+    "options": ["considered", "showed", "emerged", "displayed"],
+    "answer": "C",
+    "word": "emerged",
+    "meaning": "出现，显现",
+    "explanation": "emerge as 表示“作为……显现出来”，此处为不及物用法；consider、show、display 表达此义需用被动语态，且与 as key themes 搭配不当。",
+    "stemZh": "在这两项研究中，“最大化对生活的选择与控制”都作为支撑这些更具体结果的关键主题浮现出来。"
+  },
+  {
+    "n": 21,
+    "stem": "Further analysis examined three types of possible ___ at each level of the task.",
+    "options": ["contents", "scores", "errors", "details"],
+    "answer": "C",
+    "word": "errors",
+    "meaning": "错误",
+    "explanation": "possible errors 是常见搭配，指“可能出现的错误”，与“在任务的每个层级上考察三类可能……”的语境契合；contents、scores、details 均不如 errors 贴切。",
+    "stemZh": "进一步的分析考察了任务每个层级上三种可能出现的错误。"
+  },
+  {
+    "n": 22,
+    "stem": "Information about social class, ___ origin, employment status, type of housing tenure, and access to a car was obtained from the subjects.",
+    "options": ["ethic", "ethnic", "gender", "class"],
+    "answer": "B",
+    "word": "ethnic",
+    "meaning": "种族的，民族的",
+    "explanation": "ethnic origin 指“民族或种族出身”，与社会阶层、就业状况并列；ethic 是名词“伦理”，gender 和 class 在句中已有对应成分，填入会语义重复。",
+    "stemZh": "从受试者处获取了有关社会阶层、民族出身、就业状况、住房类型以及是否拥有汽车的信息。"
+  },
+  {
+    "n": 23,
+    "stem": "Otherwise, we would end up with endless analyses of many features without having defined the ___ of a given analysis.",
+    "options": ["reasoning", "means", "goals", "tools"],
+    "answer": "C",
+    "word": "goals",
+    "meaning": "目标",
+    "explanation": "define the goals 指“界定目标”；define 通常不与 reasoning、means、tools 搭配来表示“界定某一分析的目的”。",
+    "stemZh": "否则，我们最终会对许多特征进行无休止的分析，却没有界定某一分析的目标。"
+  },
+  {
+    "n": 24,
+    "stem": "The court's decision, however, does not ___ unlimited discretion to the parents.",
+    "options": ["present", "offer", "lend", "grant"],
+    "answer": "D",
+    "word": "grant",
+    "meaning": "授予，给予",
+    "explanation": "grant discretion to sb 是法律语境中的固定搭配，指“授予某人自由裁量权”；present、offer、lend 都不能与 discretion 构成这一法律表达。",
+    "stemZh": "然而，法院的判决并未赋予父母无限的自主决定权。"
+  },
+  {
+    "n": 25,
+    "stem": "Technical inefficiency is the deviation of an individual vessel's production from this best-practice frontier, and ___ is a measure of relative technical efficiency.",
+    "options": ["nevertheless", "whatever", "however", "hence"],
+    "answer": "D",
+    "word": "hence",
+    "meaning": "因此",
+    "explanation": "前后为因果关系，hence 表示“因此”；nevertheless、however 表转折，whatever 是代词，均不能连接因果。",
+    "stemZh": "技术无效率是指单艘渔船产量偏离最佳实践前沿的程度，因此它是衡量相对技术效率的指标。"
+  },
+  {
+    "n": 26,
+    "stem": "It is clear that some abstract robot representations have usefully tested some relatively specific biological ___.",
+    "options": ["theories", "hypotheses", "statements", "analogies"],
+    "answer": "B",
+    "word": "hypotheses",
+    "meaning": "假设",
+    "explanation": "test hypotheses 指“检验假设”，是学术固定表达；此处强调的是可供检验的具体假说，statements、analogies 也不与 test 构成这一含义。",
+    "stemZh": "显然，一些抽象的机器人表征已经有效地检验了一些相对具体的生物学假设。"
+  },
+  {
+    "n": 27,
+    "stem": "The government's approach to settlement changed radically during the early ___ of the economic reform.",
+    "options": ["replacing", "placing", "implementation", "implication"],
+    "answer": "C",
+    "word": "implementation",
+    "meaning": "实施，执行",
+    "explanation": "the early implementation of the reform 指“改革初期的实施阶段”；replacing、placing 是动词形式，implication“含义”与语境不符。",
+    "stemZh": "在经济改革初期，政府的定居政策发生了根本性变化。"
+  },
+  {
+    "n": 28,
+    "stem": "Distinguishing between these two alternative hypotheses has important ___ for the behavior of political parties.",
+    "options": ["implementation", "meanings", "significance", "implications"],
+    "answer": "D",
+    "word": "implications",
+    "meaning": "影响，启示",
+    "explanation": "have implications for sth 是固定搭配，表示“对……有影响或启示”；implementation“实施”、meanings“意义”、significance“重要性”都不构成这一表达。",
+    "stemZh": "区分这两种相互竞争的假设，对政党的行为有重要启示。"
+  },
+  {
+    "n": 29,
+    "stem": "Much of the existing work on the press ___ a clear division between the eighteenth and the nineteenth century.",
+    "options": ["generates", "imposes", "produces", "supposes"],
+    "answer": "B",
+    "word": "imposes",
+    "meaning": "强加；强行施加",
+    "explanation": "impose a division between 指“强行划定……之间的分野”，为正式用语；generate、produce 侧重“产生”，suppose 不能以 division 作宾语。",
+    "stemZh": "现有关于新闻业的研究大多在18世纪与19世纪之间强行划出了一条明确的分界。"
+  },
+  {
+    "n": 30,
+    "stem": "Here is one model of multiculturalism that works: ___ without assimilation.",
+    "options": ["integration", "inclination", "inclusion", "comprehension"],
+    "answer": "A",
+    "word": "integration",
+    "meaning": "融合，整合",
+    "explanation": "integration without assimilation 指“没有同化的融合”，是多元文化议题的常见表述；inclination“倾向”、inclusion“包含”、comprehension“理解”均不合。",
+    "stemZh": "这里有一个行之有效的多元文化模式：融合而不被同化。"
+  },
+  {
+    "n": 31,
+    "stem": "Effects were found with two substantially different lists of words, each with good ___ consistency.",
+    "options": ["inward", "introvert", "inside", "internal"],
+    "answer": "D",
+    "word": "internal",
+    "meaning": "内部的",
+    "explanation": "internal consistency 是心理测量学术语，指“内部一致性”；inward“向内的”、introvert“内向者”、inside“里面的”都不能构成这一术语。",
+    "stemZh": "用两份差异很大的词表都发现了效应，且两份词表都具有良好的内部一致性。"
+  },
+  {
+    "n": 32,
+    "stem": "Further ___ is required, because the issues are too important for simply assuming that persistence and intractability necessarily imply an organic genesis.",
+    "options": ["provision", "investigation", "elaboration", "calculation"],
+    "answer": "B",
+    "word": "investigation",
+    "meaning": "调查，研究",
+    "explanation": "further investigation is required 是学术语篇的常用句式，表示“需要进一步研究”；provision“提供”、elaboration“阐述”、calculation“计算”均不合。",
+    "stemZh": "需要进一步调查，因为这些问题太重要了，不能仅凭假设就认为持续存在和难以处理必然意味着器质性病因。"
+  },
+  {
+    "n": 33,
+    "stem": "The builders are aiming to get the ___ done by the end of the month.",
+    "options": ["job", "instruction", "construction", "administration"],
+    "answer": "A",
+    "word": "job",
+    "meaning": "工作，活儿",
+    "explanation": "get the job done 是固定表达，意为“把活儿干完”；instruction、administration 与 done 搭配不当，construction 与 get...done 连用也不如 job 自然。",
+    "stemZh": "建筑工人力争在月底前把这项工程干完。"
+  },
+  {
+    "n": 34,
+    "stem": "A ___ refers to a brief descriptive phrase or term given to a person, group, school of thought.",
+    "options": ["signal", "sign", "label", "brand"],
+    "answer": "C",
+    "word": "label",
+    "meaning": "标签，称号",
+    "explanation": "label 指贴在人或事物上的“标签、称号”，与定义中的“简短的描述性短语或术语”对应；signal、sign 指“信号、标志”，brand 指“品牌”。",
+    "stemZh": "标签是指赋予个人、群体或学派的简短描述性短语或术语。"
+  },
+  {
+    "n": 35,
+    "stem": "In addition to treatment outcome, the trial sought to determine possible ___ of action of the problem-solving intervention.",
+    "options": ["description", "mechanism", "machinery", "prescription"],
+    "answer": "B",
+    "word": "mechanism",
+    "meaning": "机制",
+    "explanation": "mechanism of action 是医学固定表达，指“作用机制”；machinery 指“机器”，description、prescription 不与 of action 构成这一术语。",
+    "stemZh": "除治疗效果外，该试验还试图确定问题解决干预可能的作用机制。"
+  },
+  {
+    "n": 36,
+    "stem": "No straightforward arguments or ___ observations are known to answer this question.",
+    "options": ["sensitive", "derivative", "obvious", "decisive"],
+    "answer": "C",
+    "word": "obvious",
+    "meaning": "明显的",
+    "explanation": "obvious observations 指“显而易见的观察结果”，与 straightforward arguments 并列；sensitive“敏感的”、derivative“衍生的”、decisive“决定性的”都不能与 observations 搭配表达“显然可见”的含义。",
+    "stemZh": "目前还没有直截了当的论证或决定性的观察结果能够回答这个问题。"
+  },
+  {
+    "n": 37,
+    "stem": "This table further illustrates the variation in ___ range which can be found in different working populations of married women.",
+    "options": ["occasional", "occupational", "commercial", "vocational"],
+    "answer": "B",
+    "word": "occupational",
+    "meaning": "职业的",
+    "explanation": "occupational range 指“职业范围”，用于描述不同在职已婚女性群体；occasional“偶尔的”、commercial“商业的”不合语境，vocational 虽也指职业，但多用于教育培训语境。",
+    "stemZh": "该表进一步说明了在不同在职已婚女性群体中可见的职业范围差异。"
+  },
+  {
+    "n": 38,
+    "stem": "At each potential branching point, all the ___ we consider are logically possible, but only one of them is physically or spiritually possible.",
+    "options": ["choices", "alternatives", "options", "selection"],
+    "answer": "C",
+    "word": "options",
+    "meaning": "选项",
+    "explanation": "option 是学术语境中表示“选项”的常用词，all the options we consider 指“我们所考虑的所有选项”；choices 偏日常用语，alternative 常指二选一的替代项，selection 指筛选行为。",
+    "stemZh": "在每个可能的分支点上，我们所考虑的所有选项在逻辑上都是可能的，但其中只有一项在物理上或精神上可行。"
+  },
+  {
+    "n": 39,
+    "stem": "It learns from child-directed speech, and produces ___ that consists of actual utterances that can be directly compared to children's speech.",
+    "options": ["product", "output", "outcome", "input"],
+    "answer": "B",
+    "word": "output",
+    "meaning": "输出（结果）",
+    "explanation": "output 在语言学中指“语言输出”，与后文 actual utterances 对应；product“产品”、outcome“结果”、input“输入”都不能指生成的话语。",
+    "stemZh": "它从指向儿童的言语中学习，并生成由实际话语构成的输出，这些输出可以直接与儿童的话语相比较。"
+  },
+  {
+    "n": 40,
+    "stem": "The chapters illustrate a range of methods, although there is a/an ___ emphasis in favor of qualitative approaches.",
+    "options": ["whole", "general", "wholesome", "overall"],
+    "answer": "D",
+    "word": "overall",
+    "meaning": "总体的，全面的",
+    "explanation": "an overall emphasis 指“总体上的侧重”，为常见搭配；whole 不能这样修饰 emphasis，general emphasis 语义模糊，wholesome 指“有益健康的”。",
+    "stemZh": "各章展示了一系列方法，尽管总体上更偏向定性方法。"
+  },
+  {
+    "n": 41,
+    "stem": "___ experiments in this research are being conducted in Rome, Paris and London so as to figure out the key factors influencing the outcome.",
+    "options": ["Identical", "Diverse", "Dissimilar", "Parallel"],
+    "answer": "D",
+    "word": "Parallel",
+    "meaning": "平行的；类似的",
+    "explanation": "parallel experiments 指在多地“平行开展”的实验，与罗马、巴黎、伦敦同时进行呼应；identical、dissimilar 强调异同，diverse 指“多样的”，均不合。",
+    "stemZh": "这项研究正在罗马、巴黎和伦敦开展平行实验，以找出影响结果的关键因素。"
+  },
+  {
+    "n": 42,
+    "stem": "This model was used to analyze the raw data and estimate the ___ shown above directly from the data.",
+    "options": ["paragraphs", "parameters", "diameters", "monographs"],
+    "answer": "B",
+    "word": "parameters",
+    "meaning": "参数",
+    "explanation": "estimate the parameters 指“估计参数”，是统计建模的固定表达；paragraphs“段落”、diameters“直径”、monographs“专著”均不合。",
+    "stemZh": "该模型用于分析原始数据，并直接从数据中估计上文所示的参数。"
+  },
+  {
+    "n": 43,
+    "stem": "In Physics, a ___ is one of the forms in which matter can exist, such as solid, liquid, or a gas.",
+    "options": ["praise", "phrase", "phase", "face"],
+    "answer": "C",
+    "word": "phase",
+    "meaning": "相，相位；阶段",
+    "explanation": "物理学中 phase 指物质的“相”（固态、液态、气态）；phrase“短语”、praise“赞扬”、face“脸”都是形近干扰项。",
+    "stemZh": "在物理学中，相是物质存在的形式之一，例如固态、液态或气态。"
+  },
+  {
+    "n": 44,
+    "stem": "These studies suggest that patient self-rated health ___ survival independently.",
+    "options": ["assumed", "predicted", "foresaw", "presumed"],
+    "answer": "B",
+    "word": "predicted",
+    "meaning": "预测",
+    "explanation": "predict survival 指“预测生存情况”，符合医学研究语境；assume、presume 意为“假定”，foresee 指“预见”未来事件，不与 survival 构成统计预测的含义。",
+    "stemZh": "这些研究表明，患者自评健康状况可以独立预测生存情况。"
+  },
+  {
+    "n": 45,
+    "stem": "AIG Corporation also acts as a ___ investor in the energy and infrastructure sectors.",
+    "options": ["principal", "principle", "dominant", "dominated"],
+    "answer": "A",
+    "word": "principal",
+    "meaning": "主要的",
+    "explanation": "principal investor 指“主要投资者”；principle 是名词“原则”，dominant 修饰 investor 不如 principal 常见，dominated“被支配的”语义相反。",
+    "stemZh": "AIG公司还充当能源和基础设施领域的主要投资者。"
+  },
+  {
+    "n": 46,
+    "stem": "Applicants should have ___ experience of the pharmaceutical sector and relevant qualifications.",
+    "options": ["superior", "before", "prior", "preceding"],
+    "answer": "C",
+    "word": "prior",
+    "meaning": "先前的",
+    "explanation": "prior experience 指“先前的经验”，为职场与学术语篇的固定表达；before 不能作定语，superior“更好的”、preceding“紧接在前的”均不合。",
+    "stemZh": "申请者应具备制药行业的先前经验和相关资质。"
+  },
+  {
+    "n": 47,
+    "stem": "These two books will be especially useful for editors, journalists, and other ___ users of the language.",
+    "options": ["amateur", "professional", "technical", "casual"],
+    "answer": "B",
+    "word": "professional",
+    "meaning": "专业的",
+    "explanation": "professional users of the language 指“专业语言使用者”，与编辑、记者并列；amateur“业余的”、casual“随意的”语义相反，technical 指“技术的”。",
+    "stemZh": "这两本书对编辑、记者以及其他专业语言使用者尤其有用。"
+  },
+  {
+    "n": 48,
+    "stem": "In every modern lecture hall, digital videos are usually ___ on a huge screen.",
+    "options": ["shot", "placed", "projected", "released"],
+    "answer": "C",
+    "word": "projected",
+    "meaning": "投射，放映",
+    "explanation": "project 指把影像“投射、放映”到屏幕上；shoot 指“拍摄”，place 指“放置”，release 指“发布”，都不能表示放映。",
+    "stemZh": "在每间现代报告厅里，数字视频通常被投射到巨大的屏幕上。"
+  },
+  {
+    "n": 49,
+    "stem": "Share information and offer tips to followers to grow interest in your page and ___ your products.",
+    "options": ["boost", "improve", "increase", "promote"],
+    "answer": "D",
+    "word": "promote",
+    "meaning": "推广，促销",
+    "explanation": "promote products 指“推广产品”，与 grow interest 并列；boost 多指“提升数量或销量”，improve 指“改善”，increase 指“增加”，都不如 promote 贴合营销语境。",
+    "stemZh": "与关注者分享信息并提供建议，以提升他们对你页面的兴趣并推广你的产品。"
+  },
+  {
+    "n": 50,
+    "stem": "Concerns have been raised over the insolvency ___ after the government highlighted serious regulatory faults.",
+    "options": ["power", "group", "gang", "regime"],
+    "answer": "D",
+    "word": "regime",
+    "meaning": "制度，体制",
+    "explanation": "insolvency regime 是法律与商务语篇的固定说法，指“破产（偿债）制度”；power、group、gang 都不能表示制度体系。",
+    "stemZh": "在政府指出严重的监管缺陷后，人们对破产制度提出了担忧。"
+  },
+  {
+    "n": 51,
+    "stem": "We then suggest possible sources and consequences of terminological confusion in developmental psychology and offer some potential ___.",
+    "options": ["findings", "consequences", "resolutions", "measures"],
+    "answer": "C",
+    "word": "resolutions",
+    "meaning": "解决办法",
+    "explanation": "offer resolutions 指“提出解决办法”，与前文 suggest sources and consequences 并列；offer 通常不与 findings、consequences 搭配，measures 一般用 take 或 adopt。",
+    "stemZh": "随后我们指出发展心理学中术语混淆的可能来源与后果，并提出一些可能的解决办法。"
+  },
+  {
+    "n": 52,
+    "stem": "Only those variables that were significantly different between the groups under comparison were ___ for the propensity score model.",
+    "options": ["rebuilt", "retarded", "retained", "redeemed"],
+    "answer": "C",
+    "word": "retained",
+    "meaning": "保留",
+    "explanation": "retain 指“保留（变量）纳入模型”；rebuild“重建”、retard“延缓”、redeem“赎回”均不合统计建模语境。",
+    "stemZh": "只有比较组间存在显著差异的变量才被保留用于倾向得分模型。"
+  },
+  {
+    "n": 53,
+    "stem": "The discipline has its own professors and academic structure, its own journals and ___ of publication.",
+    "options": ["series", "serials", "sequence", "sort"],
+    "answer": "A",
+    "word": "series",
+    "meaning": "系列",
+    "explanation": "series of publications 指“系列出版物”，为固定表达；serials 指“连续剧、连载刊物”，sequence 强调“顺序”，sort 指“种类”。",
+    "stemZh": "该学科有自己的教授和学术结构，有自己的期刊和系列出版物。"
+  },
+  {
+    "n": 54,
+    "stem": "The United States Department of Agriculture and the food industry collect sales ___ and keep accurate records.",
+    "options": ["decisions", "conclusion", "statements", "statistics"],
+    "answer": "D",
+    "word": "statistics",
+    "meaning": "统计数据",
+    "explanation": "collect sales statistics 指“收集销售统计数据”，为常见固定表达；decisions“决定”、conclusion“结论”、statements“报表”都不能与 collect 构成这一含义。",
+    "stemZh": "美国农业部和食品行业收集销售统计数据并保存准确记录。"
+  },
+  {
+    "n": 55,
+    "stem": "The ___ of a nationally-famous brand would bring prestige to the producers and would secure higher prices.",
+    "options": ["state", "status", "statue", "condition"],
+    "answer": "B",
+    "word": "status",
+    "meaning": "地位，名声",
+    "explanation": "status 指“地位、名声”，与 prestige 和更高的价格呼应；state、condition 指“状态”，statue 指“雕像”。",
+    "stemZh": "全国知名品牌的地位会给生产者带来声望，并确保更高的价格。"
+  },
+  {
+    "n": 56,
+    "stem": "Residents who had been involved in preference relocations ___ the importance of having choices for their initial and subsequent moves into, within and between care-homes.",
+    "options": ["pointed", "called", "stressed", "focused"],
+    "answer": "C",
+    "word": "stressed",
+    "meaning": "强调",
+    "explanation": "stress the importance 是固定搭配，指“强调……的重要性”；point、call、focus 表示“指出、称为、聚焦”时需搭配 out、on 等，不能直接接 the importance。",
+    "stemZh": "参与过偏好性搬迁的居民强调了在最初及后续搬入、搬动于养老院之间时拥有选择权的重要性。"
+  },
+  {
+    "n": 57,
+    "stem": "In many societies, both fictional and authentic, women are commonly depicted as subordinate ___ men.",
+    "options": ["to", "against", "with", "at"],
+    "answer": "A",
+    "word": "to",
+    "meaning": "（与 subordinate 搭配）从属于",
+    "explanation": "be subordinate to sb 是固定搭配，表示“从属于某人”；subordinate 不与 against、with、at 搭配。",
+    "stemZh": "在许多社会——无论是虚构的还是真实的——女性通常被描绘为从属于男性。"
+  },
+  {
+    "n": 58,
+    "stem": "Here is a real physical presence ___ up in one image following many hours of observation.",
+    "options": ["caught", "summed", "taken", "brought"],
+    "answer": "B",
+    "word": "summed",
+    "meaning": "概括，总结",
+    "explanation": "sum up 指“概括、总结”，此处指经过数小时观察后在一幅图像中概括出真实的物理存在；catch up“赶上”、take up“占据”、bring up“养育”均不合。",
+    "stemZh": "经过数小时的观察，这里呈现的是一幅概括了真实物理存在的图像。"
+  },
+  {
+    "n": 59,
+    "stem": "Table 12.4 provides a ___ of how management perspectives have changed over the last 50 years.",
+    "options": ["conclusion", "generalization", "summary", "sum"],
+    "answer": "C",
+    "word": "summary",
+    "meaning": "总结，摘要",
+    "explanation": "provide a summary of 指“提供……的总结”，为学术写作固定搭配；conclusion 指“结论”，generalization 指“概括”，sum 多用于 the sum of。",
+    "stemZh": "表12.4概括了过去50年间管理视角的变迁。"
+  },
+  {
+    "n": 60,
+    "stem": "Traditionally, the study of language loss has been ___ from a sociolinguistic rather than a psycholinguistic perspective.",
+    "options": ["undermined", "underlined", "overtaken", "undertaken"],
+    "answer": "D",
+    "word": "undertaken",
+    "meaning": "着手，开展",
+    "explanation": "the study is undertaken from...perspective 指“研究从……视角展开”，undertake 意为“着手进行”；undermine“削弱”、underline“强调”、overtake“超越”均不合。",
+    "stemZh": "传统上，对语言丧失的研究是从社会语言学而非心理语言学的视角展开的。"
+  }
+]

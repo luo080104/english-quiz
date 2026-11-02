@@ -4,19 +4,19 @@
     "version": 1,
     "label": "学术英语刷题",
     "title": "学术英语词汇 子表1–5 配套练习",
-    "generatedAt": "2026-11-02T10:57:03.970Z",
+    "generatedAt": "2026-11-02T11:03:57.698Z",
     "sourceFiles": {
       "original": "《通用学术英语短语词汇教程》第4章 练习（子表1–5）",
       "answerKey": "课程官方答案及解析（子表1–5）"
     },
     "counts": {
-      "total": 180,
-      "approved": 180,
+      "total": 240,
+      "approved": 240,
       "pending": 0,
       "pendingImage": 0,
       "contested": 0,
-      "translated": 180,
-      "glossaryTerms": 180
+      "translated": 240,
+      "glossaryTerms": 240
     },
     "disclaimer": "题目与官方答案取自课程配套练习；中文解析由本站重写，仅供学习参考。"
   },
@@ -9198,6 +9198,3066 @@
       "reviewFlag": null,
       "source": {
         "question": "子表3 第60题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-001",
+      "version": 1,
+      "originalNumber": 181,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "to"
+      ],
+      "type": "single",
+      "stem": "The system has been designed to give the user quick and easy access ___ the required information.",
+      "stemZh": "该系统旨在让用户快速便捷地获取所需信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "with"
+        },
+        {
+          "key": "B",
+          "text": "to"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "between"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "to",
+          "meaning": "（与 access 搭配）通往，获得"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "access to sth 是固定搭配，表示“获得或使用……的途径”；access 不与 with、on、between 构成这一含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第1题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-002",
+      "version": 1,
+      "originalNumber": 182,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "adequate"
+      ],
+      "type": "single",
+      "stem": "Many tasks involve sensory information that is ambiguous, and other sources of information may be required for ___ perception.",
+      "stemZh": "许多任务涉及含糊的感觉信息，可能需要其他信息来源才能形成充分的知觉。",
+      "options": [
+        {
+          "key": "A",
+          "text": "available"
+        },
+        {
+          "key": "B",
+          "text": "valuable"
+        },
+        {
+          "key": "C",
+          "text": "adequate"
+        },
+        {
+          "key": "D",
+          "text": "limited"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "adequate",
+          "meaning": "足够的，充分的"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "adequate perception 指“充分的知觉”：感觉信息含糊时，需要其他信息来源才能形成足够完整的知觉；available“可获得的”、valuable“有价值的”、limited“有限的”都不能表达这一含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第2题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-003",
+      "version": 1,
+      "originalNumber": 183,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "annual"
+      ],
+      "type": "single",
+      "stem": "The government has just launched the ___ Christmas campaign to stop drunken driving.",
+      "stemZh": "政府刚刚启动了年度圣诞宣传活动，以制止酒后驾车。",
+      "options": [
+        {
+          "key": "A",
+          "text": "monthly"
+        },
+        {
+          "key": "B",
+          "text": "daily"
+        },
+        {
+          "key": "C",
+          "text": "weekly"
+        },
+        {
+          "key": "D",
+          "text": "annual"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "annual",
+          "meaning": "每年的，年度的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "annual Christmas campaign 指“一年一度的圣诞宣传活动”，与 Christmas 每年一次的特点相符；monthly、daily、weekly 的频率均与“圣诞”这一节令不搭配。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第3题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-004",
+      "version": 1,
+      "originalNumber": 184,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "apparent"
+      ],
+      "type": "single",
+      "stem": "Various reasons are given for the ___ glass ceiling women hit in many professions.",
+      "stemZh": "人们对女性在许多职业中遭遇的、显而易见的“玻璃天花板”给出了各种解释。",
+      "options": [
+        {
+          "key": "A",
+          "text": "transparent"
+        },
+        {
+          "key": "B",
+          "text": "apparent"
+        },
+        {
+          "key": "C",
+          "text": "necessary"
+        },
+        {
+          "key": "D",
+          "text": "prominent"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "apparent",
+          "meaning": "明显的；表面上的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "the apparent glass ceiling 指“显而易见的玻璃天花板”；transparent 强调“透明、可看穿”，necessary 与 prominent 修饰“天花板”均不自然。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第4题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-005",
+      "version": 1,
+      "originalNumber": 185,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "approximates"
+      ],
+      "type": "single",
+      "stem": "The goal is to find the simplest possible algorithm that ___ the observed results.",
+      "stemZh": "目标是找到能逼近观测结果的最简单算法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "draws"
+        },
+        {
+          "key": "B",
+          "text": "concerns"
+        },
+        {
+          "key": "C",
+          "text": "approximates"
+        },
+        {
+          "key": "D",
+          "text": "shows"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "approximates",
+          "meaning": "近似，接近"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "approximate 作动词表示“接近、近似”，算法“逼近”观测结果符合科研语境；draw、concern、show 都不能表达“拟合、逼近数据”的意思。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第5题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-006",
+      "version": 1,
+      "originalNumber": 186,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "attitude"
+      ],
+      "type": "single",
+      "stem": "In other words, this analysis does not negate previous findings that opinion change and ___ stability vary by political sophistication.",
+      "stemZh": "换言之，该分析并不否定此前的研究结果，即观点变化与态度稳定性会因政治素养而异。",
+      "options": [
+        {
+          "key": "A",
+          "text": "attitude"
+        },
+        {
+          "key": "B",
+          "text": "aptitude"
+        },
+        {
+          "key": "C",
+          "text": "altitude"
+        },
+        {
+          "key": "D",
+          "text": "latitude"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "attitude",
+          "meaning": "态度"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "attitude stability 指“态度稳定性”，与前面的 opinion change（观点变化）并列；aptitude“天资”、altitude“海拔”、latitude“纬度”都是形近干扰项。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第6题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-007",
+      "version": 1,
+      "originalNumber": 187,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "attributes"
+      ],
+      "type": "single",
+      "stem": "Spatialisation models should take into account a couple of important physical ___ of a sounding object, namely its size and its radiation properties.",
+      "stemZh": "空间化模型应考虑发声物体的若干重要物理属性，即其尺寸和辐射特性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "contributes"
+        },
+        {
+          "key": "B",
+          "text": "characters"
+        },
+        {
+          "key": "C",
+          "text": "attributes"
+        },
+        {
+          "key": "D",
+          "text": "particles"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "attributes",
+          "meaning": "属性，特征"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "physical attributes 指“物理属性”，与后文 size、radiation properties 直接对应；contribute 是动词，词性不符；characters 侧重“字符、性格”，particles 指“粒子”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第7题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-008",
+      "version": 1,
+      "originalNumber": 188,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "civil"
+      ],
+      "type": "single",
+      "stem": "The equipment exhibited in this museum was all for ___ use during early 18th century, not for military.",
+      "stemZh": "这座博物馆展出的设备在18世纪早期都是民用的，而非军用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "personal"
+        },
+        {
+          "key": "B",
+          "text": "individual"
+        },
+        {
+          "key": "C",
+          "text": "financial"
+        },
+        {
+          "key": "D",
+          "text": "civil"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "civil",
+          "meaning": "民用的，平民的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "civil use 与 military（军用）相对，指“民用”；personal、individual 指“个人的”，financial 指“金融的”，都不能与 military 形成对照。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第8题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-009",
+      "version": 1,
+      "originalNumber": 189,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "coded"
+      ],
+      "type": "single",
+      "stem": "To avoid bias in the laboratory, the samples were ___ with numbers rather than names of individuals.",
+      "stemZh": "为避免实验室中的偏差，样本用数字而非个人姓名进行编码。",
+      "options": [
+        {
+          "key": "A",
+          "text": "transformed"
+        },
+        {
+          "key": "B",
+          "text": "coded"
+        },
+        {
+          "key": "C",
+          "text": "programed"
+        },
+        {
+          "key": "D",
+          "text": "decoded"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "coded",
+          "meaning": "编码，编号"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "code 作动词表示“给……编码”，be coded with numbers 即“用数字编号”；decode 是“解码”，transform 指“转变”，program 指“编程”，均不合语境。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第9题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-010",
+      "version": 1,
+      "originalNumber": 190,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "to"
+      ],
+      "type": "single",
+      "stem": "The three examples considered internal factors, demonstrating how commitment ___ a thesis constrains interpretation of the evidence.",
+      "stemZh": "这三个例子考察了内部因素，说明对论文的投入如何限制对证据的解读。",
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "to"
+        },
+        {
+          "key": "C",
+          "text": "at"
+        },
+        {
+          "key": "D",
+          "text": "in"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "to",
+          "meaning": "（与 commitment 搭配）对……的投入"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "commitment to sth 是固定搭配，表示“对……的投入、执着”；commitment 不与 on、at、in 构成这一含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第10题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-011",
+      "version": 1,
+      "originalNumber": 191,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "communications"
+      ],
+      "type": "single",
+      "stem": "The ongoing revolution in information technology and ___ offers unlimited opportunities to improve social interaction.",
+      "stemZh": "信息技术与通信领域持续进行的革命，为改善社会交往提供了无限机会。",
+      "options": [
+        {
+          "key": "A",
+          "text": "transmission"
+        },
+        {
+          "key": "B",
+          "text": "exchanges"
+        },
+        {
+          "key": "C",
+          "text": "transportation"
+        },
+        {
+          "key": "D",
+          "text": "communications"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "communications",
+          "meaning": "通信；通讯技术"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "information technology and communications 是常用并列表达，指“信息技术与通信技术”；transmission“传输”、transportation“运输”不能构成这一固定搭配。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第11题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-012",
+      "version": 1,
+      "originalNumber": 192,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "concentration"
+      ],
+      "type": "single",
+      "stem": "As indicated in a latest scientific report, the ozone ___ in the lower stratosphere has declined.",
+      "stemZh": "正如最新一份科学报告所示，平流层下部的臭氧浓度已经下降。",
+      "options": [
+        {
+          "key": "A",
+          "text": "attention"
+        },
+        {
+          "key": "B",
+          "text": "concentration"
+        },
+        {
+          "key": "C",
+          "text": "focus"
+        },
+        {
+          "key": "D",
+          "text": "extent"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "concentration",
+          "meaning": "浓度"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "ozone concentration 指“臭氧浓度”，是环境科学的固定说法；attention、focus 指“注意、焦点”，extent 指“程度”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第12题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-013",
+      "version": 1,
+      "originalNumber": 193,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "conference"
+      ],
+      "type": "single",
+      "stem": "An international medical ___ was established for the interchange of new ideas and approaches.",
+      "stemZh": "为交流新思想和新方法，成立了一个国际医学会议。",
+      "options": [
+        {
+          "key": "A",
+          "text": "speech"
+        },
+        {
+          "key": "B",
+          "text": "reference"
+        },
+        {
+          "key": "C",
+          "text": "conference"
+        },
+        {
+          "key": "D",
+          "text": "discussion"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "conference",
+          "meaning": "会议"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "conference 可与 establish 搭配，表示“设立会议（机制）”；speech、reference、discussion 一般不与 establish 搭配表示“建立会议”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第13题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-014",
+      "version": 1,
+      "originalNumber": 194,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "contrast"
+      ],
+      "type": "single",
+      "stem": "This is in ___ to Group 3 species, which were not found in rice fields.",
+      "stemZh": "这与第3组物种形成对比，后者未在稻田中发现。",
+      "options": [
+        {
+          "key": "A",
+          "text": "complete"
+        },
+        {
+          "key": "B",
+          "text": "comply"
+        },
+        {
+          "key": "C",
+          "text": "abide"
+        },
+        {
+          "key": "D",
+          "text": "contrast"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "contrast",
+          "meaning": "对比"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "in contrast to 是固定短语，表示“与……形成对比”；complete 不与 in...to 搭配，comply 与 abide 的搭配分别是 comply with、abide by。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第14题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-015",
+      "version": 1,
+      "originalNumber": 195,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "cycle"
+      ],
+      "type": "single",
+      "stem": "The annual ___ structures many aspects of social life, not least the production of academic journals and the personal experience of growing older.",
+      "stemZh": "年度周期塑造了社会生活的许多方面，尤其是学术期刊的出版和个人变老的体验。",
+      "options": [
+        {
+          "key": "A",
+          "text": "circle"
+        },
+        {
+          "key": "B",
+          "text": "cycle"
+        },
+        {
+          "key": "C",
+          "text": "circulation"
+        },
+        {
+          "key": "D",
+          "text": "rotation"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "cycle",
+          "meaning": "周期，循环"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "annual cycle 指“年度周期”，与句首 annual 呼应；circle“圆圈”、circulation“流通”、rotation“旋转”都不能表示时间上的周期性。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第15题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-016",
+      "version": 1,
+      "originalNumber": 196,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "debate"
+      ],
+      "type": "single",
+      "stem": "In the academic circle, there is a heated ___ on how music is perceived, understood and used as an effective means of communication.",
+      "stemZh": "在学术界，关于音乐如何被感知、理解并用作有效交流手段，存在激烈的争论。",
+      "options": [
+        {
+          "key": "A",
+          "text": "approval"
+        },
+        {
+          "key": "B",
+          "text": "agreement"
+        },
+        {
+          "key": "C",
+          "text": "situation"
+        },
+        {
+          "key": "D",
+          "text": "debate"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "debate",
+          "meaning": "辩论，争论"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "a heated debate on... 是常见搭配，指“关于……的激烈辩论”；heated 一般不用来修饰 approval、agreement 或 situation。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第16题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-017",
+      "version": 1,
+      "originalNumber": 197,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "Despite"
+      ],
+      "type": "single",
+      "stem": "___ monitoring over 1000 potential recruits, this study has illustrated just how rarely a new individual enters the breeding population.",
+      "stemZh": "尽管对1000多名潜在新成员进行了监测，这项研究仍说明新个体进入繁殖群体的概率极低。",
+      "options": [
+        {
+          "key": "A",
+          "text": "Through"
+        },
+        {
+          "key": "B",
+          "text": "Though"
+        },
+        {
+          "key": "C",
+          "text": "Despite"
+        },
+        {
+          "key": "D",
+          "text": "But"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "Despite",
+          "meaning": "尽管"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "despite 后接名词或动名词，此处 Despite monitoring... 构成让步状语，表示“尽管对1000多名潜在对象进行了监测”；though、but 是连词，through 表方式“通过”，与后文结论不符。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第17题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-018",
+      "version": 1,
+      "originalNumber": 198,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "dimensions"
+      ],
+      "type": "single",
+      "stem": "Generally, DNA microarray (微阵列) data is information-rich, with multiple ___ of variability.",
+      "stemZh": "一般来说，DNA微阵列数据信息丰富，包含多个变异维度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "amount"
+        },
+        {
+          "key": "B",
+          "text": "choices"
+        },
+        {
+          "key": "C",
+          "text": "sizes"
+        },
+        {
+          "key": "D",
+          "text": "dimensions"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "dimensions",
+          "meaning": "维度"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "multiple dimensions of variability 指“多个变异维度”；amount 修饰不可数名词且不与 multiple 连用，choices“选择”、sizes“尺寸”不合学术语境。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第18题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-019",
+      "version": 1,
+      "originalNumber": 199,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "domestic"
+      ],
+      "type": "single",
+      "stem": "Generally speaking, manufacturing output for a company consists of both exports and sales on the ___ market.",
+      "stemZh": "一般来说，一家公司的制造业产出既包括出口，也包括国内市场上的销售。",
+      "options": [
+        {
+          "key": "A",
+          "text": "homely"
+        },
+        {
+          "key": "B",
+          "text": "domestic"
+        },
+        {
+          "key": "C",
+          "text": "inward"
+        },
+        {
+          "key": "D",
+          "text": "intrinsic"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "domestic",
+          "meaning": "国内的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "domestic market 与 exports 相对，指“国内市场”；homely“家常的”、inward“向内的”、intrinsic“内在的”都不表示“国内”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第19题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-020",
+      "version": 1,
+      "originalNumber": 200,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "emerged"
+      ],
+      "type": "single",
+      "stem": "In both of these studies maximizing choice and control over one's life ___ as key themes which underpinned these more specific outcomes.",
+      "stemZh": "在这两项研究中，“最大化对生活的选择与控制”都作为支撑这些更具体结果的关键主题浮现出来。",
+      "options": [
+        {
+          "key": "A",
+          "text": "considered"
+        },
+        {
+          "key": "B",
+          "text": "showed"
+        },
+        {
+          "key": "C",
+          "text": "emerged"
+        },
+        {
+          "key": "D",
+          "text": "displayed"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "emerged",
+          "meaning": "出现，显现"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "emerge as 表示“作为……显现出来”，此处为不及物用法；consider、show、display 表达此义需用被动语态，且与 as key themes 搭配不当。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第20题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-021",
+      "version": 1,
+      "originalNumber": 201,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "errors"
+      ],
+      "type": "single",
+      "stem": "Further analysis examined three types of possible ___ at each level of the task.",
+      "stemZh": "进一步的分析考察了任务每个层级上三种可能出现的错误。",
+      "options": [
+        {
+          "key": "A",
+          "text": "contents"
+        },
+        {
+          "key": "B",
+          "text": "scores"
+        },
+        {
+          "key": "C",
+          "text": "errors"
+        },
+        {
+          "key": "D",
+          "text": "details"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "errors",
+          "meaning": "错误"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "possible errors 是常见搭配，指“可能出现的错误”，与“在任务的每个层级上考察三类可能……”的语境契合；contents、scores、details 均不如 errors 贴切。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第21题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-022",
+      "version": 1,
+      "originalNumber": 202,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "ethnic"
+      ],
+      "type": "single",
+      "stem": "Information about social class, ___ origin, employment status, type of housing tenure, and access to a car was obtained from the subjects.",
+      "stemZh": "从受试者处获取了有关社会阶层、民族出身、就业状况、住房类型以及是否拥有汽车的信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "ethic"
+        },
+        {
+          "key": "B",
+          "text": "ethnic"
+        },
+        {
+          "key": "C",
+          "text": "gender"
+        },
+        {
+          "key": "D",
+          "text": "class"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "ethnic",
+          "meaning": "种族的，民族的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "ethnic origin 指“民族或种族出身”，与社会阶层、就业状况并列；ethic 是名词“伦理”，gender 和 class 在句中已有对应成分，填入会语义重复。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第22题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-023",
+      "version": 1,
+      "originalNumber": 203,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "goals"
+      ],
+      "type": "single",
+      "stem": "Otherwise, we would end up with endless analyses of many features without having defined the ___ of a given analysis.",
+      "stemZh": "否则，我们最终会对许多特征进行无休止的分析，却没有界定某一分析的目标。",
+      "options": [
+        {
+          "key": "A",
+          "text": "reasoning"
+        },
+        {
+          "key": "B",
+          "text": "means"
+        },
+        {
+          "key": "C",
+          "text": "goals"
+        },
+        {
+          "key": "D",
+          "text": "tools"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "goals",
+          "meaning": "目标"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "define the goals 指“界定目标”；define 通常不与 reasoning、means、tools 搭配来表示“界定某一分析的目的”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第23题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-024",
+      "version": 1,
+      "originalNumber": 204,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "grant"
+      ],
+      "type": "single",
+      "stem": "The court's decision, however, does not ___ unlimited discretion to the parents.",
+      "stemZh": "然而，法院的判决并未赋予父母无限的自主决定权。",
+      "options": [
+        {
+          "key": "A",
+          "text": "present"
+        },
+        {
+          "key": "B",
+          "text": "offer"
+        },
+        {
+          "key": "C",
+          "text": "lend"
+        },
+        {
+          "key": "D",
+          "text": "grant"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "grant",
+          "meaning": "授予，给予"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "grant discretion to sb 是法律语境中的固定搭配，指“授予某人自由裁量权”；present、offer、lend 都不能与 discretion 构成这一法律表达。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第24题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-025",
+      "version": 1,
+      "originalNumber": 205,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "hence"
+      ],
+      "type": "single",
+      "stem": "Technical inefficiency is the deviation of an individual vessel's production from this best-practice frontier, and ___ is a measure of relative technical efficiency.",
+      "stemZh": "技术无效率是指单艘渔船产量偏离最佳实践前沿的程度，因此它是衡量相对技术效率的指标。",
+      "options": [
+        {
+          "key": "A",
+          "text": "nevertheless"
+        },
+        {
+          "key": "B",
+          "text": "whatever"
+        },
+        {
+          "key": "C",
+          "text": "however"
+        },
+        {
+          "key": "D",
+          "text": "hence"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "hence",
+          "meaning": "因此"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "前后为因果关系，hence 表示“因此”；nevertheless、however 表转折，whatever 是代词，均不能连接因果。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第25题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-026",
+      "version": 1,
+      "originalNumber": 206,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "hypotheses"
+      ],
+      "type": "single",
+      "stem": "It is clear that some abstract robot representations have usefully tested some relatively specific biological ___.",
+      "stemZh": "显然，一些抽象的机器人表征已经有效地检验了一些相对具体的生物学假设。",
+      "options": [
+        {
+          "key": "A",
+          "text": "theories"
+        },
+        {
+          "key": "B",
+          "text": "hypotheses"
+        },
+        {
+          "key": "C",
+          "text": "statements"
+        },
+        {
+          "key": "D",
+          "text": "analogies"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "hypotheses",
+          "meaning": "假设"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "test hypotheses 指“检验假设”，是学术固定表达；此处强调的是可供检验的具体假说，statements、analogies 也不与 test 构成这一含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第26题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-027",
+      "version": 1,
+      "originalNumber": 207,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "implementation"
+      ],
+      "type": "single",
+      "stem": "The government's approach to settlement changed radically during the early ___ of the economic reform.",
+      "stemZh": "在经济改革初期，政府的定居政策发生了根本性变化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "replacing"
+        },
+        {
+          "key": "B",
+          "text": "placing"
+        },
+        {
+          "key": "C",
+          "text": "implementation"
+        },
+        {
+          "key": "D",
+          "text": "implication"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "implementation",
+          "meaning": "实施，执行"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "the early implementation of the reform 指“改革初期的实施阶段”；replacing、placing 是动词形式，implication“含义”与语境不符。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第27题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-028",
+      "version": 1,
+      "originalNumber": 208,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "implications"
+      ],
+      "type": "single",
+      "stem": "Distinguishing between these two alternative hypotheses has important ___ for the behavior of political parties.",
+      "stemZh": "区分这两种相互竞争的假设，对政党的行为有重要启示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "implementation"
+        },
+        {
+          "key": "B",
+          "text": "meanings"
+        },
+        {
+          "key": "C",
+          "text": "significance"
+        },
+        {
+          "key": "D",
+          "text": "implications"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "implications",
+          "meaning": "影响，启示"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "have implications for sth 是固定搭配，表示“对……有影响或启示”；implementation“实施”、meanings“意义”、significance“重要性”都不构成这一表达。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第28题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-029",
+      "version": 1,
+      "originalNumber": 209,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "imposes"
+      ],
+      "type": "single",
+      "stem": "Much of the existing work on the press ___ a clear division between the eighteenth and the nineteenth century.",
+      "stemZh": "现有关于新闻业的研究大多在18世纪与19世纪之间强行划出了一条明确的分界。",
+      "options": [
+        {
+          "key": "A",
+          "text": "generates"
+        },
+        {
+          "key": "B",
+          "text": "imposes"
+        },
+        {
+          "key": "C",
+          "text": "produces"
+        },
+        {
+          "key": "D",
+          "text": "supposes"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "imposes",
+          "meaning": "强加；强行施加"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "impose a division between 指“强行划定……之间的分野”，为正式用语；generate、produce 侧重“产生”，suppose 不能以 division 作宾语。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第29题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-030",
+      "version": 1,
+      "originalNumber": 210,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "integration"
+      ],
+      "type": "single",
+      "stem": "Here is one model of multiculturalism that works: ___ without assimilation.",
+      "stemZh": "这里有一个行之有效的多元文化模式：融合而不被同化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "integration"
+        },
+        {
+          "key": "B",
+          "text": "inclination"
+        },
+        {
+          "key": "C",
+          "text": "inclusion"
+        },
+        {
+          "key": "D",
+          "text": "comprehension"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "integration",
+          "meaning": "融合，整合"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "integration without assimilation 指“没有同化的融合”，是多元文化议题的常见表述；inclination“倾向”、inclusion“包含”、comprehension“理解”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第30题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-031",
+      "version": 1,
+      "originalNumber": 211,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "internal"
+      ],
+      "type": "single",
+      "stem": "Effects were found with two substantially different lists of words, each with good ___ consistency.",
+      "stemZh": "用两份差异很大的词表都发现了效应，且两份词表都具有良好的内部一致性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "inward"
+        },
+        {
+          "key": "B",
+          "text": "introvert"
+        },
+        {
+          "key": "C",
+          "text": "inside"
+        },
+        {
+          "key": "D",
+          "text": "internal"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "internal",
+          "meaning": "内部的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "internal consistency 是心理测量学术语，指“内部一致性”；inward“向内的”、introvert“内向者”、inside“里面的”都不能构成这一术语。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第31题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-032",
+      "version": 1,
+      "originalNumber": 212,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "investigation"
+      ],
+      "type": "single",
+      "stem": "Further ___ is required, because the issues are too important for simply assuming that persistence and intractability necessarily imply an organic genesis.",
+      "stemZh": "需要进一步调查，因为这些问题太重要了，不能仅凭假设就认为持续存在和难以处理必然意味着器质性病因。",
+      "options": [
+        {
+          "key": "A",
+          "text": "provision"
+        },
+        {
+          "key": "B",
+          "text": "investigation"
+        },
+        {
+          "key": "C",
+          "text": "elaboration"
+        },
+        {
+          "key": "D",
+          "text": "calculation"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "investigation",
+          "meaning": "调查，研究"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "further investigation is required 是学术语篇的常用句式，表示“需要进一步研究”；provision“提供”、elaboration“阐述”、calculation“计算”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第32题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-033",
+      "version": 1,
+      "originalNumber": 213,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "job"
+      ],
+      "type": "single",
+      "stem": "The builders are aiming to get the ___ done by the end of the month.",
+      "stemZh": "建筑工人力争在月底前把这项工程干完。",
+      "options": [
+        {
+          "key": "A",
+          "text": "job"
+        },
+        {
+          "key": "B",
+          "text": "instruction"
+        },
+        {
+          "key": "C",
+          "text": "construction"
+        },
+        {
+          "key": "D",
+          "text": "administration"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "job",
+          "meaning": "工作，活儿"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "get the job done 是固定表达，意为“把活儿干完”；instruction、administration 与 done 搭配不当，construction 与 get...done 连用也不如 job 自然。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第33题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-034",
+      "version": 1,
+      "originalNumber": 214,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "label"
+      ],
+      "type": "single",
+      "stem": "A ___ refers to a brief descriptive phrase or term given to a person, group, school of thought.",
+      "stemZh": "标签是指赋予个人、群体或学派的简短描述性短语或术语。",
+      "options": [
+        {
+          "key": "A",
+          "text": "signal"
+        },
+        {
+          "key": "B",
+          "text": "sign"
+        },
+        {
+          "key": "C",
+          "text": "label"
+        },
+        {
+          "key": "D",
+          "text": "brand"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "label",
+          "meaning": "标签，称号"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "label 指贴在人或事物上的“标签、称号”，与定义中的“简短的描述性短语或术语”对应；signal、sign 指“信号、标志”，brand 指“品牌”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第34题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-035",
+      "version": 1,
+      "originalNumber": 215,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "mechanism"
+      ],
+      "type": "single",
+      "stem": "In addition to treatment outcome, the trial sought to determine possible ___ of action of the problem-solving intervention.",
+      "stemZh": "除治疗效果外，该试验还试图确定问题解决干预可能的作用机制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "description"
+        },
+        {
+          "key": "B",
+          "text": "mechanism"
+        },
+        {
+          "key": "C",
+          "text": "machinery"
+        },
+        {
+          "key": "D",
+          "text": "prescription"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "mechanism",
+          "meaning": "机制"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "mechanism of action 是医学固定表达，指“作用机制”；machinery 指“机器”，description、prescription 不与 of action 构成这一术语。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第35题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-036",
+      "version": 1,
+      "originalNumber": 216,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "obvious"
+      ],
+      "type": "single",
+      "stem": "No straightforward arguments or ___ observations are known to answer this question.",
+      "stemZh": "目前还没有直截了当的论证或决定性的观察结果能够回答这个问题。",
+      "options": [
+        {
+          "key": "A",
+          "text": "sensitive"
+        },
+        {
+          "key": "B",
+          "text": "derivative"
+        },
+        {
+          "key": "C",
+          "text": "obvious"
+        },
+        {
+          "key": "D",
+          "text": "decisive"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "obvious",
+          "meaning": "明显的"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "obvious observations 指“显而易见的观察结果”，与 straightforward arguments 并列；sensitive“敏感的”、derivative“衍生的”、decisive“决定性的”都不能与 observations 搭配表达“显然可见”的含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第36题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-037",
+      "version": 1,
+      "originalNumber": 217,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "occupational"
+      ],
+      "type": "single",
+      "stem": "This table further illustrates the variation in ___ range which can be found in different working populations of married women.",
+      "stemZh": "该表进一步说明了在不同在职已婚女性群体中可见的职业范围差异。",
+      "options": [
+        {
+          "key": "A",
+          "text": "occasional"
+        },
+        {
+          "key": "B",
+          "text": "occupational"
+        },
+        {
+          "key": "C",
+          "text": "commercial"
+        },
+        {
+          "key": "D",
+          "text": "vocational"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "occupational",
+          "meaning": "职业的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "occupational range 指“职业范围”，用于描述不同在职已婚女性群体；occasional“偶尔的”、commercial“商业的”不合语境，vocational 虽也指职业，但多用于教育培训语境。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第37题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-038",
+      "version": 1,
+      "originalNumber": 218,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "options"
+      ],
+      "type": "single",
+      "stem": "At each potential branching point, all the ___ we consider are logically possible, but only one of them is physically or spiritually possible.",
+      "stemZh": "在每个可能的分支点上，我们所考虑的所有选项在逻辑上都是可能的，但其中只有一项在物理上或精神上可行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "choices"
+        },
+        {
+          "key": "B",
+          "text": "alternatives"
+        },
+        {
+          "key": "C",
+          "text": "options"
+        },
+        {
+          "key": "D",
+          "text": "selection"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "options",
+          "meaning": "选项"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "option 是学术语境中表示“选项”的常用词，all the options we consider 指“我们所考虑的所有选项”；choices 偏日常用语，alternative 常指二选一的替代项，selection 指筛选行为。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第38题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-039",
+      "version": 1,
+      "originalNumber": 219,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "output"
+      ],
+      "type": "single",
+      "stem": "It learns from child-directed speech, and produces ___ that consists of actual utterances that can be directly compared to children's speech.",
+      "stemZh": "它从指向儿童的言语中学习，并生成由实际话语构成的输出，这些输出可以直接与儿童的话语相比较。",
+      "options": [
+        {
+          "key": "A",
+          "text": "product"
+        },
+        {
+          "key": "B",
+          "text": "output"
+        },
+        {
+          "key": "C",
+          "text": "outcome"
+        },
+        {
+          "key": "D",
+          "text": "input"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "output",
+          "meaning": "输出（结果）"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "output 在语言学中指“语言输出”，与后文 actual utterances 对应；product“产品”、outcome“结果”、input“输入”都不能指生成的话语。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第39题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-040",
+      "version": 1,
+      "originalNumber": 220,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "overall"
+      ],
+      "type": "single",
+      "stem": "The chapters illustrate a range of methods, although there is a/an ___ emphasis in favor of qualitative approaches.",
+      "stemZh": "各章展示了一系列方法，尽管总体上更偏向定性方法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "whole"
+        },
+        {
+          "key": "B",
+          "text": "general"
+        },
+        {
+          "key": "C",
+          "text": "wholesome"
+        },
+        {
+          "key": "D",
+          "text": "overall"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "overall",
+          "meaning": "总体的，全面的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "an overall emphasis 指“总体上的侧重”，为常见搭配；whole 不能这样修饰 emphasis，general emphasis 语义模糊，wholesome 指“有益健康的”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第40题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-041",
+      "version": 1,
+      "originalNumber": 221,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "Parallel"
+      ],
+      "type": "single",
+      "stem": "___ experiments in this research are being conducted in Rome, Paris and London so as to figure out the key factors influencing the outcome.",
+      "stemZh": "这项研究正在罗马、巴黎和伦敦开展平行实验，以找出影响结果的关键因素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "Identical"
+        },
+        {
+          "key": "B",
+          "text": "Diverse"
+        },
+        {
+          "key": "C",
+          "text": "Dissimilar"
+        },
+        {
+          "key": "D",
+          "text": "Parallel"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "Parallel",
+          "meaning": "平行的；类似的"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "parallel experiments 指在多地“平行开展”的实验，与罗马、巴黎、伦敦同时进行呼应；identical、dissimilar 强调异同，diverse 指“多样的”，均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第41题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-042",
+      "version": 1,
+      "originalNumber": 222,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "parameters"
+      ],
+      "type": "single",
+      "stem": "This model was used to analyze the raw data and estimate the ___ shown above directly from the data.",
+      "stemZh": "该模型用于分析原始数据，并直接从数据中估计上文所示的参数。",
+      "options": [
+        {
+          "key": "A",
+          "text": "paragraphs"
+        },
+        {
+          "key": "B",
+          "text": "parameters"
+        },
+        {
+          "key": "C",
+          "text": "diameters"
+        },
+        {
+          "key": "D",
+          "text": "monographs"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "parameters",
+          "meaning": "参数"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "estimate the parameters 指“估计参数”，是统计建模的固定表达；paragraphs“段落”、diameters“直径”、monographs“专著”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第42题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-043",
+      "version": 1,
+      "originalNumber": 223,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "phase"
+      ],
+      "type": "single",
+      "stem": "In Physics, a ___ is one of the forms in which matter can exist, such as solid, liquid, or a gas.",
+      "stemZh": "在物理学中，相是物质存在的形式之一，例如固态、液态或气态。",
+      "options": [
+        {
+          "key": "A",
+          "text": "praise"
+        },
+        {
+          "key": "B",
+          "text": "phrase"
+        },
+        {
+          "key": "C",
+          "text": "phase"
+        },
+        {
+          "key": "D",
+          "text": "face"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "phase",
+          "meaning": "相，相位；阶段"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "物理学中 phase 指物质的“相”（固态、液态、气态）；phrase“短语”、praise“赞扬”、face“脸”都是形近干扰项。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第43题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-044",
+      "version": 1,
+      "originalNumber": 224,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "predicted"
+      ],
+      "type": "single",
+      "stem": "These studies suggest that patient self-rated health ___ survival independently.",
+      "stemZh": "这些研究表明，患者自评健康状况可以独立预测生存情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "assumed"
+        },
+        {
+          "key": "B",
+          "text": "predicted"
+        },
+        {
+          "key": "C",
+          "text": "foresaw"
+        },
+        {
+          "key": "D",
+          "text": "presumed"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "predicted",
+          "meaning": "预测"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "predict survival 指“预测生存情况”，符合医学研究语境；assume、presume 意为“假定”，foresee 指“预见”未来事件，不与 survival 构成统计预测的含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第44题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-045",
+      "version": 1,
+      "originalNumber": 225,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "principal"
+      ],
+      "type": "single",
+      "stem": "AIG Corporation also acts as a ___ investor in the energy and infrastructure sectors.",
+      "stemZh": "AIG公司还充当能源和基础设施领域的主要投资者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "principal"
+        },
+        {
+          "key": "B",
+          "text": "principle"
+        },
+        {
+          "key": "C",
+          "text": "dominant"
+        },
+        {
+          "key": "D",
+          "text": "dominated"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "principal",
+          "meaning": "主要的"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "principal investor 指“主要投资者”；principle 是名词“原则”，dominant 修饰 investor 不如 principal 常见，dominated“被支配的”语义相反。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第45题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-046",
+      "version": 1,
+      "originalNumber": 226,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "prior"
+      ],
+      "type": "single",
+      "stem": "Applicants should have ___ experience of the pharmaceutical sector and relevant qualifications.",
+      "stemZh": "申请者应具备制药行业的先前经验和相关资质。",
+      "options": [
+        {
+          "key": "A",
+          "text": "superior"
+        },
+        {
+          "key": "B",
+          "text": "before"
+        },
+        {
+          "key": "C",
+          "text": "prior"
+        },
+        {
+          "key": "D",
+          "text": "preceding"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "prior",
+          "meaning": "先前的"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "prior experience 指“先前的经验”，为职场与学术语篇的固定表达；before 不能作定语，superior“更好的”、preceding“紧接在前的”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第46题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-047",
+      "version": 1,
+      "originalNumber": 227,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "professional"
+      ],
+      "type": "single",
+      "stem": "These two books will be especially useful for editors, journalists, and other ___ users of the language.",
+      "stemZh": "这两本书对编辑、记者以及其他专业语言使用者尤其有用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "amateur"
+        },
+        {
+          "key": "B",
+          "text": "professional"
+        },
+        {
+          "key": "C",
+          "text": "technical"
+        },
+        {
+          "key": "D",
+          "text": "casual"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "professional",
+          "meaning": "专业的"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "professional users of the language 指“专业语言使用者”，与编辑、记者并列；amateur“业余的”、casual“随意的”语义相反，technical 指“技术的”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第47题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-048",
+      "version": 1,
+      "originalNumber": 228,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "projected"
+      ],
+      "type": "single",
+      "stem": "In every modern lecture hall, digital videos are usually ___ on a huge screen.",
+      "stemZh": "在每间现代报告厅里，数字视频通常被投射到巨大的屏幕上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "shot"
+        },
+        {
+          "key": "B",
+          "text": "placed"
+        },
+        {
+          "key": "C",
+          "text": "projected"
+        },
+        {
+          "key": "D",
+          "text": "released"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "projected",
+          "meaning": "投射，放映"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "project 指把影像“投射、放映”到屏幕上；shoot 指“拍摄”，place 指“放置”，release 指“发布”，都不能表示放映。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第48题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-049",
+      "version": 1,
+      "originalNumber": 229,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "promote"
+      ],
+      "type": "single",
+      "stem": "Share information and offer tips to followers to grow interest in your page and ___ your products.",
+      "stemZh": "与关注者分享信息并提供建议，以提升他们对你页面的兴趣并推广你的产品。",
+      "options": [
+        {
+          "key": "A",
+          "text": "boost"
+        },
+        {
+          "key": "B",
+          "text": "improve"
+        },
+        {
+          "key": "C",
+          "text": "increase"
+        },
+        {
+          "key": "D",
+          "text": "promote"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "promote",
+          "meaning": "推广，促销"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "promote products 指“推广产品”，与 grow interest 并列；boost 多指“提升数量或销量”，improve 指“改善”，increase 指“增加”，都不如 promote 贴合营销语境。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第49题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-050",
+      "version": 1,
+      "originalNumber": 230,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "regime"
+      ],
+      "type": "single",
+      "stem": "Concerns have been raised over the insolvency ___ after the government highlighted serious regulatory faults.",
+      "stemZh": "在政府指出严重的监管缺陷后，人们对破产制度提出了担忧。",
+      "options": [
+        {
+          "key": "A",
+          "text": "power"
+        },
+        {
+          "key": "B",
+          "text": "group"
+        },
+        {
+          "key": "C",
+          "text": "gang"
+        },
+        {
+          "key": "D",
+          "text": "regime"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "regime",
+          "meaning": "制度，体制"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "insolvency regime 是法律与商务语篇的固定说法，指“破产（偿债）制度”；power、group、gang 都不能表示制度体系。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第50题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-051",
+      "version": 1,
+      "originalNumber": 231,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "resolutions"
+      ],
+      "type": "single",
+      "stem": "We then suggest possible sources and consequences of terminological confusion in developmental psychology and offer some potential ___.",
+      "stemZh": "随后我们指出发展心理学中术语混淆的可能来源与后果，并提出一些可能的解决办法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "findings"
+        },
+        {
+          "key": "B",
+          "text": "consequences"
+        },
+        {
+          "key": "C",
+          "text": "resolutions"
+        },
+        {
+          "key": "D",
+          "text": "measures"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "resolutions",
+          "meaning": "解决办法"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "offer resolutions 指“提出解决办法”，与前文 suggest sources and consequences 并列；offer 通常不与 findings、consequences 搭配，measures 一般用 take 或 adopt。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第51题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-052",
+      "version": 1,
+      "originalNumber": 232,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "retained"
+      ],
+      "type": "single",
+      "stem": "Only those variables that were significantly different between the groups under comparison were ___ for the propensity score model.",
+      "stemZh": "只有比较组间存在显著差异的变量才被保留用于倾向得分模型。",
+      "options": [
+        {
+          "key": "A",
+          "text": "rebuilt"
+        },
+        {
+          "key": "B",
+          "text": "retarded"
+        },
+        {
+          "key": "C",
+          "text": "retained"
+        },
+        {
+          "key": "D",
+          "text": "redeemed"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "retained",
+          "meaning": "保留"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "retain 指“保留（变量）纳入模型”；rebuild“重建”、retard“延缓”、redeem“赎回”均不合统计建模语境。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第52题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-053",
+      "version": 1,
+      "originalNumber": 233,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "series"
+      ],
+      "type": "single",
+      "stem": "The discipline has its own professors and academic structure, its own journals and ___ of publication.",
+      "stemZh": "该学科有自己的教授和学术结构，有自己的期刊和系列出版物。",
+      "options": [
+        {
+          "key": "A",
+          "text": "series"
+        },
+        {
+          "key": "B",
+          "text": "serials"
+        },
+        {
+          "key": "C",
+          "text": "sequence"
+        },
+        {
+          "key": "D",
+          "text": "sort"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "series",
+          "meaning": "系列"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "series of publications 指“系列出版物”，为固定表达；serials 指“连续剧、连载刊物”，sequence 强调“顺序”，sort 指“种类”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第53题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-054",
+      "version": 1,
+      "originalNumber": 234,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "statistics"
+      ],
+      "type": "single",
+      "stem": "The United States Department of Agriculture and the food industry collect sales ___ and keep accurate records.",
+      "stemZh": "美国农业部和食品行业收集销售统计数据并保存准确记录。",
+      "options": [
+        {
+          "key": "A",
+          "text": "decisions"
+        },
+        {
+          "key": "B",
+          "text": "conclusion"
+        },
+        {
+          "key": "C",
+          "text": "statements"
+        },
+        {
+          "key": "D",
+          "text": "statistics"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "statistics",
+          "meaning": "统计数据"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "collect sales statistics 指“收集销售统计数据”，为常见固定表达；decisions“决定”、conclusion“结论”、statements“报表”都不能与 collect 构成这一含义。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第54题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-055",
+      "version": 1,
+      "originalNumber": 235,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "status"
+      ],
+      "type": "single",
+      "stem": "The ___ of a nationally-famous brand would bring prestige to the producers and would secure higher prices.",
+      "stemZh": "全国知名品牌的地位会给生产者带来声望，并确保更高的价格。",
+      "options": [
+        {
+          "key": "A",
+          "text": "state"
+        },
+        {
+          "key": "B",
+          "text": "status"
+        },
+        {
+          "key": "C",
+          "text": "statue"
+        },
+        {
+          "key": "D",
+          "text": "condition"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "status",
+          "meaning": "地位，名声"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "status 指“地位、名声”，与 prestige 和更高的价格呼应；state、condition 指“状态”，statue 指“雕像”。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第55题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-056",
+      "version": 1,
+      "originalNumber": 236,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "stressed"
+      ],
+      "type": "single",
+      "stem": "Residents who had been involved in preference relocations ___ the importance of having choices for their initial and subsequent moves into, within and between care-homes.",
+      "stemZh": "参与过偏好性搬迁的居民强调了在最初及后续搬入、搬动于养老院之间时拥有选择权的重要性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "pointed"
+        },
+        {
+          "key": "B",
+          "text": "called"
+        },
+        {
+          "key": "C",
+          "text": "stressed"
+        },
+        {
+          "key": "D",
+          "text": "focused"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "stressed",
+          "meaning": "强调"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "stress the importance 是固定搭配，指“强调……的重要性”；point、call、focus 表示“指出、称为、聚焦”时需搭配 out、on 等，不能直接接 the importance。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第56题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-057",
+      "version": 1,
+      "originalNumber": 237,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "to"
+      ],
+      "type": "single",
+      "stem": "In many societies, both fictional and authentic, women are commonly depicted as subordinate ___ men.",
+      "stemZh": "在许多社会——无论是虚构的还是真实的——女性通常被描绘为从属于男性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "to"
+        },
+        {
+          "key": "B",
+          "text": "against"
+        },
+        {
+          "key": "C",
+          "text": "with"
+        },
+        {
+          "key": "D",
+          "text": "at"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "to",
+          "meaning": "（与 subordinate 搭配）从属于"
+        }
+      ],
+      "answer": [
+        "A"
+      ],
+      "explanation": "be subordinate to sb 是固定搭配，表示“从属于某人”；subordinate 不与 against、with、at 搭配。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第57题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-058",
+      "version": 1,
+      "originalNumber": 238,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "summed"
+      ],
+      "type": "single",
+      "stem": "Here is a real physical presence ___ up in one image following many hours of observation.",
+      "stemZh": "经过数小时的观察，这里呈现的是一幅概括了真实物理存在的图像。",
+      "options": [
+        {
+          "key": "A",
+          "text": "caught"
+        },
+        {
+          "key": "B",
+          "text": "summed"
+        },
+        {
+          "key": "C",
+          "text": "taken"
+        },
+        {
+          "key": "D",
+          "text": "brought"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "summed",
+          "meaning": "概括，总结"
+        }
+      ],
+      "answer": [
+        "B"
+      ],
+      "explanation": "sum up 指“概括、总结”，此处指经过数小时观察后在一幅图像中概括出真实的物理存在；catch up“赶上”、take up“占据”、bring up“养育”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第58题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-059",
+      "version": 1,
+      "originalNumber": 239,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "summary"
+      ],
+      "type": "single",
+      "stem": "Table 12.4 provides a ___ of how management perspectives have changed over the last 50 years.",
+      "stemZh": "表12.4概括了过去50年间管理视角的变迁。",
+      "options": [
+        {
+          "key": "A",
+          "text": "conclusion"
+        },
+        {
+          "key": "B",
+          "text": "generalization"
+        },
+        {
+          "key": "C",
+          "text": "summary"
+        },
+        {
+          "key": "D",
+          "text": "sum"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "summary",
+          "meaning": "总结，摘要"
+        }
+      ],
+      "answer": [
+        "C"
+      ],
+      "explanation": "provide a summary of 指“提供……的总结”，为学术写作固定搭配；conclusion 指“结论”，generalization 指“概括”，sum 多用于 the sum of。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第59题",
+        "answer": "课程官方答案"
+      }
+    },
+    {
+      "id": "E4-060",
+      "version": 1,
+      "originalNumber": 240,
+      "chapterNumber": 4,
+      "label": "子表4",
+      "chapter": "学术英语词表 子表4",
+      "tags": [
+        "undertaken"
+      ],
+      "type": "single",
+      "stem": "Traditionally, the study of language loss has been ___ from a sociolinguistic rather than a psycholinguistic perspective.",
+      "stemZh": "传统上，对语言丧失的研究是从社会语言学而非心理语言学的视角展开的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "undermined"
+        },
+        {
+          "key": "B",
+          "text": "underlined"
+        },
+        {
+          "key": "C",
+          "text": "overtaken"
+        },
+        {
+          "key": "D",
+          "text": "undertaken"
+        }
+      ],
+      "optionsZh": {},
+      "glossary": [
+        {
+          "term": "undertaken",
+          "meaning": "着手，开展"
+        }
+      ],
+      "answer": [
+        "D"
+      ],
+      "explanation": "the study is undertaken from...perspective 指“研究从……视角展开”，undertake 意为“着手进行”；undermine“削弱”、underline“强调”、overtake“超越”均不合。",
+      "candidateAnswer": [],
+      "phoneAnswer": [],
+      "reviewStatus": "approved",
+      "reviewFlag": null,
+      "source": {
+        "question": "子表4 第60题",
         "answer": "课程官方答案"
       }
     }
