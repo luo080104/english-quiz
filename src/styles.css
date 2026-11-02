@@ -1003,6 +1003,21 @@ sup {
   color: var(--bad);
 }
 
+.paper-input {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 10px 0;
+  padding: 10px;
+  background: #0a1226;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 1.5;
+  resize: vertical;
+}
+
 /* ---------- report card table ---------- */
 .score-table {
   display: flex;

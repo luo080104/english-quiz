@@ -248,6 +248,38 @@ export function recordPracticeAnswer(
   persist();
 }
 
+/**
+ * Merge question ids into the wrongbook (used for paper-book mistakes imported
+ * in bulk). Existing entries are left untouched so re-importing is idempotent;
+ * archived items are re-activated.
+ */
+export function addWrongQuestionIds(ids: string[]): { added: number; existed: number } {
+  const s = state();
+  const t = nowMs();
+  let added = 0;
+  let existed = 0;
+  for (const id of ids) {
+    s.archivedWrong = s.archivedWrong.filter((x) => x !== id);
+    const wb = s.wrongbook[id];
+    if (wb) {
+      wb.lastWrongAt = t;
+      existed += 1;
+    } else {
+      s.wrongbook[id] = {
+        questionId: id,
+        firstWrongAt: t,
+        lastWrongAt: t,
+        wrongCount: 1,
+        correctAfterWrong: 0,
+        mastered: false,
+      };
+      added += 1;
+    }
+  }
+  persist();
+  return { added, existed };
+}
+
 /** Practiced = at least one submitted attempt on that distinct question. */
 export function practicedQuestionIds(): string[] {
   return Object.values(state().practice.records)
