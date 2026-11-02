@@ -1,0 +1,17 @@
+{
+  "name": "english-quiz",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "学术英语词汇 300 题刷题网页（子表1–5，顺序练习 + 模拟 60 题）",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run build:bank && tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "build:bank": "node scripts/build-english-bank.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+tools/
+*.log
+preview.log
+.DS_Store
+srv.out
+srv.err
+tools/

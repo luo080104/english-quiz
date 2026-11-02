@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "stem": "To explore the mode of inheritance further we performed a complex segregation ___.",
+    "options": ["analysis", "inspection", "diagnosis", "arrangement"],
+    "answer": "A",
+    "word": "analysis",
+    "meaning": "分析，解析",
+    "explanation": "segregation analysis 是遗传学固定搭配，意为“分离分析”；inspection 检查、diagnosis 诊断、arrangement 安排都不能与 segregation 搭配表达此义。",
+    "stemZh": "为进一步探究遗传方式，我们进行了复杂的分离分析。"
+  },
+  {
+    "n": 2,
+    "stem": "The amount of carbon dioxide in the air is rapidly ___ the limits proposed by the Intergovernmental Panel on Climate Change.",
+    "options": ["processing", "approaching", "accomplishing", "accounting"],
+    "answer": "B",
+    "word": "approach",
+    "meaning": "接近，靠近",
+    "explanation": "approach 作动词表示“接近（某一数值或界限）”；process 加工、accomplish 完成、account 解释/占（比例）均不符合语境。",
+    "stemZh": "空气中的二氧化碳含量正迅速接近政府间气候变化专门委员会提出的上限。"
+  },
+  {
+    "n": 3,
+    "stem": "This mature Greensboro Country Park covers a/an ___ of 125 acres and is set in the countryside surrounding a reservoir.",
+    "options": ["size", "area", "space", "land"],
+    "answer": "B",
+    "word": "area",
+    "meaning": "面积；区域",
+    "explanation": "cover an area of... 是固定表达“占地……面积”；size 尺寸、space 空间、land 土地都不能与 cover a/an ... of 搭配表示面积。",
+    "stemZh": "这座成熟的格林斯伯勒郊野公园占地125英亩，坐落在水库周围的乡村中。"
+  },
+  {
+    "n": 4,
+    "stem": "The MTFS made a deliberately modest ___ of future rates of economic growth.",
+    "options": ["research", "judgment", "assessment", "determination"],
+    "answer": "C",
+    "word": "assessment",
+    "meaning": "评估，评价",
+    "explanation": "make an assessment of... 表示“对……作出评估”；research 研究、judgment 判断、determination 决心/测定，都不如 assessment 贴合“对增长率作评估”。",
+    "stemZh": "MTFS对未来经济增长率作了刻意保守的评估。"
+  },
+  {
+    "n": 5,
+    "stem": "It is reasonable to ___ that the economy will continue to improve and the unemployment rate will decrease.",
+    "options": ["assume", "pretend", "guarantee", "recognize"],
+    "answer": "A",
+    "word": "assume",
+    "meaning": "假定，认为",
+    "explanation": "It is reasonable to assume that... 是常用句式“有理由认为……”；pretend 假装、guarantee 保证、recognize 承认，语气都不符。",
+    "stemZh": "有理由认为经济将继续改善，失业率将下降。"
+  },
+  {
+    "n": 6,
+    "stem": "The federal government has the ___ to regulate phone service provided over the Internet.",
+    "options": ["majority", "authority", "identity", "community"],
+    "answer": "B",
+    "word": "authority",
+    "meaning": "权力；权威",
+    "explanation": "have the authority to do sth. 表示“有权做某事”；majority 多数、identity 身份、community 社区均不合。",
+    "stemZh": "联邦政府有权监管通过互联网提供的电话服务。"
+  },
+  {
+    "n": 7,
+    "stem": "Little information is ___ on how much time was spent on labour activities once pupils had left school.",
+    "options": ["visible", "present", "available", "feasible"],
+    "answer": "C",
+    "word": "available",
+    "meaning": "可获得的，可用的",
+    "explanation": "information is available on... 表示“关于……有可获取的信息”；visible 可见的、present 在场的、feasible 可行的均不搭配。",
+    "stemZh": "关于学生离校后花多少时间从事劳动活动，现有信息很少。"
+  },
+  {
+    "n": 8,
+    "stem": "According to the survey, health care coverage costs too much and the ___ aren't good enough.",
+    "options": ["defects", "benefits", "advantages", "efficiency"],
+    "answer": "B",
+    "word": "benefit",
+    "meaning": "益处；福利",
+    "explanation": "与 costs too much 对比，此处指医保的“福利/保障”不够好，benefits 最合；defects 缺陷、advantages 优势、efficiency 效率均不贴合。",
+    "stemZh": "调查显示，医疗保险费用过高，而保障福利又不够好。"
+  },
+  {
+    "n": 9,
+    "stem": "The topic of dynamics is based on the ___ that forces create movements which can be described as spatial changes within an all-controlling time domain.",
+    "options": ["origin", "equation", "concept", "formula"],
+    "answer": "C",
+    "word": "concept",
+    "meaning": "概念，观念",
+    "explanation": "be based on the concept that... 表示“建立在……概念之上”；origin 起源、equation 方程、formula 公式都不能概括后面的命题。",
+    "stemZh": "动力学这一主题建立在这样一个概念之上：力产生运动，而运动可描述为在完全受控的时间域内的空间变化。"
+  },
+  {
+    "n": 10,
+    "stem": "Despite these limitations, our results are ___ with previous studies that included pain assessment by patients and physicians.",
+    "options": ["different", "composed", "consistent", "contrary"],
+    "answer": "C",
+    "word": "consistent",
+    "meaning": "一致的；始终如一的",
+    "explanation": "be consistent with 表示“与……一致”，符合转折语境；be different from、be composed of、be contrary to 的搭配或语义不符。",
+    "stemZh": "尽管存在这些局限，我们的结果与以往包含医患疼痛评估的研究是一致的。"
+  },
+  {
+    "n": 11,
+    "stem": "He wants a new government, possibly with ___ reform at the top of its agenda—including a blueprint for a stronger presidency.",
+    "options": ["commercial", "conventional", "institutional", "constitutional"],
+    "answer": "D",
+    "word": "constitutional",
+    "meaning": "宪法的；符合宪法的",
+    "explanation": "与 government、presidency 呼应，constitutional reform 指“宪政改革”；commercial 商业的、conventional 传统的、institutional 制度的都不如 constitutional 具体。",
+    "stemZh": "他想要一个新政府，可能把宪政改革列在议程首位——包括一份加强总统权力的蓝图。"
+  },
+  {
+    "n": 12,
+    "stem": "His proposals can only be understood in the current cultural ___ of our nation.",
+    "options": ["occasion", "occurrence", "status", "context"],
+    "answer": "D",
+    "word": "context",
+    "meaning": "背景，语境",
+    "explanation": "in the ... context of 表示“在……背景下”，为固定搭配；occasion 场合、occurrence 发生、status 地位均不合。",
+    "stemZh": "他的提议只有放在我国当前的文化背景中才能被理解。"
+  },
+  {
+    "n": 13,
+    "stem": "The services that his company must provide under the ___ have been made more specific to reflect the consumers' needs.",
+    "options": ["contact", "contract", "settlement", "assurance"],
+    "answer": "B",
+    "word": "contract",
+    "meaning": "合同，契约",
+    "explanation": "under the contract 表示“依据合同”，与 provide services 呼应；contact 联系、settlement 解决/结算、assurance 保证均不合。",
+    "stemZh": "他的公司依据合同必须提供的服务已变得更加具体，以反映消费者的需求。"
+  },
+  {
+    "n": 14,
+    "stem": "The technology is being used to ___ more flexibility for the employer rather than the employee.",
+    "options": ["create", "cause", "emerge", "invent"],
+    "answer": "A",
+    "word": "create",
+    "meaning": "创造，带来",
+    "explanation": "create flexibility 表示“带来灵活性”；cause 引起（多指问题）、emerge 不及物“出现”、invent 发明具体物，均不搭配。",
+    "stemZh": "这项技术正被用来为雇主而非雇员带来更大的灵活性。"
+  },
+  {
+    "n": 15,
+    "stem": "Scientists hope that ___ from the space probe will pave the way for a more detailed exploration of Mars.",
+    "options": ["data", "media", "messages", "figures"],
+    "answer": "A",
+    "word": "data",
+    "meaning": "数据，资料",
+    "explanation": "space probe 传回的是 data（数据/资料），为不可数集合名词；media 媒体、messages 信息、figures 数字都不如 data 准确。",
+    "stemZh": "科学家希望太空探测器传回的数据将为更详细地探索火星铺平道路。"
+  },
+  {
+    "n": 16,
+    "stem": "Blu-ray allows consumers to view movies and other programs in high ___ , offering more than five times the storage capacity of traditional DVDs.",
+    "options": ["dimension", "precision", "definition", "description"],
+    "answer": "C",
+    "word": "definition",
+    "meaning": "清晰度；定义",
+    "explanation": "high definition 是固定术语“高清”；dimension 维度、precision 精确、description 描述均不与 high 搭配表示画质。",
+    "stemZh": "蓝光使消费者能以高清观看电影和其他节目，其存储容量是传统DVD的五倍以上。"
+  },
+  {
+    "n": 17,
+    "stem": "The criteria illustrated were ___ from an analysis of several topics selected from the Cockcroft Foundation list.",
+    "options": ["directed", "derived", "produced", "originated"],
+    "answer": "B",
+    "word": "derive",
+    "meaning": "源自，衍生",
+    "explanation": "be derived from 表示“源自/由……推导得出”；originate from 常用主动语态；direct 指导、produce 生产均不合。",
+    "stemZh": "所说明的标准源自对从科克罗夫特基金会清单中选出的若干主题的分析。"
+  },
+  {
+    "n": 18,
+    "stem": "Several studies have looked at the geographical ___ of doctors both in regions and in smaller districts.",
+    "options": ["division", "distribution", "separation", "circulation"],
+    "answer": "B",
+    "word": "distribution",
+    "meaning": "分布；分配",
+    "explanation": "geographical distribution 指“地理分布”；division 分工/划分、separation 分离、circulation 流通均不合。",
+    "stemZh": "若干研究考察了医生在地区和更小区域内的地理分布。"
+  },
+  {
+    "n": 19,
+    "stem": "Government-led investment in infrastructure and technology aims to boost individual consumption and ___ competitiveness.",
+    "options": ["religious", "academic", "economic", "artistic"],
+    "answer": "C",
+    "word": "economic",
+    "meaning": "经济的",
+    "explanation": "与 investment、consumption 并列，economic competitiveness 指“经济竞争力”；religious 宗教的、academic 学术的、artistic 艺术的均不合。",
+    "stemZh": "政府主导的基础设施和技术投资旨在提振个人消费和经济竞争力。"
+  },
+  {
+    "n": 20,
+    "stem": "Technology facilitates aspects of our teaching ___ and practice that make these improvements possible.",
+    "options": ["territory", "surroundings", "environment", "situation"],
+    "answer": "C",
+    "word": "environment",
+    "meaning": "环境",
+    "explanation": "teaching environment 指“教学环境”，与 practice 并列；territory 领土、surroundings 周围环境、situation 形势都不如 environment 贴切。",
+    "stemZh": "技术改善了我们的教学环境和实践，使这些改进成为可能。"
+  },
+  {
+    "n": 21,
+    "stem": "This set of principles and criteria are well ___ and almost uniformly accepted by experts in this field.",
+    "options": ["installed", "organized", "established", "contradicted"],
+    "answer": "C",
+    "word": "established",
+    "meaning": "确立的，公认的",
+    "explanation": "be well established 表示“已牢固确立/被广泛认可”，与 accepted 呼应；install 安装、organize 组织、contradict 反驳均不合。",
+    "stemZh": "这套原则和标准已牢固确立，并几乎被该领域专家一致接受。"
+  },
+  {
+    "n": 22,
+    "stem": "The new energy device mistakenly ___ the cost of electricity generation at around twice the likely figure.",
+    "options": ["considered", "estimated", "recognized", "identified"],
+    "answer": "B",
+    "word": "estimate",
+    "meaning": "估计，估算",
+    "explanation": "estimate sth. at... 表示“把……估计为……”；consider 认为、recognize 认出、identify 识别，均不接 at 表数值。",
+    "stemZh": "这种新能源设备错误地把发电成本估算为可能数字的两倍左右。"
+  },
+  {
+    "n": 23,
+    "stem": "There is mounting ___ that people whose diets are rich in vitamins are less likely to develop some types of cancer.",
+    "options": ["evidence", "incident", "element", "example"],
+    "answer": "A",
+    "word": "evidence",
+    "meaning": "证据",
+    "explanation": "mounting evidence that... 表示“越来越多的证据表明”，evidence 为不可数名词；incident 事件、element 要素、example 例子均不合。",
+    "stemZh": "越来越多的证据表明，饮食中富含维生素的人患某些类型癌症的可能性较低。"
+  },
+  {
+    "n": 24,
+    "stem": "This article tells you how to ___ files from UNIX to other computer systems.",
+    "options": ["transport", "transmit", "export", "convey"],
+    "answer": "C",
+    "word": "export",
+    "meaning": "导出，输出",
+    "explanation": "计算机领域把文件从一系统“导出”用 export；transport 运输、transmit 传输信号、convey 传达，都不如 export 专业。",
+    "stemZh": "本文介绍如何将文件从UNIX导出到其他计算机系统。"
+  },
+  {
+    "n": 25,
+    "stem": "Decisions are sometimes influenced by ___ such as the local authority's policies, political views of board members and the character of the appellant.",
+    "options": ["objects", "factors", "points", "items"],
+    "answer": "B",
+    "word": "factor",
+    "meaning": "因素",
+    "explanation": "influenced by factors such as... 表示“受……等因素影响”；object 物体、point 观点、item 项目均不合。",
+    "stemZh": "决策有时受地方当局政策、董事会成员政治观点以及上诉人性格等因素影响。"
+  },
+  {
+    "n": 26,
+    "stem": "Many studies have been undertaken to investigate the ___ sustainability of traditional pension systems and reform options from the macroeconomic standpoint.",
+    "options": ["cultural", "financial", "ecological", "sociological"],
+    "answer": "B",
+    "word": "financial",
+    "meaning": "财政的，金融的",
+    "explanation": "与 pension systems、macroeconomic 呼应，financial sustainability 指“财政可持续性”；cultural 文化的、ecological 生态的、sociological 社会学的均不合。",
+    "stemZh": "已开展许多研究，从宏观经济角度考察传统养老金体系的财政可持续性及改革方案。"
+  },
+  {
+    "n": 27,
+    "stem": "He developed a mathematical ___ describing the distances of the planets from the Sun.",
+    "options": ["formula", "principle", "recipe", "regulation"],
+    "answer": "A",
+    "word": "formula",
+    "meaning": "公式，配方",
+    "explanation": "mathematical formula 指“数学公式”，用于描述行星距离；principle 原理、recipe 食谱/诀窍、regulation 规章均不合。",
+    "stemZh": "他提出了一个描述行星与太阳距离的数学公式。"
+  },
+  {
+    "n": 28,
+    "stem": "A school curriculum must fulfill its primary ___ of serving to open to new ideas the minds of those who follow it.",
+    "options": ["effect", "operation", "function", "application"],
+    "answer": "C",
+    "word": "function",
+    "meaning": "功能，作用",
+    "explanation": "fulfill its function of... 表示“发挥……的功能”，为常用搭配；effect 效果、operation 操作、application 应用均不合。",
+    "stemZh": "学校课程必须发挥其主要功能，即让学习者的头脑乐于接受新思想。"
+  },
+  {
+    "n": 29,
+    "stem": "Contradiction between these two systems had been ___ as the driving force of change.",
+    "options": ["resumed", "associated", "guaranteed", "identified"],
+    "answer": "D",
+    "word": "identify",
+    "meaning": "认定，识别",
+    "explanation": "be identified as 表示“被认为是/被认定为”；be associated with 才表示“与……相关”，resume 恢复、guarantee 保证均不合。",
+    "stemZh": "这两种制度之间的矛盾一直被视为变革的驱动力。"
+  },
+  {
+    "n": 30,
+    "stem": "From 1973 to 1994 per capita ___ declined and this economic deterioration played a major role in bringing political change.",
+    "options": ["incomes", "rewards", "profits", "wages"],
+    "answer": "A",
+    "word": "income",
+    "meaning": "收入",
+    "explanation": "per capita income 是固定搭配“人均收入”；reward 报酬、profit 利润、wage 工资均不与 per capita 搭配表示总体收入。",
+    "stemZh": "1973年至1994年间人均收入下降，这种经济恶化在带来政治变革方面起了重要作用。"
+  },
+  {
+    "n": 31,
+    "stem": "There had been two smaller surveys whose results ___ some degree of disturbance in the population.",
+    "options": ["appeared", "emerged", "exhibited", "indicated"],
+    "answer": "D",
+    "word": "indicate",
+    "meaning": "表明，显示",
+    "explanation": "results indicated... 表示“结果表明……”；appear/emerge 不及物“出现”，exhibit 展示物品，均不合。",
+    "stemZh": "此前有两项规模较小的调查，其结果显示出一定程度的人口流动。"
+  },
+  {
+    "n": 32,
+    "stem": "The services are attractively priced and tailored to suit ___ requirements.",
+    "options": ["separate", "individual", "singular", "isolated"],
+    "answer": "B",
+    "word": "individual",
+    "meaning": "个人的，个别的",
+    "explanation": "tailored to suit individual requirements 指“按个性化需求定制”；separate 分开的、singular 单一的、isolated 孤立的均不合。",
+    "stemZh": "这些服务定价具有吸引力，并按个性化需求定制。"
+  },
+  {
+    "n": 33,
+    "stem": "The booklet is intended to provide a common ___ of these standards for use by the European chemical industry and certification bodies.",
+    "options": ["translation", "interpretation", "assumption", "composition"],
+    "answer": "B",
+    "word": "interpretation",
+    "meaning": "解释，理解",
+    "explanation": "provide a common interpretation of... 表示“提供对……的统一解释”；translation 翻译、assumption 假设、composition 组成均不合。",
+    "stemZh": "这本小册子旨在为欧洲化学工业和认证机构提供对这些标准的统一解释。"
+  },
+  {
+    "n": 34,
+    "stem": "The cumbersome and time-consuming method of voting, which ___ each member walking between two tellers and announcing his name, is partly designed to stop members sending their footmen to vote for them.",
+    "options": ["provides", "implies", "involves", "revolves"],
+    "answer": "C",
+    "word": "involve",
+    "meaning": "包含，涉及",
+    "explanation": "involve sb. doing sth. 表示“包含/需要某人做某事”；provide 提供、imply 暗示、revolve 旋转均不合。",
+    "stemZh": "这种繁琐费时的投票方法要求每位成员走到两位计票人之间报出姓名，其部分目的是防止成员派仆人去代投。"
+  },
+  {
+    "n": 35,
+    "stem": "Since the key ___ is the psychological pressure that law can exert on every individual mind, the law must be clear, well diffused, and foreseeable.",
+    "options": ["issue", "incident", "activity", "accident"],
+    "answer": "A",
+    "word": "issue",
+    "meaning": "问题，议题",
+    "explanation": "the key issue 指“关键问题”，与后文对法律的要求呼应；incident 事件、activity 活动、accident 事故均不合。",
+    "stemZh": "既然关键问题是法律能对每个人心理施加的压力，法律就必须清晰、广为传播且可预见。"
+  },
+  {
+    "n": 36,
+    "stem": "Employers use immigrants as a source of cheap ___ and this also usefully weakens the workforce politically by creating internal divisions.",
+    "options": ["labour", "power", "leisure", "function"],
+    "answer": "A",
+    "word": "labour",
+    "meaning": "劳动力，劳动",
+    "explanation": "cheap labour 是固定表达“廉价劳动力”；power 权力、leisure 闲暇、function 功能均不合。",
+    "stemZh": "雇主把移民当作廉价劳动力的来源，这也通过制造内部隔阂在政治上削弱了劳动力队伍。"
+  },
+  {
+    "n": 37,
+    "stem": "She won the court case, but she had to pay an enormous amount in ___ fees.",
+    "options": ["social", "legal", "religious", "biological"],
+    "answer": "B",
+    "word": "legal",
+    "meaning": "法律的，合法的",
+    "explanation": "legal fees 指“律师费/诉讼费”，与 court case 呼应；social 社会的、religious 宗教的、biological 生物的均不合。",
+    "stemZh": "她赢了官司，但不得不支付巨额律师费。"
+  },
+  {
+    "n": 38,
+    "stem": "The Data Protection Act is a piece of ___ aimed at protecting the privacy of the individual.",
+    "options": ["tension", "investigation", "prescription", "legislation"],
+    "answer": "D",
+    "word": "legislation",
+    "meaning": "立法，法规",
+    "explanation": "a piece of legislation 指“一项立法/法规”，与 Act 呼应；tension 紧张、investigation 调查、prescription 处方均不合。",
+    "stemZh": "《数据保护法》是一项旨在保护个人隐私的立法。"
+  },
+  {
+    "n": 39,
+    "stem": "This problem calls for a ___ change in the content of our primary education and for the raising of the school entry age.",
+    "options": ["major", "heavy", "light", "tiny"],
+    "answer": "A",
+    "word": "major",
+    "meaning": "重大的，主要的",
+    "explanation": "a major change 指“重大变革”；heavy 沉重的、light 轻微的、tiny 微小的，均与“改革”语域不符。",
+    "stemZh": "这一问题要求对小学教育内容作出重大变革，并提高入学年龄。"
+  },
+  {
+    "n": 40,
+    "stem": "This problem calls for the application of a scientific ___ to understand the fundamental processes of biology.",
+    "options": ["way", "form", "manner", "method"],
+    "answer": "D",
+    "word": "method",
+    "meaning": "方法",
+    "explanation": "a scientific method 指“科学方法”，与 application 搭配；way/form/manner 虽可表方式，但 scientific method 是固定术语。",
+    "stemZh": "这一问题需要运用科学方法来理解生物学的基本过程。"
+  },
+  {
+    "n": 41,
+    "stem": "If any of these symptoms ___ while you are taking the medication, consult your doctor immediately.",
+    "options": ["occur", "respond", "originate", "multiply"],
+    "answer": "A",
+    "word": "occur",
+    "meaning": "发生，出现",
+    "explanation": "symptoms occur 表示“症状出现”；respond 反应、originate 起源、multiply 繁殖均不合。",
+    "stemZh": "服药期间如出现这些症状中的任何一种，请立即咨询医生。"
+  },
+  {
+    "n": 42,
+    "stem": "Over ninety ___ of the world's data is indeed not held in a relational database, and it may not be appropriate for all forms of information.",
+    "options": ["rate", "scale", "percent", "proportion"],
+    "answer": "C",
+    "word": "percent",
+    "meaning": "百分比",
+    "explanation": "ninety percent of... 表示“百分之九十”，后接不可数名词 data 用单数 is；rate 比率、scale 规模、proportion 比例通常不直接跟数词加 of。",
+    "stemZh": "世界上超过90%的数据确实并未存储在关系型数据库中，而且关系型数据库可能并不适合所有形式的信息。"
+  },
+  {
+    "n": 43,
+    "stem": "Unemployment in the first half of the year was 2.5 percent lower than in the same ___ of the year before.",
+    "options": ["period", "phase", "level", "session"],
+    "answer": "A",
+    "word": "period",
+    "meaning": "时期，阶段",
+    "explanation": "the same period of the year 指“去年同期”；phase 阶段（过程）、level 水平、session 会期均不合。",
+    "stemZh": "今年上半年失业率比去年同期低2.5个百分点。"
+  },
+  {
+    "n": 44,
+    "stem": "A loose fiscal ___ would give the economy a badly needed short-term boost but would fail to deal with a variety of deeper problems.",
+    "options": ["case", "policy", "option", "issue"],
+    "answer": "B",
+    "word": "policy",
+    "meaning": "政策，方针",
+    "explanation": "fiscal policy 是固定搭配“财政政策”；case 案例、option 选择、issue 问题均不合。",
+    "stemZh": "宽松的财政政策会给经济带来急需的短期提振，但无法解决各种更深层的问题。"
+  },
+  {
+    "n": 45,
+    "stem": "In ___ , bonuses ought to fall when conditions get tough. In practice, they don't.",
+    "options": ["reality", "standard", "principle", "regulation"],
+    "answer": "C",
+    "word": "principle",
+    "meaning": "原则，原理",
+    "explanation": "in principle 表示“原则上”，与 in practice“实际上”形成对照；in reality 虽也表“事实上”，但与后文重复。",
+    "stemZh": "原则上，情况艰难时奖金应当下降。但实际上并没有。"
+  },
+  {
+    "n": 46,
+    "stem": "This proposal is bound to stimulate the evolution of formal ___ for overcoming the obstacles met by investigators.",
+    "options": ["processes", "procedures", "consequence", "services"],
+    "answer": "B",
+    "word": "procedure",
+    "meaning": "程序，步骤",
+    "explanation": "formal procedures for doing sth. 指“为做某事而设的正式程序”；process 过程、consequence 结果、service 服务均不合。",
+    "stemZh": "这项提议必将促进正式程序的演变，以克服研究人员遇到的障碍。"
+  },
+  {
+    "n": 47,
+    "stem": "A bug in the computer system was preventing it from ___ digital image files.",
+    "options": ["proceeding", "processing", "producing", "treating"],
+    "answer": "B",
+    "word": "process",
+    "meaning": "处理，加工",
+    "explanation": "process files 指“处理文件”，为计算机领域常用搭配；proceed 前进、produce 生产、treat 对待/治疗均不合。",
+    "stemZh": "计算机系统中的一个缺陷使其无法处理数字图像文件。"
+  },
+  {
+    "n": 48,
+    "stem": "Payments for emergency medical treatment, as ___ by the Road Traffic Acts, will not affect your no claim bonus.",
+    "options": ["prescribed", "required", "demanded", "requested"],
+    "answer": "B",
+    "word": "require",
+    "meaning": "要求，规定",
+    "explanation": "as required by... 表示“按照……的要求/规定”，多指法律法规；prescribe 开处方、demand 强烈要求、request 请求，都不如 required 正式。",
+    "stemZh": "按《道路交通法》要求支付的急救医疗费用不会影响你的无索赔奖励。"
+  },
+  {
+    "n": 49,
+    "stem": "Qualitative ___ is a process of naturalistic inquiry that seeks in-depth understanding of social phenomena within their natural setting.",
+    "options": ["research", "pursuit", "access", "measure"],
+    "answer": "A",
+    "word": "research",
+    "meaning": "研究",
+    "explanation": "qualitative research 是固定术语“质性研究”；pursuit 追求、access 获取、measure 措施均不合。",
+    "stemZh": "质性研究是一种自然主义探究过程，旨在深入理解自然情境中的社会现象。"
+  },
+  {
+    "n": 50,
+    "stem": "In ___ to rapidly dwindling forest resources, there are in many nations afforestation programmes on both small and large scales.",
+    "options": ["answer", "response", "reaction", "feedback"],
+    "answer": "B",
+    "word": "response",
+    "meaning": "回应，反应",
+    "explanation": "in response to 是固定搭配“为回应……”；in answer to 也可，但 response 更常用于对策；reaction、feedback 不搭配 in ... to。",
+    "stemZh": "为应对迅速减少的森林资源，许多国家开展了大小规模的造林计划。"
+  },
+  {
+    "n": 51,
+    "stem": "The kidney plays a vital ___ in the removal of waste products from the blood.",
+    "options": ["role", "task", "duty", "job"],
+    "answer": "A",
+    "word": "role",
+    "meaning": "角色，作用",
+    "explanation": "play a vital role in... 是固定搭配“在……中起重要作用”；task 任务、duty 职责、job 工作均不与 play a ... in 搭配。",
+    "stemZh": "肾脏在清除血液中的废物方面起着至关重要的作用。"
+  },
+  {
+    "n": 52,
+    "stem": "This questionnaire was divided into several ___ because it was necessary to collect information about the dementia sufferer from different sources.",
+    "options": ["objects", "sections", "elements", "regions"],
+    "answer": "B",
+    "word": "section",
+    "meaning": "部分，章节",
+    "explanation": "问卷被分为几个 section（部分）；object 物体、element 要素、region 地区均不合。",
+    "stemZh": "这份问卷被分成几个部分，因为需要从不同来源收集有关痴呆症患者的信息。"
+  },
+  {
+    "n": 53,
+    "stem": "The finance for the project will come from both the government and the private ___.",
+    "options": ["sector", "aspect", "zone", "sphere"],
+    "answer": "A",
+    "word": "sector",
+    "meaning": "部门，行业",
+    "explanation": "the private sector 是固定表达“私营部门”；aspect 方面、zone 区域、sphere 领域均不合。",
+    "stemZh": "该项目的资金将来自政府和私营部门。"
+  },
+  {
+    "n": 54,
+    "stem": "Research in the field of genito-urinary medicine has led to ___ health advances in the last decade.",
+    "options": ["indifferent", "temporary", "significant", "commonplace"],
+    "answer": "C",
+    "word": "significant",
+    "meaning": "重大的，显著的",
+    "explanation": "significant advances 指“重大进展”；indifferent 漠不关心的、temporary 暂时的、commonplace 普通的均不合。",
+    "stemZh": "泌尿生殖医学领域的研究在过去十年带来了重大的健康进步。"
+  },
+  {
+    "n": 55,
+    "stem": "Critics fear increased congestion problems ___ to those experienced by airlines because of air traffic control difficulties.",
+    "options": ["similar", "common", "likely", "incline"],
+    "answer": "A",
+    "word": "similar",
+    "meaning": "相似的",
+    "explanation": "similar to 表示“与……相似”，作后置定语；common to 意为“共有的”，likely 可能、incline 倾向均不合。",
+    "stemZh": "批评者担心，由于空中交通管制困难，拥堵问题会加剧，类似航空公司所经历的情况。"
+  },
+  {
+    "n": 56,
+    "stem": "Experts are trying to track down the ___ of the contamination in the water supply.",
+    "options": ["source", "result", "process", "origin"],
+    "answer": "A",
+    "word": "source",
+    "meaning": "来源，源头",
+    "explanation": "track down the source of... 指“追查……的来源”，与污染搭配；origin 起源更抽象，result 结果、process 过程均不如 source 具体。",
+    "stemZh": "专家正试图追查供水污染的来源。"
+  },
+  {
+    "n": 57,
+    "stem": "A/An ___ provision in the agreement stated that research materials should not be used for commercial purposes.",
+    "options": ["definite", "specific", "peculiar", "especial"],
+    "answer": "B",
+    "word": "specific",
+    "meaning": "具体的，特定的",
+    "explanation": "a specific provision 指“一项具体条款”，specific 与 provision 搭配最佳；definite 明确的、peculiar 奇怪的、especial 特别的都不如 specific 自然。",
+    "stemZh": "协议中有一项具体条款规定，研究材料不得用于商业目的。"
+  },
+  {
+    "n": 58,
+    "stem": "They analysed the internal ___ of firms in the plastics, container and consumer food industries in terms of differentiation and integration.",
+    "options": ["order", "structure", "design", "layout"],
+    "answer": "B",
+    "word": "structure",
+    "meaning": "结构，构造",
+    "explanation": "internal structure of firms 指“公司的内部结构”；order 秩序、design 设计、layout 布局均不合。",
+    "stemZh": "他们从分化和整合的角度分析了塑料、容器和消费食品行业公司的内部结构。"
+  },
+  {
+    "n": 59,
+    "stem": "They are debating on the relationship between ___ and practice and the balance between conservation and innovation.",
+    "options": ["principle", "theory", "philosophy", "generalization"],
+    "answer": "B",
+    "word": "theory",
+    "meaning": "理论",
+    "explanation": "theory and practice 是固定对应“理论与实践”；principle 原则、philosophy 哲学、generalization 概括均不与 practice 构成常用对照。",
+    "stemZh": "他们正在讨论理论与实践的关系，以及保守与创新之间的平衡。"
+  },
+  {
+    "n": 60,
+    "stem": "Among the ___ that could prevent us from finishing the building are the weather and the availability of materials.",
+    "options": ["variety", "various", "variations", "variables"],
+    "answer": "D",
+    "word": "variable",
+    "meaning": "变量，可变因素",
+    "explanation": "variables 指“可变因素”，与 weather、availability 并列作主语；variety 多样化、various 形容词、variation 变化均不合。",
+    "stemZh": "可能妨碍我们完成这栋建筑的可变因素包括天气和材料的可获得性。"
+  }
+]
