@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "stem": "To ___ this purpose, the commission stresses the importance of having reliable and comparable information on health interventions.",
+    "options": ["acquire", "achieve", "obtain", "perform"],
+    "answer": "B",
+    "word": "achieve",
+    "meaning": "达到，实现",
+    "explanation": "achieve the purpose 是固定搭配，表示“达到目的”；acquire/obtain 多指获得知识或物品，perform 常接 task/action。",
+    "stemZh": "为了实现这一目的，委员会强调拥有可靠且可比的卫生干预信息的重要性。"
+  },
+  {
+    "n": 2,
+    "stem": "The ___ of huge amounts of data has helped our research enormously.",
+    "options": ["accomplishment", "achievement", "registration", "acquisition"],
+    "answer": "D",
+    "word": "acquisition",
+    "meaning": "获得，获取",
+    "explanation": "the acquisition of data 表示“数据的获取”；accomplishment/achievement 强调成就，registration 意为注册。",
+    "stemZh": "海量数据的获取极大地帮助了我们的研究。"
+  },
+  {
+    "n": 3,
+    "stem": "The editorial criticizes the college's ___ for not taking a stand on the issue.",
+    "options": ["organization", "headquarter", "government", "administration"],
+    "answer": "D",
+    "word": "administration",
+    "meaning": "管理部门，行政",
+    "explanation": "college administration 指“学院管理层”，与后文“未表态”呼应；organization 机构、headquarters 总部、government 政府均不合语境。",
+    "stemZh": "社论批评该学院管理层在这个问题上没有表明立场。"
+  },
+  {
+    "n": 4,
+    "stem": "This assumption does not ___ the qualitative conclusions derived in the paper.",
+    "options": ["affect", "react", "attack", "impress"],
+    "answer": "A",
+    "word": "affect",
+    "meaning": "影响",
+    "explanation": "affect 及物，表示“影响结论”；react 不及物，常用 react to；attack 攻击、impress 留下印象均不搭配 conclusions。",
+    "stemZh": "这一假设并不影响论文中得出的定性结论。"
+  },
+  {
+    "n": 5,
+    "stem": "There has been research on teaching techniques for young learners, but what task types are ___ and efficient for testing children is an under-researched area.",
+    "options": ["relevant", "contrary", "complicated", "appropriate"],
+    "answer": "D",
+    "word": "appropriate",
+    "meaning": "合适的，恰当的",
+    "explanation": "与 and efficient 并列，需要褒义形容词，appropriate 表示“合适且高效”；relevant 相关的、contrary 相反的、complicated 复杂的均不合。",
+    "stemZh": "已有关于低龄学习者教学技巧的研究，但哪些任务类型适合且高效地测试儿童，仍是一个研究不足的领域。"
+  },
+  {
+    "n": 6,
+    "stem": "We must recognize that all ___ of human cultures are closely integrated.",
+    "options": ["sides", "faces", "points", "aspects"],
+    "answer": "D",
+    "word": "aspect",
+    "meaning": "方面",
+    "explanation": "aspects of human cultures 指“人类文化的各个方面”；sides 侧重边或面，faces 指脸，points 指要点，均不如 aspects 准确。",
+    "stemZh": "我们必须认识到，人类文化的各个方面都紧密相连。"
+  },
+  {
+    "n": 7,
+    "stem": "The minister revealed that the banking industry needed ___ from the taxpayer to survive.",
+    "options": ["alienation", "supervision", "assistance", "resistance"],
+    "answer": "C",
+    "word": "assistance",
+    "meaning": "帮助，援助",
+    "explanation": "need assistance from sb. to survive 表示“需要某人援助才能生存”；alienation 疏远、supervision 监督、resistance 抵制均与 survive 冲突。",
+    "stemZh": "部长透露，银行业需要纳税人的援助才能生存。"
+  },
+  {
+    "n": 8,
+    "stem": "Our responsibilities fall into two main ___: a coordination of branch recruitment work and our own independent initiatives.",
+    "options": ["views", "factors", "schools", "categories"],
+    "answer": "D",
+    "word": "category",
+    "meaning": "类别",
+    "explanation": "fall into categories 是固定表达“分为……类”；views 观点、factors 因素、schools 学派均不能与 fall into 搭配表示分类。",
+    "stemZh": "我们的职责分为两大类：协调分支机构招聘工作，以及我们自己的独立举措。"
+  },
+  {
+    "n": 9,
+    "stem": "It was mentioned in the previous ___ of this book that an awareness of the marketing environment has become a key element in the \"modern-day\" approach to marketing.",
+    "options": ["division", "chapter", "segment", "episode"],
+    "answer": "B",
+    "word": "chapter",
+    "meaning": "章节",
+    "explanation": "书的“章”用 chapter；division 指划分或部门，segment 指部分，episode 多指剧集或事件。",
+    "stemZh": "本书前一章提到，对营销环境的认识已成为“现代”营销方法的关键要素。"
+  },
+  {
+    "n": 10,
+    "stem": "A group of experts ___ by the finance ministry is thought to have recommended much self-regulation.",
+    "options": ["represented", "commissioned", "contracted", "permitted"],
+    "answer": "B",
+    "word": "commission",
+    "meaning": "委托，委任",
+    "explanation": "experts commissioned by... 指“受……委托的专家”；represented 代表、contracted 签约、permitted 允许均不合。",
+    "stemZh": "据认为，财政部委托的一个专家组建议实行大量自我监管。"
+  },
+  {
+    "n": 11,
+    "stem": "Drug trafficking is a matter of considerable concern for the entire international ___.",
+    "options": ["company", "community", "residence", "association"],
+    "answer": "B",
+    "word": "community",
+    "meaning": "社会，共同体",
+    "explanation": "international community 是固定表达“国际社会”；company 公司、residence 住所、association 协会均不合。",
+    "stemZh": "毒品贩运是整个国际社会高度关注的问题。"
+  },
+  {
+    "n": 12,
+    "stem": "The whole ___ underground system is interlocked and related, and meticulously mapped.",
+    "options": ["detailed", "complex", "obvious", "involved"],
+    "answer": "B",
+    "word": "complex",
+    "meaning": "复杂的",
+    "explanation": "complex system 指“复杂的系统”，与 interlocked and related 呼应；detailed 详细的、obvious 明显的、involved 多作表语。",
+    "stemZh": "整个复杂的地下系统相互交错、彼此关联，并被精心绘制成图。"
+  },
+  {
+    "n": 13,
+    "stem": "The data can subsequently be loaded on a ___ for processing, which greatly improves work efficiency.",
+    "options": ["computer", "generator", "manufacturer", "parameter"],
+    "answer": "A",
+    "word": "computer",
+    "meaning": "计算机",
+    "explanation": "load data on a computer for processing 指“把数据载入计算机处理”；generator 发电机、manufacturer 制造商、parameter 参数均不合。",
+    "stemZh": "随后数据可以加载到计算机上进行处理，这大大提高了工作效率。"
+  },
+  {
+    "n": 14,
+    "stem": "Scientists are still unable to come to a/an ___ as to the probable cause of earthquake.",
+    "options": ["elaboration", "prediction", "conclusion", "resolution"],
+    "answer": "C",
+    "word": "conclusion",
+    "meaning": "结论",
+    "explanation": "come to a conclusion 是固定搭配“得出结论”；elaboration 详述、prediction 预测、resolution 决心或决议均不合。",
+    "stemZh": "科学家们仍无法就地震的可能成因得出结论。"
+  },
+  {
+    "n": 15,
+    "stem": "We are ___ a survey to find out what our customers think of their local bus service.",
+    "options": ["conducting", "attending", "regulating", "conveying"],
+    "answer": "A",
+    "word": "conduct",
+    "meaning": "开展，进行",
+    "explanation": "conduct a survey 是正式搭配“开展调查”；attend 出席、regulate 管理、convey 传达均不能接 survey。",
+    "stemZh": "我们正在开展一项调查，以了解顾客对当地公交服务的看法。"
+  },
+  {
+    "n": 16,
+    "stem": "This section of the report provides a ___ analysis of specific risks to wildlife that may be associated with the building of the dam.",
+    "options": ["structure", "feasibility", "quality", "consequence"],
+    "answer": "D",
+    "word": "consequence",
+    "meaning": "后果",
+    "explanation": "consequence analysis 指“后果分析”，与对野生动物风险的分析吻合；structure/feasibility/quality analysis 分别指结构、可行性、质量分析，不合语境。",
+    "stemZh": "报告的这一部分对大坝建设可能给野生动物带来的具体风险进行了后果分析。"
+  },
+  {
+    "n": 17,
+    "stem": "He strongly proposed the ___ of databases on hazardous sites and especially events such as those involving toxic releases.",
+    "options": ["opposition", "destruction", "construction", "instruction"],
+    "answer": "C",
+    "word": "construction",
+    "meaning": "建设，构建",
+    "explanation": "the construction of databases 指“数据库的建设”；opposition 反对、destruction 破坏、instruction 指示均与 proposed 不搭。",
+    "stemZh": "他强烈建议建立关于危险场所特别是涉及有毒物质泄漏事件的数据库。"
+  },
+  {
+    "n": 18,
+    "stem": "Agricultural companies have failed to convince ___ that genetically modified foods are safe, so the market demand was shrinking.",
+    "options": ["manufacturers", "consumers", "researchers", "investors"],
+    "answer": "B",
+    "word": "consumer",
+    "meaning": "消费者",
+    "explanation": "与 market demand 呼应，被说服的对象应是 consumers“消费者”；manufacturers 制造商、researchers 研究者、investors 投资者均不合。",
+    "stemZh": "农业公司未能让消费者相信转基因食品是安全的，因此市场需求不断萎缩。"
+  },
+  {
+    "n": 19,
+    "stem": "The whole team deserves ___ for bringing the project in on time.",
+    "options": ["error", "credit", "fault", "resent"],
+    "answer": "B",
+    "word": "credit",
+    "meaning": "赞扬，功劳",
+    "explanation": "deserve credit for... 表示“因……值得称赞”；error/fault 错误、resent 怨恨（动词）均不合。",
+    "stemZh": "整个团队因按时完成项目而值得称赞。"
+  },
+  {
+    "n": 20,
+    "stem": "The ___ life of the country will sink into atrophy unless more writers and artists emerge.",
+    "options": ["political", "financial", "cultural", "religious"],
+    "answer": "C",
+    "word": "cultural",
+    "meaning": "文化的",
+    "explanation": "writers and artists 对应 cultural life“文化生活”；political 政治的、financial 财政的、religious 宗教的均不合。",
+    "stemZh": "除非涌现更多作家和艺术家，否则这个国家的文化生活将陷入萎缩。"
+  },
+  {
+    "n": 21,
+    "stem": "The building isn't ___ very well from the point of view of wheelchair access.",
+    "options": ["designed", "invented", "discovered", "adapted"],
+    "answer": "A",
+    "word": "design",
+    "meaning": "设计",
+    "explanation": "be designed 指“被设计”，与 wheelchair access 搭配；invent 发明、discover 发现、adapt 改造或适应均不合。",
+    "stemZh": "从轮椅使用者的角度来看，这栋建筑的设计并不太好。"
+  },
+  {
+    "n": 22,
+    "stem": "Martin Luther King clearly understood and accepted the ___ between preaching and scholarly criticism.",
+    "options": ["variation", "transition", "superiority", "distinction"],
+    "answer": "D",
+    "word": "distinction",
+    "meaning": "区别，差异",
+    "explanation": "the distinction between A and B 表示“A 与 B 的区别”；variation 变化、transition 过渡、superiority 优越均不合。",
+    "stemZh": "马丁·路德·金清楚地理解并接受了布道与学术批评之间的区别。"
+  },
+  {
+    "n": 23,
+    "stem": "Disclosure of environmental information is an essential ___ in monitoring the progress towards achieving these objectives.",
+    "options": ["part", "element", "substance", "component"],
+    "answer": "B",
+    "word": "element",
+    "meaning": "要素，组成部分",
+    "explanation": "an essential element in... 指“做……的关键要素”；part 泛指部分，substance 物质，component 多指组成整体的部件。",
+    "stemZh": "环境信息公开是监测实现这些目标进展的关键要素。"
+  },
+  {
+    "n": 24,
+    "stem": "Profit can be calculated using the simple ___ P=R−C (Profit = Revenue minus Cost).",
+    "options": ["relation", "equation", "association", "comparison"],
+    "answer": "B",
+    "word": "equation",
+    "meaning": "方程，等式",
+    "explanation": "P=R−C 是一个 equation“等式/公式”；relation 关系、association 关联、comparison 比较均不能指数学表达式。",
+    "stemZh": "利润可以用简单的等式 P=R−C（利润=收入−成本）计算。"
+  },
+  {
+    "n": 25,
+    "stem": "Based on its ___ of market conditions, the company had decided not to repurchase shares at this time.",
+    "options": ["calculation", "evaluation", "generation", "demonstration"],
+    "answer": "B",
+    "word": "evaluation",
+    "meaning": "评估",
+    "explanation": "evaluation of market conditions 指“对市场状况的评估”；calculation 具体计算、generation 产生、demonstration 演示均不合。",
+    "stemZh": "基于对市场状况的评估，公司决定此时不回购股票。"
+  },
+  {
+    "n": 26,
+    "stem": "With every software update comes new ___ to protect users, including parental controls and spam filtering.",
+    "options": ["characters", "trait", "features", "specialties"],
+    "answer": "C",
+    "word": "feature",
+    "meaning": "功能，特点",
+    "explanation": "software features 指“软件功能”；characters 字符或人物、trait 性格特征、specialties 特产或专长均不合。",
+    "stemZh": "每次软件更新都会带来保护用户的新功能，包括家长控制和垃圾邮件过滤。"
+  },
+  {
+    "n": 27,
+    "stem": "Construction will be postponed until the council approves the building's ___ design.",
+    "options": ["final", "initial", "primary", "eventual"],
+    "answer": "A",
+    "word": "final",
+    "meaning": "最终的",
+    "explanation": "final design 指“最终设计”，是开工前需审批的版本；initial 最初的、primary 主要的、eventual 最终结果的均不合。",
+    "stemZh": "施工将推迟到市议会批准该建筑的最终设计之后。"
+  },
+  {
+    "n": 28,
+    "stem": "The media ___ on politicians' private lives inevitably switches the attention away from the real issues.",
+    "options": ["aim", "point", "focus", "circle"],
+    "answer": "C",
+    "word": "focus",
+    "meaning": "聚焦，关注",
+    "explanation": "focus on 是固定搭配“聚焦于”；aim 瞄准、point 指向、circle 环绕均不能与 on 搭配表达此义。",
+    "stemZh": "媒体对政客私生活的关注不可避免地转移了人们对真正问题的注意力。"
+  },
+  {
+    "n": 29,
+    "stem": "The increase in the number of young people leaving to work in the cities has had a dramatic ___ on the demography of the villages.",
+    "options": ["result", "force", "impact", "contact"],
+    "answer": "C",
+    "word": "impact",
+    "meaning": "影响",
+    "explanation": "have an impact on 是固定搭配“对……产生影响”；result 结果、force 力量、contact 接触均不接 on 表影响。",
+    "stemZh": "离开农村去城市工作的年轻人数量增加，对村庄的人口结构产生了巨大影响。"
+  },
+  {
+    "n": 30,
+    "stem": "An employee who suffers personal ___ as a result of an act of violence may be eligible to receive an award from the Criminal Injuries Compensation Board.",
+    "options": ["ache", "pain", "wound", "injury"],
+    "answer": "D",
+    "word": "injury",
+    "meaning": "伤害，损伤",
+    "explanation": "suffer injury 是正式表达“受伤”；ache/pain 指疼痛，wound 多指刀枪等造成的伤口，均不如 injury 贴合法律语境。",
+    "stemZh": "因暴力行为而遭受人身伤害的员工可能有资格获得刑事伤害赔偿委员会的赔偿。"
+  },
+  {
+    "n": 31,
+    "stem": "The state of Michigan has endowed three ___ to do research for industry.",
+    "options": ["clinics", "companies", "businesses", "institutes"],
+    "answer": "D",
+    "word": "institute",
+    "meaning": "研究所，学院",
+    "explanation": "research institute 指“研究所”，与 do research 呼应；clinic 诊所、company/business 公司均不合。",
+    "stemZh": "密歇根州资助了三家研究所为工业界开展研究。"
+  },
+  {
+    "n": 32,
+    "stem": "There's been a significant ___ of time and energy in order to make the project a success.",
+    "options": ["experiment", "investment", "operation", "adventure"],
+    "answer": "B",
+    "word": "investment",
+    "meaning": "投入",
+    "explanation": "investment of time and energy 指“时间和精力的投入”；experiment 实验、operation 操作、adventure 冒险均不合。",
+    "stemZh": "为使项目成功，投入了大量的时间和精力。"
+  },
+  {
+    "n": 33,
+    "stem": "The United States wants to eliminate tariffs on ___ such as electronics.",
+    "options": ["items", "units", "aspects", "issues"],
+    "answer": "A",
+    "word": "item",
+    "meaning": "物品，项目",
+    "explanation": "items such as electronics 指“电子产品等物品”；unit 单位、aspect 方面、issue 问题均不合。",
+    "stemZh": "美国希望取消电子产品等商品的关税。"
+  },
+  {
+    "n": 34,
+    "stem": "A new online medical ___ devoted to neglected tropical diseases was founded last week.",
+    "options": ["tabloid", "journal", "diary", "manual"],
+    "answer": "B",
+    "word": "journal",
+    "meaning": "期刊，杂志",
+    "explanation": "medical journal 指“医学期刊”；tabloid 通俗小报、diary 日记、manual 手册均不合。",
+    "stemZh": "上周创办了一份新的在线医学期刊，专门关注被忽视的热带疾病。"
+  },
+  {
+    "n": 35,
+    "stem": "A leak in the pipeline was discovered during routine ___ and inspection work.",
+    "options": ["provision", "precaution", "perseverance", "maintenance"],
+    "answer": "D",
+    "word": "maintenance",
+    "meaning": "维护，保养",
+    "explanation": "routine maintenance 是行业术语“日常维护”，与 inspection 并列；provision 提供、precaution 预防、perseverance 坚持均不合。",
+    "stemZh": "管道泄漏是在日常维护和检查工作中发现的。"
+  },
+  {
+    "n": 36,
+    "stem": "The prison service should try to rehabilitate prisoners so that they can lead ___ lives when they leave prison.",
+    "options": ["habitual", "normal", "ordinary", "typical"],
+    "answer": "B",
+    "word": "normal",
+    "meaning": "正常的",
+    "explanation": "lead a normal life 指“过正常生活”，与 rehabilitate 呼应；habitual 习惯性的、ordinary 平凡的、typical 典型的均不合。",
+    "stemZh": "监狱管理部门应努力改造囚犯，使他们出狱后能过上正常生活。"
+  },
+  {
+    "n": 37,
+    "stem": "In the second experiment they ___ a very clear result.",
+    "options": ["realized", "obtained", "contained", "rewarded"],
+    "answer": "B",
+    "word": "obtain",
+    "meaning": "获得，得到",
+    "explanation": "obtain a result 是正式搭配“得到结果”；realize 意识到或实现、contain 包含、reward 奖励均不合。",
+    "stemZh": "在第二个实验中，他们得到了非常明确的结果。"
+  },
+  {
+    "n": 38,
+    "stem": "Staff ___ in professional conferences is encouraged by the management.",
+    "options": ["alienation", "opposition", "discrimination", "participation"],
+    "answer": "D",
+    "word": "participation",
+    "meaning": "参与",
+    "explanation": "encouraged by management 提示空白处应为正面行为，participation in“参与”最合；alienation 疏远、opposition 反对、discrimination 歧视均为负面。",
+    "stemZh": "管理层鼓励员工参加专业会议。"
+  },
+  {
+    "n": 39,
+    "stem": "Artificial intelligence is ___ to be a threat to employment.",
+    "options": ["estimated", "resumed", "received", "perceived"],
+    "answer": "D",
+    "word": "perceive",
+    "meaning": "认为，视为",
+    "explanation": "be perceived to be 是正式表达“被认为”；estimate 多指估算数值，resume 恢复，receive 接收，均不合。",
+    "stemZh": "人工智能被视为对就业的威胁。"
+  },
+  {
+    "n": 40,
+    "stem": "Some Wall Street analysts described the management shakeup as a timely and ___ step toward restoring the company's credibility.",
+    "options": ["respective", "positive", "objective", "destructive"],
+    "answer": "B",
+    "word": "positive",
+    "meaning": "积极的，正面的",
+    "explanation": "与 timely 并列，需要褒义词，positive step 指“积极的一步”；respective 各自的、objective 客观的、destructive 破坏性的均不合。",
+    "stemZh": "一些华尔街分析师称此次管理层改组是恢复公司信誉的及时而积极的一步。"
+  },
+  {
+    "n": 41,
+    "stem": "We estimate the ___ market for the new phones to be around one million people in this country alone.",
+    "options": ["likely", "capable", "potential", "probable"],
+    "answer": "C",
+    "word": "potential",
+    "meaning": "潜在的",
+    "explanation": "potential market 是常见术语“潜在市场”；likely/probable 可能的、capable 有能力的均不与 market 搭配。",
+    "stemZh": "我们估计仅在这个国家，新手机的潜在市场就有约一百万人。"
+  },
+  {
+    "n": 42,
+    "stem": "It was mentioned in the ___ chapter that an awareness of the marketing environment has become a key element in the \"modern-day\" approach to marketing.",
+    "options": ["earlier", "before", "front", "previous"],
+    "answer": "D",
+    "word": "previous",
+    "meaning": "前面的，先前的",
+    "explanation": "the previous chapter 指“前一章”；earlier 多作状语，before 是介词或副词，front 指前面位置，均不如 previous 贴切。",
+    "stemZh": "前面一章提到，对营销环境的认识已成为“现代”营销方法的关键要素。"
+  },
+  {
+    "n": 43,
+    "stem": "The Red Cross's ___ concern is to preserve and protect human life.",
+    "options": ["primary", "necessary", "elemental", "distinctive"],
+    "answer": "A",
+    "word": "primary",
+    "meaning": "首要的，主要的",
+    "explanation": "primary concern 是固定搭配“首要关注”；necessary 必要的、elemental 基本的、distinctive 独特的均不合。",
+    "stemZh": "红十字会的首要关注是维护和保护人的生命。"
+  },
+  {
+    "n": 44,
+    "stem": "Except under clearly defined circumstances, it is illegal in Britain for a company to ___ its own shares.",
+    "options": ["invest", "purchase", "exchange", "communicate"],
+    "answer": "B",
+    "word": "purchase",
+    "meaning": "购买",
+    "explanation": "purchase shares 指“购买股票”；invest 投资常用 invest in，exchange 交换、communicate 沟通均不合。",
+    "stemZh": "除非在明确界定的情况下，英国公司购买自己的股票是违法的。"
+  },
+  {
+    "n": 45,
+    "stem": "Several opponents have recently emerged, ___ from rival tech giants such as Microsoft and Amazon to small bodies representing authors and publishers across the world.",
+    "options": ["ranging", "extending", "stretching", "enlarging"],
+    "answer": "A",
+    "word": "range",
+    "meaning": "范围从……到……",
+    "explanation": "range from A to B 是固定搭配“从 A 到 B 不等”；extend 延伸、stretch 伸展、enlarge 扩大均不接 from...to... 表范围。",
+    "stemZh": "最近出现了一些反对者，既有微软和亚马逊等竞争对手科技巨头，也有代表全球作家和出版商的小型机构。"
+  },
+  {
+    "n": 46,
+    "stem": "Coastal ___ of the country have much better infrastructure and many more Internet users than others.",
+    "options": ["lands", "sectors", "regions", "districts"],
+    "answer": "C",
+    "word": "region",
+    "meaning": "地区，区域",
+    "explanation": "coastal region 指“沿海地区”；land 指陆地，sector 多指行业部门，district 多指行政区。",
+    "stemZh": "该国沿海地区的基础设施和互联网用户数量都远优于其他地区。"
+  },
+  {
+    "n": 47,
+    "stem": "Safety ___ are being ignored by company managers in the drive to increase profits.",
+    "options": ["regulations", "allocations", "obligation", "participation"],
+    "answer": "A",
+    "word": "regulation",
+    "meaning": "规章，法规",
+    "explanation": "safety regulations 指“安全规章”；allocation 分配、obligation 义务、participation 参与均不合。",
+    "stemZh": "在追求利润的过程中，公司管理者忽视了安全规章。"
+  },
+  {
+    "n": 48,
+    "stem": "The scientist corresponds with colleagues in order to learn about matters ___ to her own research.",
+    "options": ["consistent", "relevant", "connected", "agreeable"],
+    "answer": "B",
+    "word": "relevant",
+    "meaning": "相关的",
+    "explanation": "relevant to 是固定搭配“与……相关”；consistent 后接 with，connected 后接 with，agreeable 后接 to 但意为“同意”。",
+    "stemZh": "这位科学家与同事通信，以了解与她自己的研究相关的事项。"
+  },
+  {
+    "n": 49,
+    "stem": "He entered the United States in 1988 as a permanent ___ because of his marriage to a U.S. citizen.",
+    "options": ["citizen", "inhabitant", "resident", "client"],
+    "answer": "C",
+    "word": "resident",
+    "meaning": "居民",
+    "explanation": "permanent resident 是固定说法“永久居民”；citizen 公民、inhabitant 居住者、client 客户均不与 permanent 搭配。",
+    "stemZh": "由于与美国公民结婚，他于1988年以永久居民身份进入美国。"
+  },
+  {
+    "n": 50,
+    "stem": "The earth has limited ___, and if we do not recycle them we will use them up.",
+    "options": ["substances", "properties", "materials", "resources"],
+    "answer": "D",
+    "word": "resource",
+    "meaning": "资源",
+    "explanation": "limited resources 指“有限的资源”，与 recycle 和 use up 呼应；substance 物质、property 财产或属性、material 材料均不如 resources 全面。",
+    "stemZh": "地球的资源有限，如果我们不回收利用，就会把它们耗尽。"
+  },
+  {
+    "n": 51,
+    "stem": "Wellington Barracks is a ___ area and anyone who enters should have identification.",
+    "options": ["limited", "restricted", "qualified", "defined"],
+    "answer": "B",
+    "word": "restricted",
+    "meaning": "受限制的",
+    "explanation": "restricted area 指“限制区域/禁区”，与查验证件呼应；limited 有限的、qualified 有资格的、defined 明确的均不合。",
+    "stemZh": "惠灵顿兵营是一个限制区域，任何进入的人都应携带身份证明。"
+  },
+  {
+    "n": 52,
+    "stem": "The bank has taken additional ___ measures to ensure accounts are protected.",
+    "options": ["security", "capability", "necessity", "conformity"],
+    "answer": "A",
+    "word": "security",
+    "meaning": "安全",
+    "explanation": "security measures 是固定搭配“安全措施”；capability 能力、necessity 必要性、conformity 遵从均不合。",
+    "stemZh": "银行采取了额外的安全措施以确保账户受到保护。"
+  },
+  {
+    "n": 53,
+    "stem": "The mathematics of physics should be explored, but new mathematical, statistical, and qualitative methodologies should also be ___.",
+    "options": ["thought", "fought", "sought", "brought"],
+    "answer": "C",
+    "word": "seek",
+    "meaning": "寻求，探索",
+    "explanation": "seek 的过去分词 sought，与 explore 呼应，表示“寻求新方法”；thought 思考、fought 斗争、brought 带来均不合。",
+    "stemZh": "物理学的数学方法应予探索，但也应寻求新的数学、统计和定性方法。"
+  },
+  {
+    "n": 54,
+    "stem": "The bank has just been ___ as the preferred bidder for Brussels International Airport.",
+    "options": ["selected", "related", "adopted", "realized"],
+    "answer": "A",
+    "word": "select",
+    "meaning": "选择，挑选",
+    "explanation": "be selected as 指“被选为”，与 preferred bidder 呼应；relate 关联、adopt 采纳、realize 实现均不合。",
+    "stemZh": "该银行刚刚被选为布鲁塞尔国际机场的首选投标人。"
+  },
+  {
+    "n": 55,
+    "stem": "They're planning to develop the whole ___ into a shopping complex.",
+    "options": ["land", "site", "scene", "ground"],
+    "answer": "B",
+    "word": "site",
+    "meaning": "场地，场址",
+    "explanation": "develop the site into... 指“把该场地开发成……”；land 范围过大，scene 指现场，ground 指地面。",
+    "stemZh": "他们计划把整个场地开发成一个购物中心。"
+  },
+  {
+    "n": 56,
+    "stem": "Their marketing ___ for the product involves obtaining as much free publicity as possible.",
+    "options": ["strategy", "method", "technique", "competence"],
+    "answer": "A",
+    "word": "strategy",
+    "meaning": "策略",
+    "explanation": "marketing strategy 是常见术语“营销策略”；method 方法、technique 技巧、competence 能力均不如 strategy 贴合整体规划。",
+    "stemZh": "他们为该产品制定的营销策略包括尽可能获得更多免费宣传。"
+  },
+  {
+    "n": 57,
+    "stem": "We are conducting a/an ___ to find out what our customers think of their local bus service.",
+    "options": ["license", "survey", "expectation", "impression"],
+    "answer": "B",
+    "word": "survey",
+    "meaning": "调查",
+    "explanation": "conduct a survey 是固定搭配“开展调查”；license 许可证、expectation 期望、impression 印象均不能与 conduct 搭配。",
+    "stemZh": "我们正在进行一项调查，以了解顾客对当地公交服务的看法。"
+  },
+  {
+    "n": 58,
+    "stem": "The machine can recognize handwritten characters and turn them into printed ___.",
+    "options": ["text", "paper", "essay", "chapter"],
+    "answer": "A",
+    "word": "text",
+    "meaning": "文本",
+    "explanation": "printed text 指“印刷文本”，与 handwritten characters 对应；paper 纸张、essay 文章、chapter 章节均不合。",
+    "stemZh": "这台机器能识别手写字符并将其转换为印刷文本。"
+  },
+  {
+    "n": 59,
+    "stem": "The biggest problem with ___ print textbooks is that they cost hundreds of dollars every semester.",
+    "options": ["historical", "customary", "traditional", "ancient"],
+    "answer": "C",
+    "word": "traditional",
+    "meaning": "传统的",
+    "explanation": "traditional print textbooks 指“传统纸质教材”；historical 历史的、customary 习惯的、ancient 古代的均不合。",
+    "stemZh": "传统纸质教科书的最大问题是每学期要花费数百美元。"
+  },
+  {
+    "n": 60,
+    "stem": "There will be a ___ of capital and technology from this country to Mongolia.",
+    "options": ["transport", "transfer", "transition", "translation"],
+    "answer": "B",
+    "word": "transfer",
+    "meaning": "转移，转让",
+    "explanation": "transfer of capital and technology 指“资金与技术转移”；transport 运输、transition 过渡、translation 翻译均不合。",
+    "stemZh": "将会有资金和技术从这个国家转移到蒙古。"
+  }
+]

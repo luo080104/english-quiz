@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "stem": "The State currently uses small electronic message boards to control traffic speeds and advise drivers of ___ routes around the Forth Road Bridge.",
+    "options": ["another", "alternative", "available", "alternate"],
+    "answer": "B",
+    "word": "alternative",
+    "meaning": "替代的，备选的",
+    "explanation": "alternative routes 指“备用/替代路线”；another 后接单数可数名词，不能与复数 routes 搭配，available“可用的”语义不符，alternate 作形容词多指“轮流的、间隔的”。",
+    "stemZh": "该州目前使用小型电子留言板来控制车速，并告知司机绕行福斯公路桥的替代路线。"
+  },
+  {
+    "n": 2,
+    "stem": "Cases are infrequent, tending to occur in ___ which evoke compassion rather than condemnation.",
+    "options": ["circles", "subsequences", "consequences", "circumstances"],
+    "answer": "D",
+    "word": "circumstances",
+    "meaning": "情况，境况",
+    "explanation": "in circumstances 是固定搭配，指“在某些情形下”；consequence 侧重“后果”，subsequence 指“后继”，circle 指“圈子”，均不能自然描述“引发同情”的处境。",
+    "stemZh": "这类案例并不常见，往往出现在令人同情而非谴责的境况中。"
+  },
+  {
+    "n": 3,
+    "stem": "Comments ___ John's mathematical development from other teachers made no reference to his strength in spatial skills.",
+    "options": ["from", "by", "on", "at"],
+    "answer": "C",
+    "word": "on",
+    "meaning": "关于",
+    "explanation": "comment on sth 是固定搭配，表示“对……发表评论”；此处 Comments on John's development 作主语中心。",
+    "stemZh": "其他老师对约翰数学发展的评论没有提及他在空间技能方面的优势。"
+  },
+  {
+    "n": 4,
+    "stem": "Those operations across the Channel can pose quite complicated legal problems concerning matters of ___ for loss of life, injury and damage to property.",
+    "options": ["pressure", "compensation", "payment", "amendment"],
+    "answer": "B",
+    "word": "compensation",
+    "meaning": "赔偿，补偿",
+    "explanation": "compensation for loss of life 指“对生命损失的赔偿”；payment 只指付款行为，pressure/amendment 与赔偿语境无关。",
+    "stemZh": "英吉利海峡对岸的那些行动可能引发相当复杂的法律问题，涉及对人员伤亡和财产损失的赔偿事宜。"
+  },
+  {
+    "n": 5,
+    "stem": "The addition of extra hardware boards or ___ in the computer can, with suitable software, provide such thing as fast floating-point.",
+    "options": ["elements", "components", "substances", "particles"],
+    "answer": "B",
+    "word": "components",
+    "meaning": "组件，部件",
+    "explanation": "hardware components 指“硬件组件”，与 boards 并列；element 泛指要素，substance 指物质，particle 指微粒。",
+    "stemZh": "在计算机中增加额外的硬件板卡或组件，配以合适的软件，就能提供快速浮点运算之类的能力。"
+  },
+  {
+    "n": 6,
+    "stem": "Testing patients without their ___ would constitute a professional and legal offence.",
+    "options": ["consent", "content", "presence", "commitment"],
+    "answer": "A",
+    "word": "consent",
+    "meaning": "同意，许可",
+    "explanation": "without one's consent 指“未经本人同意”；content 意为“内容”，presence 指“在场”，commitment 指“承诺”。",
+    "stemZh": "未经患者同意就对其进行检测，会构成职业和法律上的违规行为。"
+  },
+  {
+    "n": 7,
+    "stem": "The body and mind are closely linked and can exert ___ influence over one another.",
+    "options": ["generate", "general", "considerable", "considerate"],
+    "answer": "C",
+    "word": "considerable",
+    "meaning": "相当大的",
+    "explanation": "considerable influence 指“相当大的影响”；generate 是动词不能修饰名词，general 指“普遍的”，considerate 指“体贴的”。",
+    "stemZh": "身体与心灵紧密相连，能够对彼此产生相当大的影响。"
+  },
+  {
+    "n": 8,
+    "stem": "We consider a first order language with a wide range of ___, a set of variables, a set of predicate names and no function symbols.",
+    "options": ["contrasts", "constants", "maintenances", "contents"],
+    "answer": "B",
+    "word": "constants",
+    "meaning": "常量",
+    "explanation": "constants 与 variables（变量）相对，指逻辑语言中的“常量”；contrast 对比、maintenance 维护、content 内容均不合。",
+    "stemZh": "我们考虑一种一阶语言，它包含大量常量、一组变量、一组谓词名称，且不含函数符号。"
+  },
+  {
+    "n": 9,
+    "stem": "While the system has a gold standard in quality for apprenticeships, this can impose ___ that make/makes it harder to adapt to new digital industries.",
+    "options": ["control", "hardship", "constraints", "problems"],
+    "answer": "C",
+    "word": "constraints",
+    "meaning": "限制，约束",
+    "explanation": "impose constraints 是固定搭配，表示“施加限制”；impose 常与 constraint/restriction 搭配，control 较少作 impose 的宾语，hardship/problems 也不合该搭配。",
+    "stemZh": "尽管该体系在学徒制质量方面具有黄金标准，但这可能施加种种限制，使其更难适应新的数字产业。"
+  },
+  {
+    "n": 10,
+    "stem": "The paper examines the ___ that gender roles and identities make to the overall configuration of resources available to particular individuals.",
+    "options": ["distribution", "contribution", "cooperation", "collaboration"],
+    "answer": "B",
+    "word": "contribution",
+    "meaning": "贡献",
+    "explanation": "make a contribution to 是固定搭配，表示“对……作出贡献”；distribution 分配、cooperation/collaboration 合作，均不能与 make ... to 构成此义。",
+    "stemZh": "本文考察性别角色与身份对特定个体可获得的资源总体配置所作出的贡献。"
+  },
+  {
+    "n": 11,
+    "stem": "Throughout the paper we adopt the following naming ___.",
+    "options": ["conclusions", "conditions", "conventions", "contradictions"],
+    "answer": "C",
+    "word": "conventions",
+    "meaning": "惯例，约定",
+    "explanation": "naming convention 是固定表达，指“命名约定/命名规范”；conclusion 结论、condition 条件、contradiction 矛盾均不合。",
+    "stemZh": "在整篇论文中，我们采用以下命名约定。"
+  },
+  {
+    "n": 12,
+    "stem": "Rather than being regarded as a ubiquitous characteristic of other approaches, this article focuses on ___ between relevant factors as the foundation of an improved approach.",
+    "options": ["coordination", "conduction", "corporation", "production"],
+    "answer": "A",
+    "word": "coordination",
+    "meaning": "协调",
+    "explanation": "coordination between factors 指“各相关因素之间的协调”；conduction 传导、corporation 公司、production 生产，均不合语境。",
+    "stemZh": "本文并不把它视为其他方法普遍具有的特征，而是聚焦相关因素之间的协调，将其作为改进方法的基础。"
+  },
+  {
+    "n": 13,
+    "stem": "The ___ is a sample of rock which allows geologists to examine the strata in proper sequence and thickness.",
+    "options": ["heart", "core", "point", "center"],
+    "answer": "B",
+    "word": "core",
+    "meaning": "核心；（地质）岩芯",
+    "explanation": "core 在地质学中特指“岩芯”，正是供地质学家研究地层顺序与厚度的岩石样本；heart/center 只表“中心”，point 指“点”。",
+    "stemZh": "岩芯是一份岩石样本，使地质学家能够按顺序和厚度考察地层。"
+  },
+  {
+    "n": 14,
+    "stem": "Analysis are expecting share prices to fall in the first quarter of next year because of poor ___ earnings.",
+    "options": ["income", "selling", "corporate", "revenue"],
+    "answer": "C",
+    "word": "corporate",
+    "meaning": "公司的，企业的",
+    "explanation": "corporate earnings 指“企业盈利”，是商业领域的固定说法；income 泛指收入，selling 指销售，revenue 指营收，均不如 corporate earnings 贴合。",
+    "stemZh": "分析师预计，由于企业盈利不佳，明年第一季度股价将下跌。"
+  },
+  {
+    "n": 15,
+    "stem": "To clarify this analysis, income was up compared to that of the ___ period last year.",
+    "options": ["similar", "corresponding", "following", "previous"],
+    "answer": "B",
+    "word": "corresponding",
+    "meaning": "相应的，同期的",
+    "explanation": "corresponding period 是经济学术语，指“同期”；similar 相似、following 随后、previous 上一个，均不构成“同期”之意。",
+    "stemZh": "为说明这一分析，收入与去年同期相比有所上升。"
+  },
+  {
+    "n": 16,
+    "stem": "Researchers set out some simple ___ and began their enormous task.",
+    "options": ["steps", "guidance", "criteria", "moves"],
+    "answer": "C",
+    "word": "criteria",
+    "meaning": "标准，准则",
+    "explanation": "set out criteria 表示“制定标准”；criteria 是 criterion 的复数，与 set out 搭配；guidance 不可数，steps/moves 与“制定”搭配不自然。",
+    "stemZh": "研究人员制定了一些简单的标准，随后开始了他们庞大的任务。"
+  },
+  {
+    "n": 17,
+    "stem": "New tax regulations would cut the ___ for business lunches.",
+    "options": ["induction", "deduction", "introduction", "production"],
+    "answer": "B",
+    "word": "deduction",
+    "meaning": "扣除，减免",
+    "explanation": "tax deduction 指“税收扣除/减免”，与税务语境相符；induction 归纳、introduction 引入、production 生产均不合。",
+    "stemZh": "新的税收法规将削减商务午餐的税前扣除额度。"
+  },
+  {
+    "n": 18,
+    "stem": "Perhaps this is not surprising, given the differences in simulation methods and parameters used, but it ___ the importance of further work in this area.",
+    "options": ["displays", "exhibits", "certifies", "demonstrates"],
+    "answer": "D",
+    "word": "demonstrates",
+    "meaning": "证明，表明",
+    "explanation": "demonstrate the importance 表示“证明……的重要性”；display/exhibit 指展示，certify 指正式证明/认证，语气与搭配不如 demonstrate 自然。",
+    "stemZh": "考虑到所用模拟方法和参数的差异，这或许并不令人意外，但它恰恰证明了在该领域开展进一步工作的重要性。"
+  },
+  {
+    "n": 19,
+    "stem": "The field of molecular phylo-geography, which ___ the history of spatial isolation and geographic expansion of populations, has developed.",
+    "options": ["reports", "documents", "sketches", "keeps"],
+    "answer": "B",
+    "word": "documents",
+    "meaning": "记录，记载",
+    "explanation": "document the history 表示“记录历史”，符合学科研究语境；report 侧重报道，sketch 指概述，keep 不与 history 这样搭配。",
+    "stemZh": "分子系统地理学这一领域已发展起来，它记录种群空间隔离和地理扩张的历史。"
+  },
+  {
+    "n": 20,
+    "stem": "Gram-positive bacteria were marked as ___ species in most cases, and biodiversity was rather high.",
+    "options": ["advantageous", "prominent", "dominant", "excellent"],
+    "answer": "C",
+    "word": "dominant",
+    "meaning": "占优势的，主要的",
+    "explanation": "dominant species 是生态学固定说法，指“优势种”；advantageous 指有利的，prominent 指出众的，excellent 指优秀的，均非专业术语。",
+    "stemZh": "在多数情况下，革兰氏阳性菌被标为优势种，且生物多样性相当高。"
+  },
+  {
+    "n": 21,
+    "stem": "One of the prevailing themes of mid-century modern architecture is a nearly equal ___ on function and form.",
+    "options": ["emphasis", "contribution", "dedication", "attention"],
+    "answer": "A",
+    "word": "emphasis",
+    "meaning": "强调，重点",
+    "explanation": "emphasis on 是固定搭配，指“对……的强调”；contribution/dedication/attention 的介词均非 on，且语义不如 emphasis 贴切。",
+    "stemZh": "20 世纪中期现代建筑的主流主题之一，是对功能与形式的近乎同等的强调。"
+  },
+  {
+    "n": 22,
+    "stem": "Random assignment would ___ that all unmeasured confounding factors were equally distributed between comparison groups.",
+    "options": ["prove", "ensure", "admit", "indicate"],
+    "answer": "B",
+    "word": "ensure",
+    "meaning": "确保",
+    "explanation": "ensure that... 表示“确保……”；prove 需接事实而非 that 从句的保障义，admit 承认、indicate 表明，均不如 ensure 贴合随机分配的作用。",
+    "stemZh": "随机分配能够确保所有未测量的混杂因素在各比较组之间均匀分布。"
+  },
+  {
+    "n": 23,
+    "stem": "Messages that are considered less relevant for a query are put lower in the list or are ___ from the display.",
+    "options": ["included", "involved", "revolved", "excluded"],
+    "answer": "D",
+    "word": "excluded",
+    "meaning": "排除",
+    "explanation": "exclude from 表示“从……中排除”；include 与句意相反，involve 指涉及，revolve 指旋转。",
+    "stemZh": "与查询相关性较低的信息会被排在列表更靠后的位置，或被从显示中排除。"
+  },
+  {
+    "n": 24,
+    "stem": "Our best chance of preventing such devastating acts of terror is to act within the ___ of international law.",
+    "options": ["outline", "base", "framework", "foundation"],
+    "answer": "C",
+    "word": "framework",
+    "meaning": "框架",
+    "explanation": "within the framework of 是固定搭配，指“在……框架内”；outline 纲要、base 基础、foundation 地基/基础，均不接 within the ... of 表此义。",
+    "stemZh": "我们防止此类毁灭性恐怖行为的最佳机会，是在国际法框架内采取行动。"
+  },
+  {
+    "n": 25,
+    "stem": "The regeneration program is ___ by EU money which has been collected from those member nations.",
+    "options": ["given", "funded", "founded", "provided"],
+    "answer": "B",
+    "word": "funded",
+    "meaning": "资助",
+    "explanation": "be funded by 表示“由……资助”；found 意为“创立”，given/provided 与 by EU money 搭配不表资助。",
+    "stemZh": "这项重建计划由从那些成员国征集的欧盟资金资助。"
+  },
+  {
+    "n": 26,
+    "stem": "The next example also ___ another feature of this model which is distinctively different from the other models.",
+    "options": ["illustrates", "draws", "writes", "appoints"],
+    "answer": "A",
+    "word": "illustrates",
+    "meaning": "说明，阐明",
+    "explanation": "illustrate a feature 表示“说明某一特征”；draw 画画、write 写、appoint 任命，均不合。",
+    "stemZh": "下一个例子还说明了该模型的另一特征，这一特征与其他模型明显不同。"
+  },
+  {
+    "n": 27,
+    "stem": "According to the order of \"persons subject to ___ control\", these foreign students would have no access to local authority assistance.",
+    "options": ["military", "immigration", "finance", "education"],
+    "answer": "B",
+    "word": "immigration",
+    "meaning": "移民，入境",
+    "explanation": "immigration control 指“入境/移民管制”，与“受……管制的外国人”语境相符；military 军事、finance 财政、education 教育均不合。",
+    "stemZh": "按照“受入境管制人员”的规定顺序，这些外国学生将无法获得地方当局的援助。"
+  },
+  {
+    "n": 28,
+    "stem": "The fact that the theoretical debate has moved to a meta level ___ that archaeology is developing into an intellectual discipline.",
+    "options": ["says", "tells", "conveys", "implies"],
+    "answer": "D",
+    "word": "implies",
+    "meaning": "暗示，意味着",
+    "explanation": "imply that... 表示“暗示/意味着……”；say/tell 主语多为人，convey 侧重传达信息，imply 更贴合由事实推出的深层含义。",
+    "stemZh": "理论争论已上升到元层面这一事实，意味着考古学正在发展为一门知识学科。"
+  },
+  {
+    "n": 29,
+    "stem": "Economists had expected GDP growth to be revised upwards from last month's ___ estimate of 0.6%.",
+    "options": ["beginning", "intimate", "initial", "preparatory"],
+    "answer": "C",
+    "word": "initial",
+    "meaning": "最初的",
+    "explanation": "initial estimate 指“初步估计”；beginning 指开端，intimate 指亲密的，preparatory 指预备的，均不与 estimate 构成此义。",
+    "stemZh": "经济学家此前预计，GDP 增长将从上月 0.6% 的初步估计值向上修正。"
+  },
+  {
+    "n": 30,
+    "stem": "There were several ___ of computer failure before the system worked properly.",
+    "options": ["conditions", "stances", "instances", "samples"],
+    "answer": "C",
+    "word": "instances",
+    "meaning": "实例，事例",
+    "explanation": "instances of 表示“……的实例/事例”；condition 条件、stance 立场、sample 样本，均不如 instances 贴合“故障事例”。",
+    "stemZh": "在系统正常运行之前，曾出现过数次计算机故障。"
+  },
+  {
+    "n": 31,
+    "stem": "His research aims at understanding consciousness as a natural biological phenomenon and at fruitful ___ between philosophical and empirical research in the study of consciousness.",
+    "options": ["comparison", "communication", "interaction", "conclusion"],
+    "answer": "C",
+    "word": "interaction",
+    "meaning": "相互作用，互动",
+    "explanation": "interaction between A and B 指“A 与 B 之间的互动/相互作用”；comparison 比较、communication 交流、conclusion 结论，均不合。",
+    "stemZh": "他的研究旨在把意识理解为一种自然的生物现象，并致力于在意识研究中实现哲学研究与实证研究之间富有成果的互动。"
+  },
+  {
+    "n": 32,
+    "stem": "It also provides an additional ___ of why targeted research on the distributional benefits of agricultural research is important.",
+    "options": ["study", "survey", "calculation", "justification"],
+    "answer": "D",
+    "word": "justification",
+    "meaning": "理由，正当性",
+    "explanation": "justification of why... 指“说明……为何合理的理由”；study/survey 研究调查不能直接作“理由”，calculation 计算不合。",
+    "stemZh": "它还提供了又一个理由，说明为何针对农业研究分配效益开展定向研究十分重要。"
+  },
+  {
+    "n": 33,
+    "stem": "The case examples show that commonality potential can be realized ___ different layers of the product architecture within a product family.",
+    "options": ["in", "on", "at", "to"],
+    "answer": "B",
+    "word": "on",
+    "meaning": "在……上",
+    "explanation": "on different layers 指“在不同层面上”，layer 常与介词 on 搭配；in/at/to 与 layers 搭配均不自然。",
+    "stemZh": "案例表明，在一个产品家族内部，通用性潜力可以在产品架构的不同层面上实现。"
+  },
+  {
+    "n": 34,
+    "stem": "The inextricable ___ between health and people's human/natural environments create a basis for an ecological approach to health.",
+    "options": ["responses", "contacts", "joints", "links"],
+    "answer": "D",
+    "word": "links",
+    "meaning": "联系，关联",
+    "explanation": "links between A and B 指“A 与 B 之间的联系”；response 回应、contact 接触、joint 关节/接头，均不如 links 贴切。",
+    "stemZh": "健康与人类/自然环境之间不可分割的联系，为采取生态学的健康研究路径奠定了基础。"
+  },
+  {
+    "n": 35,
+    "stem": "The third type of operation involves feeding receivers' false ___ data, say, reporting the position of a person's cell phone a dozen or so miles from its actual position.",
+    "options": ["profession", "status", "location", "education"],
+    "answer": "C",
+    "word": "location",
+    "meaning": "位置",
+    "explanation": "location data 指“位置数据”，与后文 reporting the position 呼应；profession 职业、status 身份、education 教育均不合。",
+    "stemZh": "第三类操作涉及向接收方提供虚假的位置数据，例如报告某人手机的位置距其实际位置约有十几英里。"
+  },
+  {
+    "n": 36,
+    "stem": "The ___ load for this elevator is eight persons for the sake of safety and cost-efficiency.",
+    "options": ["minimum", "maximum", "increased", "decreased"],
+    "answer": "B",
+    "word": "maximum",
+    "meaning": "最大的",
+    "explanation": "maximum load 指“最大载重”；由“八人”这一上限可知应选 maximum，minimum 意为最小，increased/decreased 指增减。",
+    "stemZh": "出于安全和成本效益的考虑，这部电梯的最大载重为八人。"
+  },
+  {
+    "n": 37,
+    "stem": "___ refers to a group of people who share some characteristic by birth that makes their group smaller than some other groups in a society and may cause others to treat them unfairly.",
+    "options": ["Minimum", "Maximum", "Majority", "Minority"],
+    "answer": "D",
+    "word": "Minority",
+    "meaning": "少数群体",
+    "explanation": "minority 指“少数群体”，与定义中“人数较少、可能受不公平对待”相符；majority 指多数，minimum/maximum 指最小/最大值。",
+    "stemZh": "少数群体指这样一群人：他们因某种与生俱来的特征而人数少于社会中的其他群体，并可能因此受到他人不公平对待。"
+  },
+  {
+    "n": 38,
+    "stem": "A/An ___ charge or current has the same electrical charge as an electron.",
+    "options": ["passive", "active", "negative", "affirmative"],
+    "answer": "C",
+    "word": "negative",
+    "meaning": "负的",
+    "explanation": "negative charge 指“负电荷”，与电子的电荷性质一致；passive 被动、active 主动、affirmative 肯定，均非电学术语。",
+    "stemZh": "负电荷或负电流所带的电荷与电子相同。"
+  },
+  {
+    "n": 39,
+    "stem": "All these possibilities should be weighed against the likely ___ in order to confirm the most applicable scheme.",
+    "options": ["ending", "goal", "finding", "outcome"],
+    "answer": "D",
+    "word": "outcome",
+    "meaning": "结果",
+    "explanation": "likely outcome 指“可能的结果”，与 weigh ... against（权衡）搭配自然；ending 结尾、goal 目标、finding 发现，均不如 outcome 贴切。",
+    "stemZh": "应当把所有这些可能性与可能的结果相权衡，以确定最适用的方案。"
+  },
+  {
+    "n": 40,
+    "stem": "A ___ is a company that is owned by two or more people, who share in the risks and rewards of the business.",
+    "options": ["partnership", "relationship", "merger", "league"],
+    "answer": "A",
+    "word": "partnership",
+    "meaning": "合伙企业",
+    "explanation": "partnership 指“合伙企业/合伙关系”，正合“由两人或以上共同拥有、共担风险共享收益”的定义；relationship 关系、merger 合并、league 联盟均不合。",
+    "stemZh": "合伙企业是由两个或更多人共同拥有的公司，他们共担经营风险、共享经营收益。"
+  },
+  {
+    "n": 41,
+    "stem": "___ refers to theory or logical analysis of the principles underlying conduct, thought, knowledge, and the nature of the universe.",
+    "options": ["physiology", "psychology", "biology", "philosophy"],
+    "answer": "D",
+    "word": "philosophy",
+    "meaning": "哲学",
+    "explanation": "philosophy 指“哲学”，与“行为、思想、知识及宇宙本质之原理的理论或逻辑分析”相符；physiology 生理学、psychology 心理学、biology 生物学均不合。",
+    "stemZh": "哲学指的是对行为、思想、知识以及宇宙本质背后原理所作的理论或逻辑分析。"
+  },
+  {
+    "n": 42,
+    "stem": "The program led by a group of scientists at home and abroad is designed to address both ___ and emotional health.",
+    "options": ["physical", "body", "mental", "psychological"],
+    "answer": "A",
+    "word": "physical",
+    "meaning": "身体的",
+    "explanation": "physical and emotional health 指“身体健康与情绪健康”，是常见搭配；body 是名词不能修饰 health，mental/psychological 与 emotional 语义重复。",
+    "stemZh": "由国内外一批科学家主导的这一项目，旨在同时解决身体健康与情绪健康问题。"
+  },
+  {
+    "n": 43,
+    "stem": "As shown in the graph above, the size of the window seems out of ___ to the height of the wall.",
+    "options": ["width", "place", "position", "proportion"],
+    "answer": "D",
+    "word": "proportion",
+    "meaning": "比例",
+    "explanation": "out of proportion to 是固定搭配，指“与……不成比例/不相称”；width 宽度、place 地方、position 位置，均不构成此搭配。",
+    "stemZh": "如上图所示，窗户的尺寸似乎与墙的高度不成比例。"
+  },
+  {
+    "n": 44,
+    "stem": "Last week the government ___ statistics suggesting that pupils attending the colleges performed less well than expected at the previous report.",
+    "options": ["rendered", "denied", "removed", "published"],
+    "answer": "D",
+    "word": "published",
+    "meaning": "发表，公布",
+    "explanation": "publish statistics 指“公布统计数据”；render 使成为/提供，deny 否认，remove 移除，均不合。",
+    "stemZh": "上周，政府公布了统计数据，显示就读这些学院的学生表现不如上一次报告所预期的那么好。"
+  },
+  {
+    "n": 45,
+    "stem": "After century-long scientific study, scientists realize that ozone is produced by the ___ between oxygen and ultra-violet light.",
+    "options": ["connection", "response", "reaction", "action"],
+    "answer": "C",
+    "word": "reaction",
+    "meaning": "反应",
+    "explanation": "reaction between A and B 指“A 与 B 之间的反应”，此处指臭氧的生成反应；connection 连接、response 回应、action 行动均不合。",
+    "stemZh": "经过长达一个世纪的科学研究，科学家们认识到臭氧是由氧气与紫外线之间的反应产生的。"
+  },
+  {
+    "n": 46,
+    "stem": "Many students ___ for these courses to widen skills for use in their current jobs.",
+    "options": ["register", "resign", "assign", "involve"],
+    "answer": "A",
+    "word": "register",
+    "meaning": "注册，报名",
+    "explanation": "register for courses 是固定表达，指“课程注册/报名”；resign 辞职、assign 分配、involve 涉及，均不合。",
+    "stemZh": "许多学生报名参加这些课程，以拓宽可用于当前工作的技能。"
+  },
+  {
+    "n": 47,
+    "stem": "Manufacturers said that an increased reliance ___ imports of liquefied natural gas would result in more volatile (波动的) prices.",
+    "options": ["against", "on", "to", "with"],
+    "answer": "B",
+    "word": "on",
+    "meaning": "依赖",
+    "explanation": "reliance on 是固定搭配，表示“对……的依赖”；其余介词均不与 reliance 构成此义。",
+    "stemZh": "制造商表示，对进口液化天然气依赖的加剧将导致价格更加波动。"
+  },
+  {
+    "n": 48,
+    "stem": "This treatment ___ the most stubborn stains by soaking in a mild solution of bleach.",
+    "options": ["reduces", "moves", "removes", "prevents"],
+    "answer": "C",
+    "word": "removes",
+    "meaning": "去除",
+    "explanation": "remove stains 指“去除污渍”；reduce 减少、move 移动、prevent 阻止，均不如 removes 贴切。",
+    "stemZh": "这种处理方法通过浸泡在温和的漂白剂溶液中来去除最顽固的污渍。"
+  },
+  {
+    "n": 49,
+    "stem": "Measures to speed up the planning process for ___ between schools and industry will be welcomed by both parties.",
+    "options": ["schemes", "procedures", "schedules", "connection"],
+    "answer": "A",
+    "word": "schemes",
+    "meaning": "方案，计划",
+    "explanation": "scheme 指“方案、计划”，与 planning process for ... 搭配；procedure 程序、schedule 时间表、connection 联系，均不合。",
+    "stemZh": "加快校企合作方案规划进程的措施将受到双方的欢迎。"
+  },
+  {
+    "n": 50,
+    "stem": "The technique offers a means of ___ the human genome much more quickly.",
+    "options": ["ordering", "sequencing", "describing", "depicting"],
+    "answer": "B",
+    "word": "sequencing",
+    "meaning": "测序",
+    "explanation": "sequence the human genome 是生物学术语，指“对人类基因组测序”；order 排序、describe 描述、depict 描绘，均非专业说法。",
+    "stemZh": "这项技术提供了一种更快速地对人类基因组测序的方法。"
+  },
+  {
+    "n": 51,
+    "stem": "___ is defined as either of the two major forms of individuals that occur in many species and that are distinguished respectively as female or male especially on the basis of their reproductive organs and structures.",
+    "options": ["Human", "Sight", "Sense", "Sex"],
+    "answer": "D",
+    "word": "Sex",
+    "meaning": "性别",
+    "explanation": "sex 指“性别”，与定义中按生殖器官区分为雌雄相符；human 人类、sight 视觉、sense 感觉，均不合。",
+    "stemZh": "性别被定义为许多物种中个体存在的两种主要形态之一，主要依据其生殖器官和结构分别区分为雌性或雄性。"
+  },
+  {
+    "n": 52,
+    "stem": "In Physics, a ___ is a change in the observed frequency of a wave, as of light or sound.",
+    "options": ["move", "movement", "shift", "transfer"],
+    "answer": "C",
+    "word": "shift",
+    "meaning": "频移",
+    "explanation": "shift 在物理学中指“频移”，即观测到的波频变化；move/movement 指移动，transfer 指转移，均非术语。",
+    "stemZh": "在物理学中，频移指观测到的波（如光波或声波）频率的变化。"
+  },
+  {
+    "n": 53,
+    "stem": "As is known to all the students, the regulations ___ that calculators may not be used in the examination.",
+    "options": ["specify", "suggest", "request", "remind"],
+    "answer": "A",
+    "word": "specify",
+    "meaning": "明确规定",
+    "explanation": "specify that... 指“明确规定……”；suggest 暗示、request 请求、remind 提醒，均不如 specify 符合规章的正式语气。",
+    "stemZh": "所有学生都知道，规章明确规定考试中不得使用计算器。"
+  },
+  {
+    "n": 54,
+    "stem": "An original paper should not include an extensive review of the literature, but only ___ references to indicate the purpose and relevance of the investigation.",
+    "options": ["efficient", "sufficient", "deficient", "abundant"],
+    "answer": "B",
+    "word": "sufficient",
+    "meaning": "充足的",
+    "explanation": "sufficient references 指“足够的参考文献”；efficient 高效的、deficient 不足的、abundant 大量的，均与“只需足量”之意不符。",
+    "stemZh": "原创论文不应包含大量文献综述，而只需列出足够的参考文献，以说明研究的目的和相关性。"
+  },
+  {
+    "n": 55,
+    "stem": "Fragmentation, the experience of work subdivided into a series of unconnected ___ not requiring the worker's full attention, is also a common experience.",
+    "options": ["parts", "bits", "steps", "tasks"],
+    "answer": "D",
+    "word": "tasks",
+    "meaning": "任务",
+    "explanation": "task 指“任务”，与“工作被拆分成若干互不相关的任务”相符；part/bit 只指部分，step 指步骤，与 a series of 搭配不如 tasks。",
+    "stemZh": "碎片化——工作被拆分成一系列互不相关、无需工人全神贯注的任务——也是一种常见的体验。"
+  },
+  {
+    "n": 56,
+    "stem": "Beyond the time used to discuss ___ issues like arrangements of the project, these meetings included time for members to build personal relationships and contacts.",
+    "options": ["rhetorical", "technical", "skillful", "resourceful"],
+    "answer": "B",
+    "word": "technical",
+    "meaning": "技术的",
+    "explanation": "technical issues 指“技术性问题”，与项目安排等事务性内容相对；rhetorical 修辞的、skillful 熟练的、resourceful 足智多谋的，均不合。",
+    "stemZh": "除了用于讨论项目安排等技术性问题的时间之外，这些会议还留出时间让成员建立个人关系和联系。"
+  },
+  {
+    "n": 57,
+    "stem": "On the other hand, organic production ___, particularly crop rotation, can reduce risk in the longer term.",
+    "options": ["approaches", "techniques", "skills", "methods"],
+    "answer": "B",
+    "word": "techniques",
+    "meaning": "技术，方法",
+    "explanation": "technique 指具体的“技术、方法”，crop rotation（轮作）即一种农业技术；approach 侧重途径，skill 指技能，method 较泛。",
+    "stemZh": "另一方面，有机生产技术，尤其是轮作，能够从长期上降低风险。"
+  },
+  {
+    "n": 58,
+    "stem": "Dairy producers are experimenting with new ___ to reduce the cholesterol in milk.",
+    "options": ["rules", "fields", "skills", "technologies"],
+    "answer": "D",
+    "word": "technologies",
+    "meaning": "技术",
+    "explanation": "experiment with new technologies 指“试验新技术”；rule 规则、field 领域、skill 技能，均不与 experiment with 搭配表此义。",
+    "stemZh": "奶制品生产商正在试验新技术，以降低牛奶中的胆固醇。"
+  },
+  {
+    "n": 59,
+    "stem": "There is no requirement for the content provider to check the ___ of the credit card number.",
+    "options": ["effectiveness", "effect", "validity", "function"],
+    "answer": "C",
+    "word": "validity",
+    "meaning": "有效性",
+    "explanation": "validity 指“（信用卡等的）有效性”；effectiveness 侧重效果，effect 指影响，function 指功能，均不如 validity 准确。",
+    "stemZh": "并不要求内容提供方核实信用卡卡号的有效性。"
+  },
+  {
+    "n": 60,
+    "stem": "The titles of the second and the third ___ do not mention concepts such as \"decline\", \"crisis\" or \"climaterium\".",
+    "options": ["numbers", "volumes", "quantity", "quality"],
+    "answer": "B",
+    "word": "volumes",
+    "meaning": "卷，册",
+    "explanation": "volume 指书籍的“卷、册”，可受序数词 the second/third 修饰并用复数；number 指号码，quantity 数量，quality 质量，均不合。",
+    "stemZh": "第二卷和第三卷的标题都没有提到“衰退”“危机”或“更年期”之类的概念。"
+  }
+]
